@@ -28,10 +28,30 @@ baseurl: "/jessicas-playground" # the subpath of your site, e.g. /blog
 url: "https://github.com/jessicaliang721" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jessicaliang721
+collections:
+  authors:
+    output: true
 
-# Build settings
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+  # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
 
 # Exclude from processing.

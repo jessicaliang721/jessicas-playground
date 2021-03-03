@@ -1,3 +1,65 @@
 ---
 ---
-@import "main";
+@import 'bootstrap/bootstrap';
+
+// colors
+$sea-foam-green: #BADCD6;
+$coral-pink: #F5AFA6;
+
+$hero-image-max-width: 350px;
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.hero-img {
+  max-width: 100%;
+  padding: 50px;
+}
+
+.hero-title {
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 60px;
+  text-align: right;
+}
+
+.hero-subtitle {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 90px;
+  text-align: right;
+}
+
+.top-left {
+  rect {
+    fill: $sea-foam-green;
+  }
+}
+
+.behind-right {
+  width: $hero-image-max-width * .75;
+  height: $hero-image-max-width * .5;
+  z-index: -1;
+  rect {
+    fill: $coral-pink;
+    width: $hero-image-max-width * .75;
+    height: $hero-image-max-width * .5;
+  }
+}
+
+.bottom-right {
+  float: right;
+  rect {
+    fill: $sea-foam-green
+  }
+}
+
+.tagline {
+  text-align: right;
+}
+
+@include media-breakpoint-up(lg) {
+  .hero-img {
+    max-width: $hero-image-max-width;
+    padding: 20px;
+  }
+}
