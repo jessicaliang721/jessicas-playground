@@ -55,7 +55,8 @@ plugins:
   - jekyll-seo-tag
 
 sass:
-  sass_dir: assets/css
+  sass_dir: _sass
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
