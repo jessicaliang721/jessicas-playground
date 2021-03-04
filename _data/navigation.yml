@@ -1,4 +1,6 @@
 - name: About
   link: /about.html
-- name: Staff
-  link: /staff.html
+- name: Fashion
+  link: /category/fashion
+- name: Beauty
+  link: /category/beauty

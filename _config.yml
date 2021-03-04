@@ -28,9 +28,12 @@ baseurl: "/jessicas-playground" # the subpath of your site, e.g. /blog
 url: "https://github.com/jessicaliang721" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jessicaliang721
+
 collections:
-  authors:
+  category:
     output: true
+    sort_by: tag
+    permalink: /:collection/:name
 
 defaults:
   - scope:
@@ -38,6 +41,11 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
   - scope:
       path: ""
       type: "posts"
@@ -53,10 +61,16 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
 
 sass:
   sass_dir: _sass
   style: compressed
+
+permalink: none
+
+paginate: 1
+paginate_path: /page:num
 
 # Exclude from processing.
 # The following items will not be processed, by default.

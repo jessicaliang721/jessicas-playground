@@ -2,41 +2,33 @@
 layout: default
 title: Home
 ---
-<!-- hero image -->
-<div class="row align-items-center">
-	<div class="col-md-6">
-		<svg width="100" height="40" class="top-left">
-			<rect width="100" height="40" />
-		</svg>
-		<div class="image-group">
-			<svg class="behind-right">
-				<rect />
-			</svg>
-			<img src="{{ '/assets/images/jh-5959_38390109956_o-2.jpg' | relative_url}}" class="hero-img" alt="Jessica">
-			<svg width="100" height="40" class="bottom-right">
-				<rect width="100" height="40" />
-			</svg>
-		</div>
-	</div>
-	<div class="col-md-6">
-		<p class="hero-title">Jessica's</p>
-		<p class="hero-subtitle">Playground</p>
-		<p class="tagline">A sandbox development and lifestyle blog</p>
+<!-- post type filter -->
+<div class="row">
+	<div class="col">
+		<span>Browse by interest:</span> {% include filter.html %}
 	</div>
 </div>
 
-<!-- post type filter -->
+
+<!-- hero image -->
+{% include hero.html %}
 
 <!-- list of all posts -->
 <div class="row">
-	<h1>Latest Posts</h1>
-
-	<ul>
-		{% for post in site.posts %}
-		<li>
-			<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-			{{ post.excerpt }}
-		</li>
+	<div class="col">
+		<h3>Latest posts by category</h3>
+		{% assign sorted_categories = site.categories | sort %}
+		{% for category in sorted_categories %}
+		<h4>{{ category[0] }}</h4>
+		<ul>
+			{% for post in category[1] %}
+			<li>
+				<a href="{{ post.url | relative_url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+			</li>
+			{% endfor %}
+		</ul>
+		{% assign prependedUrl = "/category/" %}
+		<a class="btn btn-primary" href="{{ site.baseurl }}/category/{{ category[0] }}" role="button">See more in {{ category[0] }}</a>
 		{% endfor %}
-	</ul>
+	</div>
 </div>

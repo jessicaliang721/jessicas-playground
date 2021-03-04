@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="row">
+	<div class="col">
+		<h1>All things {{ page.tag }}</h1>
+
+		{% for post in site.categories[page.tag] %}
+			<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+		{% endfor %}
+	</div>
+</div>

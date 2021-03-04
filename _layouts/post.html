@@ -8,6 +8,16 @@ layout: default
 	{% if author %}
 		- <a href="{{ author.url | relative_url }}">{{ author.name }}</a>
 	{% endif %}
+	{% if page.tags.size > 0 %}
+		<ul>
+			{% for tag in page.tags %}
+				{% capture tag_name %}{{ tag }}{% endcapture %}
+				<li>
+					{{ tag_name }}
+				</li>
+			{% endfor %}
+		</ul>
+{% endif %}
 </p>
 
 {{ content }}

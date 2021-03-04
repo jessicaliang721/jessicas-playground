@@ -3,6 +3,6 @@ layout: default
 title: About
 ---
 
-# About page
+# About Jessica
 
-This page tells you a little bit about me.
+This site is a development sandbox and brain dump of all things that interest me. Check out a few of my interests:
