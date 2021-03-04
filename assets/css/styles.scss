@@ -6,12 +6,24 @@
 
 // colors
 $sea-foam-green: #BADCD6;
+$darker-sea-foam-green: #75B8B7;
 $coral-pink: #F5AFA6;
+$dark-brown: #5A5249;
 
 $hero-image-max-width: 350px;
 
+h1, h2, h3, h4, h5, h6 {
+  color: $dark-brown;
+  font-family: 'Bebas Neue', cursive;
+}
+
 body {
   font-family: 'Lato', sans-serif;
+}
+
+.btn-primary {
+  background-color: $coral-pink;
+  border: none;
 }
 
 .hero-img {
@@ -23,12 +35,14 @@ body {
   font-family: 'Dawning of a New Day', cursive;
   font-size: 60px;
   text-align: right;
+  color: $darker-sea-foam-green;
 }
 
 .hero-subtitle {
   font-family: 'Bebas Neue', cursive;
   font-size: 90px;
   text-align: right;
+  color: $darker-sea-foam-green;
 }
 
 .top-left {

@@ -1,4 +1,0 @@
-{% assign sorted_tags = site.tags | sort %}
-{% for tag in sorted_tags %}
-	<a href="/tag/{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
-{% endfor %}
