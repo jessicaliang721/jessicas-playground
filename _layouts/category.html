@@ -4,9 +4,29 @@ layout: default
 <div class="row">
 	<div class="col">
 		<h1>All things {{ page.tag }}</h1>
-
-		{% for post in site.categories[page.tag] %}
-			<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-		{% endfor %}
+		<div class="row">
+			{% for post in site.categories[page.tag] %}
+				<div class="col-lg-2">
+					<a href="{{ post.url | relative_url }}">
+						{% if post.cover %}
+						<img class="img-thumbnail" src="{{ post.cover }}" alt="{{ post.title }}">
+						{% else %}
+						<img class="img-thumbnail" src="{{ site.baseurl }}/assets/images/category_icons/{{ post.category }}.png" alt="{{ post.title }}">
+						{% endif %}
+					</a>
+				</div>
+				<div class="col-lg-8">
+					<a href="{{ post.url | relative_url }}"><h3>{{ post.title }}</h3></a>
+					<p>{{ post.excerpt }}</p>
+					<a href="{{ post.url | relative_url }}">Read more</a>
+				</div>
+				<div class="col-lg-2">
+					<h4>{{ post.date | date_to_long_string }}</h4>
+					{% for tag in post.tags %}
+					<span class="badge rounded-pill bg-primary">{{ tag }}</span>
+					{% endfor %}
+				</div>
+			{% endfor %}
+		</div>
 	</div>
 </div>

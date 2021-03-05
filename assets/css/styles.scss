@@ -12,6 +12,7 @@ $dark-brown: #5A5249;
 
 $hero-image-max-width: 350px;
 
+// general
 h1, h2, h3, h4, h5, h6 {
   color: $dark-brown;
   font-family: 'Bebas Neue', cursive;
@@ -19,6 +20,14 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   font-family: 'Lato', sans-serif;
+  background-color: #ffffff;
+  opacity: 1;
+  background: radial-gradient(circle, transparent 20%, #ffffff 20%, #ffffff 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #ffffff 20%, #ffffff 80%, transparent 80%, transparent) 52.5px 52.5px, linear-gradient(#f7cbc4 4.2px, transparent 4.2px) 0 -2.1px, linear-gradient(90deg, #f7cbc4 4.2px, #ffffff 4.2px) -2.1px 0;
+  background-size: 105px 105px, 105px 105px, 52.5px 52.5px, 52.5px 52.5px;
+}
+
+.container {
+  background: white;
 }
 
 .btn-primary {
@@ -26,6 +35,7 @@ body {
   border: none;
 }
 
+// hero
 .hero-img {
   max-width: 100%;
   padding: 50px;
@@ -71,6 +81,24 @@ body {
 
 .tagline {
   text-align: right;
+}
+
+// Posts
+.post-body p:first-of-type:first-letter {
+  float: left;
+  font-size: 6rem;
+  line-height: 0.65;
+  margin: 0.1em 0.1em 0.2em 0;
+}
+
+.post-nav {
+  .prev {
+    float: left;
+  }
+
+  .next {
+    float: right;
+  }
 }
 
 @include media-breakpoint-up(lg) {
