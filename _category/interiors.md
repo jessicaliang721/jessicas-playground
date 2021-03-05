@@ -1,3 +1,3 @@
 ---
-tag: interiors
+slug: interiors
 ---

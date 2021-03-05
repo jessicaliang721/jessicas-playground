@@ -1,3 +1,3 @@
 ---
-tag: entertainment
+slug: entertainment
 ---

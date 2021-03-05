@@ -1,3 +1,3 @@
 ---
-tag: style
+slug: style
 ---

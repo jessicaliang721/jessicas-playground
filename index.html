@@ -10,26 +10,7 @@ title: Home
 	<div class="col">
 		<h2 class="text-center">Latest posts</h2>
 		{% for post in site.posts %}
-		<div class="row">
-			<div class="col-md-2">
-				<a href="{{ post.url | relative_url }}">
-					{% if post.cover %}
-					<img class="img-thumbnail" src="{{ post.cover }}" alt="{{ post.title }}">
-					{% else %}
-					<img class="img-thumbnail" src="{{ site.baseurl }}/assets/images/category_icons/{{ post.category }}.png" alt="{{ post.title }}">
-					{% endif %}
-				</a>
-			</div>
-			<div class="col-md-8">
-				<a href="{{ post.url | relative_url }}"><h3>{{ post.title }}</h3></a>
-				<p>{{ post.excerpt }}</p>
-				<a href="{{ post.url | relative_url }}">Read more</a>
-			</div>
-			<div class="col-md-2">
-				<h4>{{ post.date | date_to_long_string }}</h4>
-				<a href="{{ site.baseurl }}/category/{{ post.category }}">{{ post.category }}</a>
-			</div>
-		</div>
+		{% include single-post.html %}
 		{% endfor %}
 	</div>
 </div>

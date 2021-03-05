@@ -1,3 +1,3 @@
 ---
-tag: art
+slug: art
 ---

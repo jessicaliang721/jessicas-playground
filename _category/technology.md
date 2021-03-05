@@ -1,3 +1,3 @@
 ---
-tag: technology
+slug: technology
 ---

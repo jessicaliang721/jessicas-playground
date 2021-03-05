@@ -1,3 +1,3 @@
 ---
-tag: travel
+slug: travel
 ---
