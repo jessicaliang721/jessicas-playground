@@ -9,8 +9,27 @@ title: Home
 <div class="row">
 	<div class="col">
 		<h2 class="text-center">Latest posts</h2>
-		{% for post in site.posts %}
+		{% for post in paginator.posts %}
 		{% include single-post.html %}
 		{% endfor %}
+		<div class="row">
+			<div class="col">
+				<!-- Pagination links -->
+				<div class="pagination">
+					{% if paginator.previous_page %}
+					<a href="{{ paginator.previous_page_path | relative_url }}" class="previous">
+						Previous page
+					</a>
+					<a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a>
+					{% endif %}
+					<div class="current-page">{{ paginator.page }}</div>
+
+					{% if paginator.next_page %}
+					<a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a>
+					<a href="{{ paginator.next_page_path | relative_url }}" class="next">Next page</a>
+					{% endif %}
+				</div>
+			</div>
+		</div>
 	</div>
 </div>

@@ -32,7 +32,11 @@ github_username: jessicaliang721
 collections:
   category:
     output: true
-    sort_by: tag
+    sort_by: slug
+    permalink: /:collection/:name
+  tag:
+    output: true
+    sort_by: slug
     permalink: /:collection/:name
 
 defaults:
@@ -41,6 +45,11 @@ defaults:
       type: "category"
     values:
       layout: "category"
+  - scope:
+      path: ""
+      type: "tag"
+    values:
+      layout: "tag"
   - scope:
       path: ""
       type: "posts"

@@ -1,8 +1,4 @@
-<ul>
-	{% assign sorted_tags = site.tags | sort %}
-	{% for tag in sorted_tags %}
-	<li>
-		{{ tag[0] }}
-	</li>
-	{% endfor %}
-</ul>
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+	<span class="badge rounded-pill bg-primary"><a href="{{ site.baseurl }}/tag/{{ tag[0] }}">{{ tag[0] }}</a></span>
+{% endfor %}

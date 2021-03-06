@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="row">
+	<div class="col">
+		<h1>More posts related to {{ page.slug }}</h1>
+		{% for post in site.tags[page.slug] %}
+		{% include single-post.html %}
+		{% endfor %}
+	</div>
+</div>
