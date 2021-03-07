@@ -7,6 +7,8 @@ cover: https://images-na.ssl-images-amazon.com/images/I/9116pHJPKOL.jpg
 
 Throughout this last year while stuck at home quarantining in the middle of a global pandemic, I learned to keep myself busy/entertained with *many* interests. One of these projects is redefining and figuring out my personal style with the guidance of [The Curated Closet](https://amzn.to/3rjUwli).
 
+<img src="{{ page.cover }}" width="50%">
+
 I first heard about this book through [A Beautiful Mess](https://abeautifulmess.com/) (one of my favorite blogs!). The idea of a "uniform" and knowing how to put together a fabulous outfit with only a few core pieces really appealed to me. I have a closet full of clothes but can barely mix and match them because *everything is patterned.* I wanted to elevate my look to be chic and comfortable even while working from home.
 
 So far, my style had evolved from Aeropostale logo t-shirts in middle school, to exclusively patterns & prints throughout college, and finally...a weird mix of work-appropriate patterns with a few solids thrown in. I can say up until sophomore year of college, my "style" was a bit cringe-worthy with a LOT of graphic tees and kawaii pieces. And because I had no idea how to incorporate basics into my closet (because it sounded *so boring*), every top and dress I bought was a print! I relied on prints to create interest in my outfits. I never had the time or desire to thoroughly think about what looked good on me or how I wanted to dress. Well now that I'm stuck at home I got plenty of time!
