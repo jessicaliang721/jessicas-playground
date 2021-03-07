@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #ffffff;
   opacity: 1;
   background: radial-gradient(circle, transparent 20%, #ffffff 20%, #ffffff 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #ffffff 20%, #ffffff 80%, transparent 80%, transparent) 52.5px 52.5px, linear-gradient(#f7cbc4 4.2px, transparent 4.2px) 0 -2.1px, linear-gradient(90deg, #f7cbc4 4.2px, #ffffff 4.2px) -2.1px 0;
@@ -36,51 +36,35 @@ body {
 }
 
 // hero
-.hero-img {
-  max-width: 100%;
-  padding: 50px;
-}
+.hero {
+  .body {
+    position: relative;
 
-.hero-title {
-  font-family: 'Dawning of a New Day', cursive;
-  font-size: 60px;
-  text-align: right;
-  color: $darker-sea-foam-green;
-}
+    .metadata {
+      text-align: right;
+      padding-right: 25px;
 
-.hero-subtitle {
-  font-family: 'Bebas Neue', cursive;
-  font-size: 90px;
-  text-align: right;
-  color: $darker-sea-foam-green;
-}
+      .title {
+        font-family: 'Pacifico', cursive;
+        font-size: 3rem;
+        color: $darker-sea-foam-green;
+        margin: 0;
+      }
 
-.top-left {
-  rect {
-    fill: $sea-foam-green;
+      .subtitle {
+        font-size: 6rem;
+        color: $darker-sea-foam-green;
+      }
+
+      .tagline {
+        background: $coral-pink;
+        color: white;
+        padding: 10px;
+        display: inline-block;
+        font-weight: bold;
+      }
+    }
   }
-}
-
-.behind-right {
-  width: $hero-image-max-width * .75;
-  height: $hero-image-max-width * .5;
-  z-index: -1;
-  rect {
-    fill: $coral-pink;
-    width: $hero-image-max-width * .75;
-    height: $hero-image-max-width * .5;
-  }
-}
-
-.bottom-right {
-  float: right;
-  rect {
-    fill: $sea-foam-green
-  }
-}
-
-.tagline {
-  text-align: right;
 }
 
 // Posts
@@ -101,9 +85,43 @@ body {
   }
 }
 
+@include media-breakpoint-up(md) {
+  .hero {
+    .body {
+      .metadata {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+
+        .title {
+          font-size: 2rem;
+        }
+
+        .subtitle {
+          font-size: 4rem;
+        }
+      }
+
+      background-image: url("../images/hero-right2.png");
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: bottom right;
+    }
+  }
+
+}
 @include media-breakpoint-up(lg) {
-  .hero-img {
-    max-width: $hero-image-max-width;
-    padding: 20px;
+  .hero {
+    .body {
+      .metadata {
+        padding-right: 0;
+        .title {
+          font-size: 3rem;
+        }
+        .subtitle {
+          font-size: 7rem;
+        }
+      }
+    }
   }
 }

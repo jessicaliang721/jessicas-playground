@@ -5,13 +5,23 @@
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-			<div class="navbar-nav">
-				{% for item in site.data.navigation %}
+			<ul class="navbar-nav">
+				{% for item in site.data.categories %}
+				<li class="nav-item">
 					<a href="{{ item.link | relative_url }}" class="nav-link {% if page.url == item.link %}active{% endif %}" aria-current="{% if page.url == item.link %}page{% endif %}">
 						{{ item.name }}
 					</a>
+				</li>
 				{% endfor %}
-			</div>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+						Filter by tag
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						{% include tagslist.html %}
+					</div>
+				</li>
+			</ul>
 		</div>
 	</div>
 </nav>

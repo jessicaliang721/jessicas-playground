@@ -73,7 +73,7 @@ sass:
 
 permalink: none
 
-paginate: 1
+paginate: 10
 paginate_path: /page:num
 
 # Exclude from processing.
