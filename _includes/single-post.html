@@ -15,7 +15,7 @@
 	</div>
 	<div class="col-12 col-md-2">
 		<p class="date">{{ post.date | date_to_long_string }}</p>
-		<a  class="category" href="{{ site.baseurl }}/category/{{ post.category }}">{{ post.category }}</a>
+		<a  class="category" href="{{ site.baseurl }}/category/{{ post.category | slugify }}">{{ post.category }}</a>
 		<p>
 			{% for tag in post.tags %}
 			{% include single-pill.html %}
