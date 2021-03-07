@@ -13,7 +13,7 @@ title: Home
 			{% for category in site.data.categories %}
 				<div class="col-4 col-md-2">
 					<a href="{{ category.link | relative_url }}">
-						<img class="img-fluid" src="{{ site.baseurl }}/assets/images/category_icons/{{ category.name }}.png" alt="{{ category.name }}">
+						<img class="img-fluid" src="{{ site.baseurl }}/assets/images/category_icons/{{ category.name | downcase }}.png" alt="{{ category.name }}">
 						<p class="text-center">{{ category.name }}</p>
 					</a>
 				</div>
