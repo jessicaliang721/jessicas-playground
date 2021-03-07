@@ -9,6 +9,7 @@ $sea-foam-green: #BADCD6;
 $darker-sea-foam-green: #75B8B7;
 $coral-pink: #F5AFA6;
 $dark-brown: #5A5249;
+$light-orange: #FDDDC8;
 
 $hero-image-max-width: 350px;
 
@@ -16,6 +17,14 @@ $hero-image-max-width: 350px;
 h1, h2, h3, h4, h5, h6 {
   color: $dark-brown;
   font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
 }
 
 body {
@@ -33,6 +42,56 @@ body {
 .btn-primary {
   background-color: $coral-pink;
   border: none;
+}
+
+a {
+  color: $darker-sea-foam-green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $sea-foam-green;
+}
+
+.badge {
+  background-color: $darker-sea-foam-green;
+
+  a {
+    color: white;
+  }
+}
+
+.badge:hover {
+  background-color: $sea-foam-green;
+}
+
+// navbar
+.navbar {
+  background-color: white;
+
+  .navbar-brand {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+    color: $dark-brown;
+  }
+
+  .navbar-collapse {
+    justify-content: flex-end;
+
+    .navbar-nav {
+      align-items: baseline;
+
+      .dropdown-toggle {
+        background-color: $coral-pink;
+        color: white;
+        padding: 1rem;
+      }
+    }
+  }
+
+  .nav-link {
+    font-weight: bold;
+  }
 }
 
 // hero
@@ -67,34 +126,93 @@ body {
   }
 }
 
-// Posts
-.post-body {
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
-    height: auto;
-  }
-  p:first-of-type:first-letter {
-    float: left;
-    font-size: 6rem;
-    line-height: 0.65;
-    margin: 0.1em 0.1em 0.2em 0;
+// Home page content
+.index-content {
+  h2 {
+    text-decoration: underline solid $light-orange .5rem;
+    margin-bottom: 3rem;
   }
 }
 
-.post-nav {
-  .prev {
-    float: left;
+// Browse by category
+.browse-category {
+  img {
+    padding: 20px;
   }
 
-  .next {
-    float: right;
+  p {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5rem;
+  }
+}
+
+// Posts
+.single-post {
+  h3 {
+    a {
+      color: $dark-brown;
+    }
+
+    a:hover {
+      text-decoration: underline solid $light-orange .3rem;
+    }
+  }
+
+  .read-more {
+    font-weight: bold;
+  }
+}
+
+.date {
+  color: $dark-brown;
+  font-weight: bold;
+}
+
+.category {
+  font-family: 'Pacifico', cursive;
+  text-transform: capitalize;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.post-page {
+  .post-body {
+    img + em {
+      text-align: center;
+      display: block;
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%;
+      height: auto;
+    }
+    p:first-of-type:first-letter {
+      float: left;
+      font-size: 6rem;
+      line-height: 0.65;
+      margin: 0.1em 0.1em 0.2em 0;
+    }
+  }
+
+  .post-nav {
+    .prev {
+      float: left;
+    }
+
+    .next {
+      float: right;
+    }
   }
 }
 
 @include media-breakpoint-up(md) {
+  h1 {
+    font-size: 4rem;
+  }
+
   .hero {
     .body {
       .metadata {
@@ -117,8 +235,20 @@ body {
       background-position: bottom right;
     }
   }
-
 }
+
+@include media-breakpoint-only(md) {
+  .browse-category {
+    img {
+      padding: 0;
+    }
+
+    p{
+      font-size: 1rem;
+    }
+  }
+}
+
 @include media-breakpoint-up(lg) {
   .hero {
     .body {

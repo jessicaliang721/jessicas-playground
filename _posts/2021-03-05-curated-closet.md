@@ -1,7 +1,7 @@
 ---
-tags: [inspiration]
+tags: [curated closet]
 category: style
-title: Redefining My Style with "The Curated Closet"
+title: Redefining My Style with The Curated Closet
 cover: https://images-na.ssl-images-amazon.com/images/I/9116pHJPKOL.jpg
 ---
 
@@ -55,8 +55,7 @@ Having seen this research laid out before me, I realized that my current wardrob
 
 This is probably the best website that I found that explains how to create an hourglass silhouette:
 
-[The Concept Wardrobe](https://theconceptwardrobe.com/build-a-wardrobe/hourglass-body-shape)
-
 ![How to dress an hourglass silhouette](https://global-uploads.webflow.com/5eca30fd2b50b671e2107b06/5eea40e0e2d10b82b14357b0_How%20to%20dress%20the%20hourglass%20body%20shape.jpg)
+*[The Concept Wardrobe](https://theconceptwardrobe.com/build-a-wardrobe/hourglass-body-shape)*
 
 I am so excited by these findings that I had to share it with the world! Maybe you already have impeccable style and knew these things, but I am here to enlighten the likes of me. Join me in my style evolution, as more posts about this topic are sure to come! *How has your style evolved throughout the years? Have you learned any ground-breaking styling tricks along the way?*

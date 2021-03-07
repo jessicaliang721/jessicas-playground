@@ -5,40 +5,44 @@ title: Home
 <!-- hero image -->
 {% include hero.html %}
 
-<!-- list posts -->
-<div class="row">
+<!-- page content -->
+<div class="row index-content">
 	<div class="col">
-		<h2 class="text-center">Browse posts by category</h2>
-		<div class="row">
+		<!-- Browse by category-->
+		<div class="row browse-category text-center">
+			<h2>Browse posts by category</h2>
 			{% for category in site.data.categories %}
 				<div class="col-4 col-md-2">
 					<a href="{{ category.link | relative_url }}">
 						<img class="img-fluid" src="{{ site.baseurl }}/assets/images/category_icons/{{ category.name | downcase }}.png" alt="{{ category.name }}">
-						<p class="text-center">{{ category.name }}</p>
+						<p>{{ category.name }}</p>
 					</a>
 				</div>
 			{% endfor %}
 		</div>
-		<h2 class="text-center">Latest posts</h2>
-		{% for post in paginator.posts %}
-		{% include single-post.html %}
-		{% endfor %}
+		<!-- List posts-->
 		<div class="row">
 			<div class="col">
-				<!-- Pagination links -->
-				<div class="pagination">
-					{% if paginator.previous_page %}
-					<a href="{{ paginator.previous_page_path | relative_url }}" class="previous">
-						Previous page
-					</a>
-					<a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a>
-					{% endif %}
-					<div class="current-page">{{ paginator.page }}</div>
-					{% if paginator.next_page %}
-					<a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a>
-					<a href="{{ paginator.next_page_path | relative_url }}" class="next">Next page</a>
-					{% endif %}
-				</div>
+				<h2 class="text-center">Latest posts</h2>
+				{% for post in paginator.posts %}
+				{% include single-post.html %}
+				{% endfor %}
+			</div>
+		</div>
+		<!-- Pagination links -->
+		<div class="row">
+			<div class="col">
+				{% if paginator.previous_page %}
+				<a href="{{ paginator.previous_page_path | relative_url }}" class="previous">
+					Previous page
+				</a>
+				<a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a>
+				{% endif %}
+				<div class="current-page">{{ paginator.page }}</div>
+				{% if paginator.next_page %}
+				<a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a>
+				<a href="{{ paginator.next_page_path | relative_url }}" class="next">Next page</a>
+				{% endif %}
 			</div>
 		</div>
 	</div>

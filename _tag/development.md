@@ -1,3 +1,3 @@
 ---
-slug: development
+name: development
 ---

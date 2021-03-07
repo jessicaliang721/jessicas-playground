@@ -1,0 +1,3 @@
+---
+name: curated closet
+---

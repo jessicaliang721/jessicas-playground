@@ -3,8 +3,8 @@ layout: default
 ---
 <div class="row">
 	<div class="col">
-		<h1>More posts related to {{ page.slug }}</h1>
-		{% for post in site.tags[page.slug] %}
+		<h1>More posts related to {{ page.name }}</h1>
+		{% for post in site.tags[page.name] %}
 		{% include single-post.html %}
 		{% endfor %}
 	</div>

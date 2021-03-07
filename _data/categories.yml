@@ -1,12 +1,12 @@
-- name: Art
-  link: /category/art
-- name: Entertainment
-  link: /category/entertainment
-- name: Interiors
-  link: /category/interiors
 - name: Style
   link: /category/style
+- name: Art
+  link: /category/art
+- name: Interiors
+  link: /category/interiors
 - name: Technology
   link: /category/technology
 - name: Travel
   link: /category/travel
+- name: Entertainment
+  link: /category/entertainment
