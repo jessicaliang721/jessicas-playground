@@ -43,6 +43,10 @@ body {
 .btn-primary {
   background-color: $coral-pink;
   border: none;
+
+  &:hover {
+    background-color: $dark-brown;
+  }
 }
 
 a {
@@ -67,6 +71,12 @@ a {
 
 .img-thumbnail {
   border: none;
+}
+
+.fa {
+  font-size: 30px;
+  text-align: center;
+  border-radius: 50%;
 }
 
 // navbar
