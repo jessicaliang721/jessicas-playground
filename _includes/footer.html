@@ -1,15 +1,18 @@
 <div class="row footer">
-	<div class="col-md-4">
-		<h5>About</h5>
-		<p>Hello, my name is Jessica. Welcome to my blog!</p>
-		<a href="{{ 'about.html' | relative_url }}">More about me</a>
+	<div class="col-lg-4">
+		<h4>About</h4>
+		<p>Hello, my name is Jessica. I am a software engineer by day. Outside of coding, I have a LOT of interests/hobbies! Some of them include traveling with my husband, photography, crafting, house plant care, interior design, and playing board games. I blog about these and more on here! See them all by clicking the link below:</p>
+		<b><a href="{{ 'about.html' | relative_url }}">More about me &raquo;</a></b>
 	</div>
-	<div class="col-md-4">
-		<h5>Subscribe for updates</h5>
-		<p>Get new posts delivered straight to your inbox! No spam mail, ever.</p>
-		<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=JessicasPlayground', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="JessicasPlayground" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /></form>
+	<div class="col-lg-4">
+		<h4>Subscribe for updates</h4>
+		<p>Get new posts delivered straight to your inbox!</p>
+		<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=JessicasPlayground', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="JessicasPlayground" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" class="submit-button "/></form>
 	</div>
-	<div class="col-md-4">
+	<div class="col-lg-4">
+		<h4>Social media</h4>
+		<p></p>
 		<a href="{{ 'archive.html' | relative_url }}">Archive</a>
+		<p><small>Site lovingly designed and developed by <a href="https://jessicaliang721.github.io/" target="_blank">Jessica Liang.</a></small></p>
 	</div>
 </div>

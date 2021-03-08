@@ -69,6 +69,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jemoji
 
 sass:
   sass_dir: _sass

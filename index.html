@@ -6,7 +6,7 @@ title: Home
 {% include hero.html %}
 
 <!-- page content -->
-<div class="row index-content">
+<div class="row content">
 	<div class="col">
 		<!-- Browse by category-->
 		<div class="row browse-category text-center">
@@ -20,8 +20,8 @@ title: Home
 				</div>
 			{% endfor %}
 		</div>
-		<!-- List posts-->
-		<div class="row">
+		<!-- Latest posts-->
+		<div class="row" id="latest-posts">
 			<div class="col">
 				<h2 class="text-center">Latest posts</h2>
 				{% for post in paginator.posts %}
@@ -30,20 +30,6 @@ title: Home
 			</div>
 		</div>
 		<!-- Pagination links -->
-		<div class="row">
-			<div class="col">
-				{% if paginator.previous_page %}
-				<a href="{{ paginator.previous_page_path | relative_url }}" class="previous">
-					Previous page
-				</a>
-				<a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a>
-				{% endif %}
-				<div class="current-page">{{ paginator.page }}</div>
-				{% if paginator.next_page %}
-				<a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a>
-				<a href="{{ paginator.next_page_path | relative_url }}" class="next">Next page</a>
-				{% endif %}
-			</div>
-		</div>
+		{% include pagination.html %}
 	</div>
 </div>

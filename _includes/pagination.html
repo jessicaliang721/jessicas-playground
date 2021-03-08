@@ -1,0 +1,17 @@
+<div class="row pagination text-center">
+	<div class="col">
+		{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path | relative_url }}#latest-posts" class="previous">
+			&laquo; Prev
+		</a>
+		<a href="{{ paginator.previous_page_path | relative_url }}#latest-posts" class="previous-number">{{ paginator.previous_page }}</a>
+		{% endif %}
+		<div class="current">{{ paginator.page }}</div>
+		{% if paginator.next_page %}
+		<a href="{{ paginator.next_page_path | relative_url }}#latest-posts" class="next-number">{{ paginator.next_page }}</a>
+		<a href="{{ paginator.next_page_path | relative_url }}#latest-posts" class="next">
+			Next &raquo;
+		</a>
+		{% endif %}
+	</div>
+</div>
