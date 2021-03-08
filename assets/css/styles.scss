@@ -3,7 +3,6 @@
 @import 'bootstrap/functions';
 @import 'bootstrap/variables';
 @import 'bootstrap/mixins';
-
 // colors
 $sea-foam-green: #BADCD6;
 $darker-sea-foam-green: #75B8B7;
@@ -36,7 +35,7 @@ body {
   background-size: 105px 105px, 105px 105px, 52.5px 52.5px, 52.5px 52.5px;
 }
 
-.container {
+.container-lg {
   background: white;
 }
 
@@ -289,13 +288,14 @@ a {
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
+        padding-right: 0;
 
         .title {
-          font-size: 2rem;
+          font-size: 3rem;
         }
 
         .subtitle {
-          font-size: 4rem;
+          font-size: 7rem;
         }
       }
 
