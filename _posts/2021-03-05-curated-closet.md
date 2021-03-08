@@ -2,12 +2,12 @@
 tags: [curated closet]
 category: style
 title: Redefining My Style with The Curated Closet
-cover: https://images-na.ssl-images-amazon.com/images/I/9116pHJPKOL.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/9116pHJPKOL.jpg
 ---
 
 Throughout this last year while stuck at home quarantining in the middle of a global pandemic, I learned to keep myself busy/entertained with *many* interests. One of these projects is redefining and figuring out my personal style with the guidance of [The Curated Closet](https://amzn.to/3rjUwli).
 
-<img src="{{ page.cover }}" width="50%">
+<img src="https://images-na.ssl-images-amazon.com/images/I/9116pHJPKOL.jpg" width="50%">
 
 I first heard about this book through [A Beautiful Mess](https://abeautifulmess.com/) (one of my favorite blogs!). The idea of a "uniform" and knowing how to put together a fabulous outfit with only a few core pieces really appealed to me. I have a closet full of clothes but can barely mix and match them because *everything is patterned.* I wanted to elevate my look to be chic and comfortable even while working from home.
 

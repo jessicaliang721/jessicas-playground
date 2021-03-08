@@ -10,8 +10,8 @@
 	</div>
 	<div class="col-3 col-lg-2">
 		<a href="{{ post.url | relative_url }}">
-			{% if post.cover %}
-			<img class="img-thumbnail" src="{{ post.cover }}" alt="{{ post.title }}">
+			{% if post.image %}
+			<img class="img-thumbnail" src="{{ post.image }}" alt="{{ post.title }}">
 			{% else %}
 			<img class="img-thumbnail" src="{{ site.baseurl }}/assets/images/category_icons/{{ post.category }}.png" alt="{{ post.title }}">
 			{% endif %}
