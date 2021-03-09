@@ -11,14 +11,7 @@ title: Home
 		<!-- Browse by category-->
 		<div class="row browse-category text-center">
 			<h2>Browse posts by category</h2>
-			{% for category in site.data.categories %}
-				<div class="col-4 col-lg-2">
-					<a href="{{ category.link | relative_url }}">
-						<img class="img-fluid" src="{{ site.baseurl }}/assets/images/category_icons/{{ category.name | downcase }}.png" alt="{{ category.name }}">
-						<p>{{ category.name }}</p>
-					</a>
-				</div>
-			{% endfor %}
+			{% include browse-category-icons.html %}
 		</div>
 		<!-- Latest posts-->
 		<div class="row" id="latest-posts">

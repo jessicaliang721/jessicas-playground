@@ -1,0 +1,8 @@
+{% for category in site.data.categories %}
+<div class="col-4 col-md-2 single-category">
+	<a href="{{ category.link | relative_url }}">
+		<img class="img-fluid" src="{{ site.baseurl }}/assets/images/category_icons/{{ category.name | downcase }}.png" alt="{{ category.name }}">
+		<p>{{ category.name }}</p>
+	</a>
+</div>
+{% endfor %}
