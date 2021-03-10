@@ -342,6 +342,7 @@ a {
   }
 }
 
+// Medium devices (tablets, 768px and up)
 @include media-breakpoint-up(md) {
   h1 {
     font-size: 4rem;
@@ -379,7 +380,7 @@ a {
     .single-category {
       p {
         display: block;
-        font-size: 2vw;
+        font-size: 1rem;
       }
     }
   }
@@ -406,21 +407,20 @@ a {
   }
 }
 
+// Large devices (desktops, 992px and up)
 @include media-breakpoint-up(lg) {
   .hero {
     .body {
       .metadata {
         padding-right: 0;
-
         .title {
-          font-size: 5vw;
+          font-size: 3rem;
         }
         .subtitle {
-          font-size: 10vw;
+          font-size: 7rem;
         }
-
         .tagline {
-          font-size: 1.8vw;
+          font-size: 1rem;
         }
       }
     }
@@ -449,6 +449,55 @@ a {
       .date, .category, .tags {
         flex: 0 1 auto;
         margin-bottom: 10px;
+      }
+    }
+  }
+}
+
+// X-Large devices (large desktops, 1200px and up)
+@include media-breakpoint-up(xl) {
+  .hero {
+    .body {
+      .metadata {
+        .title {
+          font-size: 4vw;
+        }
+        .subtitle {
+          font-size: 10vw;
+        }
+      }
+    }
+  }
+
+  .browse-category {
+    .single-category {
+      p {
+        font-size: 1.5rem;
+      }
+
+      img {
+        padding: 0 2rem;
+      }
+    }
+  }
+}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@include media-breakpoint-up(xxl) {
+  .hero {
+    .body {
+      .metadata {
+        right: 10%;
+
+        .title {
+          font-size: 4rem;
+        }
+        .subtitle {
+          font-size: 10rem;
+        }
+        .tagline {
+          font-size: 1.25rem;
+        }
       }
     }
   }
