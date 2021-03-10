@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<div class="row">
+<div class="row tag-page">
 	<div class="col">
-		<h1>More posts related to {{ page.name }}</h1>
+		<h1 class="text-center">More about {{ page.name }}</h1>
 		{% for post in site.tags[page.name] %}
 		{% include single-post.html %}
 		{% endfor %}

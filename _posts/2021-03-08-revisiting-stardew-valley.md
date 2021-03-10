@@ -20,6 +20,6 @@ Finally, I'm doing all this so that when I get my hands on a copy of the board g
 ![Stardew Valley board game](https://www.stardewvalley.net/wp-content/uploads/2021/02/Blog_Image-1024x768.jpg)
 *via [official website](https://www.stardewvalley.net/stardew-valley-the-board-game-available-now/)*
 
-I cannot wait to try it. It is NOT a short little game though because it takes ~45min/player. So who has the patience and wants to play with us?!
+I cannot wait to try it. It is NOT a short game though because it takes ~45min/player. So who has the patience and wants to play with us?!
 
 *Are you a Stardew Valley player? What do you think about the game? And if you have the board game, I would love to know your initial thoughts about it!*

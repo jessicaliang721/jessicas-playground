@@ -23,20 +23,19 @@ comments: true
 				{{ content }}
 			</div>
 		</div>
+		<!--Share Icons-->
 		{% include share-icons.html %}
 		<div class="row post-nav">
 			<div class="col">
 				{% if page.previous.url %}
-				<p>Previous post</p>
-				<a class="prev" href="{{ page.previous.url | relative_url }}">&laquo; {{page.previous.title}}</a>
+					<a class="prev" href="{{ page.previous.url | relative_url }}">&laquo; {{page.previous.title}}</a>
 				{% endif %}
 				{% if page.next.url %}
-				<p>Next post</p>
-				<a class="next" href="{{ page.next.url | relative_url }}">{{page.next.title}} &raquo;</a>
+					<a class="next" href="{{ page.next.url | relative_url }}">{{page.next.title}} &raquo;</a>
 				{% endif %}
 			</div>
 		</div>
-		<div class="row">
+		<div class="row related-posts">
 			<div class="col">
 				<h3 class="text-center">Related Posts</h3>
 				{% assign currentCategory = page.category %}

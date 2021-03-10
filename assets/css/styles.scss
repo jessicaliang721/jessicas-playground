@@ -27,6 +27,10 @@ h2 {
   font-size: 2.5rem;
 }
 
+h3 {
+  font-size: 2rem;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #ffffff;
@@ -48,6 +52,10 @@ body {
   }
 }
 
+.fa {
+  font-size: 30px;
+}
+
 a {
   &:hover {
     color: $sea-foam-green;
@@ -58,11 +66,9 @@ a {
 
 .badge {
   background-color: $darker-sea-foam-green;
-
   &:hover {
     background-color: $sea-foam-green;
   }
-
   a {
     color: white;
   }
@@ -72,10 +78,35 @@ a {
   border: none;
 }
 
-.fa {
-  font-size: 30px;
-  text-align: center;
-  border-radius: 50%;
+.share-social-media {
+  span {
+    color: $dark-brown;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+  }
+
+  .share-buttons {
+    display: inline;
+
+    .fa {
+      text-align: center;
+      border-radius: 50%;
+      color: $darker-sea-foam-green;
+      &:hover {
+        color: $sea-foam-green;
+      }
+    }
+  }
+}
+
+.content,
+.footer,
+.post-page,
+.tag-page,
+.category-page,
+.archive,
+.about {
+  padding: 1rem;
 }
 
 // navbar
@@ -91,6 +122,11 @@ a {
     font-family: 'Bebas Neue', cursive;
     font-size: 2rem;
     color: $dark-brown;
+
+    &:hover {
+      color: $dark-brown;
+      text-decoration: underline solid $light-orange .3rem;
+    }
   }
 
   .navbar-toggler {
@@ -105,8 +141,12 @@ a {
       align-items: center;
       border: 3px solid $light-orange;
 
-      .nav-link {
+      .nav-link:not(.dropdown-toggle) {
         color: $dark-brown;
+
+        &:hover {
+          text-decoration: underline solid $light-orange .3rem;
+        }
       }
 
       .dropdown {
@@ -171,11 +211,6 @@ a {
     text-decoration: underline solid $light-orange .5rem;
     margin-bottom: 3rem;
   }
-  > .col {
-    > .row {
-      padding: 0 1.5rem 1.5rem 1.5rem;
-    }
-  }
 }
 
 // Browse by category
@@ -221,12 +256,11 @@ a {
 .footer {
   background-color: $coral-pink;
   color: white;
-  padding: 1.5rem;
 
   a {
     color: $dark-brown;
 
-    &:hover {
+    &:hover:not(.fa) {
       text-decoration: underline solid $light-orange .3rem;
     }
   }
@@ -287,7 +321,6 @@ a {
 }
 
 .post-page {
-  padding: 1.5rem;
   .post-body {
     .row {
       margin-bottom: 1rem;
@@ -325,21 +358,35 @@ a {
   }
 
   .post-nav {
-    .prev {
-      float: left;
-    }
+    padding: 1rem 0;
 
-    .next {
-      float: right;
+    > .col {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      border-top: 2px solid $dark-brown;
+      border-bottom: 2px solid $dark-brown;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+
+      p {
+        margin: 0;
+      }
     }
   }
 }
 
-.share-social-media {
-  h4,
-  .share-buttons {
-    display: inline;
+.related-posts {
+  .img-thumbnail {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    max-height: 250px;
   }
+}
+
+.comments {
+  margin-top: 1rem;
 }
 
 // Medium devices (tablets, 768px and up)
@@ -350,6 +397,12 @@ a {
 
   .hero {
     .body {
+      background-image: url("../images/hero-right2.png");
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: bottom right;
+      background-origin: content-box;
+
       .metadata {
         position: absolute;
         top: 50%;
@@ -367,12 +420,6 @@ a {
           font-size: 2vw;
         }
       }
-
-      background-image: url("../images/hero-right2.png");
-      background-repeat: no-repeat;
-      background-size: contain;
-      background-position: bottom right;
-      background-origin: content-box;
     }
   }
 
@@ -409,6 +456,16 @@ a {
 
 // Large devices (desktops, 992px and up)
 @include media-breakpoint-up(lg) {
+  .content,
+  .footer,
+  .post-page,
+  .tag-page,
+  .category-page,
+  .archive,
+  .about {
+    padding: 1.5rem;
+  }
+
   .hero {
     .body {
       .metadata {
@@ -456,6 +513,16 @@ a {
 
 // X-Large devices (large desktops, 1200px and up)
 @include media-breakpoint-up(xl) {
+  .content,
+  .footer,
+  .post-page,
+  .tag-page,
+  .category-page,
+  .archive,
+  .about {
+    padding: 2rem;
+  }
+
   .hero {
     .body {
       .metadata {

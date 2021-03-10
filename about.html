@@ -3,7 +3,20 @@ layout: default
 title: About
 ---
 
-<h1>About Jessica</h1>
+<div class="row about gy-2">
+	<h1 class="text-center">About Jessica</h1>
 
-I blog about these interests:
-{% include tagslist.html %}
+	<div class="col-12 col-md-3">
+		<img class="img-fluid" src="assets/images/jh-5959_38390109956_o-2.jpg">
+	</div>
+	<div class="col-12 col-md-9">
+		<p>Hello, my name is Jessica. I am a software engineer by day. Outside of coding, I have a LOT of interests/hobbies! Some of them include traveling with my husband, photography, crafting, house plant care, interior design, and playing board games. I blog about these and more on here! Explore the full list of my interests:</p>
+		<p>
+			{% include tagslist.html %}
+		</p>
+		<p>I am a maker at heart, and this blog allows me to create a beautiful, joyful space to express my thoughts. If you want to see how I made this blog, check out <a href="{{ site.baseurl }}{% link _posts/2021-03-04-intro.md %}">this post</a>. I love to connect with like-minded people over shared interests/hobbies. So if you have a cool suggestion or want to talk about a shared hobby, please don't be shy! Drop me a comment.</p>
+		<p>
+			Thanks for checking out my little space on the internet. You can stay up to date by subscribing down below or following along on social media. Welcome, and stay awhile!
+		</p>
+	</div>
+</div>

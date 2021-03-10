@@ -1,6 +1,11 @@
 {%- if page.comments != false -%}
-<h3 class="text-center">Join the Conversation</h3>
-<div id="disqus_thread"></div>
+<div class="row comments">
+	<div class="col">
+		<h3 class="text-center">Join the Conversation</h3>
+		<div id="disqus_thread"></div>
+	</div>
+</div>
+
 <script>
 	var disqus_config = function () {
 		this.page.url = '{{ page.url | absolute_url }}';

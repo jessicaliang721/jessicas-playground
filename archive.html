@@ -3,9 +3,9 @@ layout: default
 title: Archive
 ---
 
-<div class="row">
+<div class="row archive">
 	<div class="col">
-		<h1>{{ page.title }}</h1>
+		<h1 class="text-center">{{ page.title }}</h1>
 		{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 		Jump to year:
 		{% for year in postsByYear %}

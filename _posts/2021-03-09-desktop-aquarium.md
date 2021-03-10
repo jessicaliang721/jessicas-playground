@@ -18,17 +18,17 @@ Some factors keeping me from doing it are:
 So let's address each concern one by one.
 1. Additional responsibility - yes, this is definitely going to all land on me. We already have a chore chart that splits our household responsibilities between the two of us. And since this is *my* hobby/interest, it only makes sense that I do it
 2. But additional responsibility means more time! Since I already spend SO MUCH TIME with houseplant maintenance, I think this is an area that's going to have to give. It will be EXTREMELY hard choosing and parting with my plant babies :cry: But I do think my collection is getting a bit out of hand. Some plants aren't bringing me joy any more.
-3. Am I easily entertained and bored? I definitely do think I have a short attention span. Things that are no longer brand-new eventually get forgotten in the back of my mind. My fear here is that I am going to forget to feed my fish! It'll be great while I'm working from home and can see the fish on my desk every day, but will it become a problem once I go back to work? GOD I HOPE NOT!
+3. Am I easily entertained and bored? I definitely do think I have a short attention span. Things that are no longer brand-new eventually get forgotten. My fear here is that I am going to forget to feed my fish! It'll be fine while I'm working from home and can see the fish on my desk every day, but will it become a problem once I go back to work? GOD I HOPE NOT!
 4. Gonna have to figure this one out...how do y'all keep your fish fed when you're out on vacation? Do you hire a fish-sitter? Automatic food feeder?
 
 ## Why I want a desktop aquarium
 Ok enough doom and gloom, let's talk about the fun stuff!
 
-Of course my number one reason is aesthetics! I am in love with the look of Biorb aquariums.
+Of course my number one reason for wanting one of these bad boys is aesthetics! I am in love with the look of Biorb aquariums.
 
 ![Biorb aquarium](https://cdn.shopify.com/s/files/1/2964/8010/collections/FOT_WWBI_54537-biOrb-CUBE-60MCR-Transparent-001__SALL__AQU__V1_900x.jpg?v=1605188922)
 
-The price, though, is just so god-awful. Like, is it really worth $200+ for an acrylic box? It comes with "everything you need" though which highly appeals to my lazy ass. I want to be able to set up my aquarium easily since I have zero prior experience. The fish tank of my childhood was maintained and cleaned by my dad! So Biorb's simplicity + beauty really appeals to me.
+The price, though, is just so god-awful. Like, is it really worth $200+ for an acrylic box? It comes with "everything you need" which highly appeals to my lazy ass. I want to be able to set up my aquarium easily since I have zero real experience with fish-keeping. The fish tank of my childhood was maintained and cleaned by my dad! So Biorb's simplicity + beauty really appeals to me.
 
 However, the downside is that they cannot have live plants in them. The roots of the plants interfere with the bottom filter or something. This is not a huge deal to me right now since I don't think I really want to go as far as aquascaping (I have enough houseplants to maintain). But if I choose this kind of tank, then I pretty much can't have live aquatic plants in the future.
 
@@ -59,7 +59,7 @@ Since desktop aquariums are pretty small (usually < 5 gal), I can only keep smal
     </div>
 </div>
 
-Of course, all fish have their pros and cons. I am looking for a pretty sturdy fish that has a long lifespan. I think in the end, I still prefer betta overall because they're such dramatic, beautiful QUEENS! I also kind of want to redeem myself after shocking my college fish to death during a water change. At the time I did NO research, went out to Petsmart and bought a fish and tank starter kit. Worst idea ever; that fish had to live in such a TINY tank then eventually froze to death. I'm hoping to be a better fish parent this time around!
+Of course, all fish have their pros and cons. I am looking for a pretty sturdy fish that has a long lifespan. I think in the end, I still prefer betta because they're such dramatic, beautiful QUEENS! If aesthetics is what I'm going for, then nothing compares to them. I also kind of want to redeem myself after shocking my college fish to death during a water change. At the time I did NO research, went out to Petsmart, and bought a fish and tank starter kit. Worst idea ever; that fish had to live in such a TINY tank then eventually froze to death. I'm hoping to be a better fish parent this time around!
 
 ## What tank I want
 After waffling back and forth between several 5 gal tanks, I think my final choice will be the Biorb LIFE 4 gal or 8 gal tank.
@@ -73,8 +73,9 @@ After waffling back and forth between several 5 gal tanks, I think my final choi
     </div>
 </div>
 
-I think those sizes will take up the least amount of space on my desk. I was also considering the Cube, but its dimensions are a bit too big.
+I got out a tape measure and made sure that those sizes will take up the least amount of space on my desk. I was also considering the Cube, but its dimensions mean it also take up more desk space.
 
 ![Biorb cube](https://cdn.shopify.com/s/files/1/2964/8010/products/54490_02_133fbd22-7029-48f5-ae20-cb81dfe1e833_2048x.JPG?v=1584124696)
+*Biorb cube*
 
 I will continue to think about this idea as I wait for these tanks I want to come back in stock! It is certainly not a cheap hobby, and I want to make sure I will not get tired of it. If you have your own desktop aquarium setup, I'd love to see! Any advice appreciated :)
