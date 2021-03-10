@@ -346,7 +346,6 @@ a {
     iframe {
       display: block;
       margin: 10px auto;
-      width: 100%;
     }
 
     p:first-of-type:first-letter {
@@ -450,6 +449,14 @@ a {
   .footer {
     > div:not(:last-child) {
       padding-bottom: 2rem;
+    }
+  }
+
+  .post-page {
+    .post-body {
+      iframe {
+        width: 100%;
+      }
     }
   }
 }
