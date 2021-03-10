@@ -44,7 +44,7 @@ So as crazy as it sounds, aesthetics win out for me. The main reason I want a de
 
 Since desktop aquariums are pretty small (usually < 5 gal), I can only keep small fish. My favorite aesthetic small fish are: single betta, guppies, neon tetra, and zebra danio.
 
-<div class="row row-cols-1 row-cols-md-2">
+<div class="row row-cols-1 row-cols-md-2 gy-4">
     <div class="col">
         <img src="https://cdn.mos.cms.futurecdn.net/RY2EpSo74hvYXyAVpTN2Gg-1200-80.jpg">
     </div>
