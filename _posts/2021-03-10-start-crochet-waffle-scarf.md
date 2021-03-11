@@ -2,7 +2,7 @@
 tags: [crochet]
 category: art
 title: Starting to Crochet a Waffle Scarf
-image: https://hearthookhome.com/wp-content/uploads/2020/03/waffle-blanket-crochet-pattern-26.jpg
+image: https://www.anniedesigncrochet.com/wp-content/uploads/2020/06/crochet-waffle-stitch-sq.jpg
 ---
 
 One late night while browsing my favorite fashion blogs, I came across this picture of a blogger wearing a cute knit black scarf:

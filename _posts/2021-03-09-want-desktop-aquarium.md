@@ -73,7 +73,7 @@ After waffling back and forth between several 5 gal tanks, I think my final choi
     </div>
 </div>
 
-I got out a tape measure and made sure that those sizes will take up the least amount of space on my desk. I was also considering the Cube, but its dimensions mean it also take up more desk space.
+I got out a tape measure and made sure that those sizes will take up the least amount of space on my desk. I was also considering the Cube, but its dimensions mean it also takes up more desk space.
 
 ![Biorb cube](https://cdn.shopify.com/s/files/1/2964/8010/products/54490_02_133fbd22-7029-48f5-ae20-cb81dfe1e833_2048x.JPG?v=1584124696)
 *Biorb cube*
