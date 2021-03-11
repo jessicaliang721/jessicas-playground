@@ -78,4 +78,4 @@ I got out a tape measure and made sure that those sizes will take up the least a
 ![Biorb cube](https://cdn.shopify.com/s/files/1/2964/8010/products/54490_02_133fbd22-7029-48f5-ae20-cb81dfe1e833_2048x.JPG?v=1584124696)
 *Biorb cube*
 
-I will continue to think about this idea as I wait for these tanks I want to come back in stock! It is certainly not a cheap hobby, and I want to make sure I will not get tired of it. If you have your own desktop aquarium setup, I'd love to see! Any advice appreciated :)
+I will continue to think about this idea as I wait for these tanks I want to come back in stock! It is certainly not a cheap hobby, and I want to make sure I will not get tired of it. **If you have your own desktop aquarium setup, I'd love to see! Any advice appreciated :)**

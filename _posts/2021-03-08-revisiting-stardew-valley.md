@@ -22,4 +22,4 @@ Finally, I'm doing all this so that when I get my hands on a copy of the board g
 
 I cannot wait to try it. It is NOT a short game though because it takes ~45min/player. So who has the patience and wants to play with us?!
 
-*Are you a Stardew Valley player? What do you think about the game? And if you have the board game, I would love to know your initial thoughts about it!*
+**Are you a Stardew Valley player? What do you think about the game? And if you have the board game, I would love to know your initial thoughts about it!**

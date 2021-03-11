@@ -1,5 +1,5 @@
 ---
-tags: [curated closet]
+tags: [curated closet, clothing]
 category: style
 title: Try Before You Buy - The Curated Closet Pt. 2
 image: https://lh3.googleusercontent.com/2LhcHJ95rFPdyAm4L7saKyEZrV9pRf2KB52mA_sO-ScB4eQwaWj_j4FHpUezfLks1Ycutn3UhErxcW8cQbuC2NRF__VQFO4emKgfYIKE88Q8SCfl8J9T4s6uY8z78pbR9I-7ImxxAVBO260K9iZ9S5_H-VgiAlRswyLn1borKGzyOlDztvtRYWa8kP9MMgnB-QgtLVbX6lUER5H2WcseZmGripBVU8vLwh0a8HxDQfraxBPcMcvz6stVTxAi9wh6Dfnr2TQ_zgr7PESRuZZBGobheIoLvseCYSw68IPIQY-gFDRM5UBSoRfA84FzaAD5B-uKulEcFWs36Gdzx9FC0BeAfuQ-NUQLhXTznxM-LhgzMwOCnLBdwxkRrG4jDNEyzyPJv3RtVECE-0I64TGEhFi22MHkI3lVC7lMUfrKat5yPFmu53TgN9Gep2nnzz8LZYPNesByb5kaoWR39sgiPOmtL7BGTNCjjGzqhnhvQMjXfRIHWgi6X_Fopz-EU9I4KB0MLXj4-Jll3GJIDEXIZN4bQhKy6UWQTB_6vYviZzZaR-s4P--PdY6lOn3DCJCf4g-pwe9xo_6uiQpNR_0M8p6w9SPnz3YayFOuRkUOJAJTYzI1rdopyfBfT7qID56y8mDUw2SH32W0hHIHx9RsXKYbg_sTRkq5RsFie43JuDJhFPWmXL-Z9wahUUnShYA9iDPDNth5yhOSElS9-AWYnYz10EGCVYvrMLNOC_2WSpoXw9x1ZxHPGKgt2m2dpevcRaOQzMjegkjXSVAJyPw=w737-h983-no?authuser=0
@@ -120,4 +120,4 @@ Jeans, chunky knits, leather moto jacket, cotton or linen button-downs/t-shirts/
 *What does the styling look like? Think accessories, specific styling techniques, and hair and makeup.*  
 Shirts are tucked into high-waisted or paperbag pants/shorts, long curly hair, top knot
 
-*Do you think my assessment of my style was correct? Was there anything that I thought looked good but was actually bad (or vice versa!)? You can be honest with me here!*
+**Do you think my assessment of my style was correct? Was there anything that I thought looked good but was actually bad (or vice versa!)? You can be honest with me here!**

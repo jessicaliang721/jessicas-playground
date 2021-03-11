@@ -1,5 +1,5 @@
 ---
-tags: [crochet]
+tags: [crochet, clothing]
 category: art
 title: Starting to Crochet a Waffle Scarf
 image: https://www.anniedesigncrochet.com/wp-content/uploads/2020/06/crochet-waffle-stitch-sq.jpg
@@ -43,4 +43,4 @@ I spent a Saturday binge-watching *Next in Fashion* and crocheting my scarf. So 
 
 I will report back on the finished scarf once it's done! Honestly, this post is to keep me accountable so that I don't forget or give up on the project. Help keep me honest!
 
-*What sorts of things have you made lately?*
+**What sorts of things have you made lately?**
