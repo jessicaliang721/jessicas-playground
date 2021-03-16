@@ -4,6 +4,8 @@ category: entertainment
 title: "First Impressions: Parks Board Game"
 image: https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__opengraph/img/uoYOX2JqGtmeJ6o5wMmfypahWEs=/fit-in/1200x630/filters:strip_icc()/pic4852372.jpg
 ---
+<a href="https://www.bloglovin.com/blog/20908801/?claim=8ynbbqee87x">Follow my blog with Bloglovin</a>
+
 After a nice long drought of not buying any new board games, last week I snagged a copy of [PARKS](https://amzn.to/3eCbbNo) on sale. PARKS has been on my board game wishlist since last year. Its incredible artwork drew me in, for sure! Over the weekend HB and I tried out this new game and here are my first impressions.
 
 ![Parks board game](https://lh3.googleusercontent.com/mNwErhWM7LRrxePCiWjSxzARPKt572yt-I_NLtDK-9hG4WnP3DnQ5cMCvLM7Qu8M3ZRLxYYHQnT92sgjIc2vkN_7KKNdptbzenhuRLw7R-6h0qSal4MPTYJwGhUgj3ppfItZca5vUK03DM5VGUqHidgz-oY7oiw2O7bmBgIkeqObasYNCFSL-zqpBO_hRr5IZBX1MGicNcHXAmmemdwT0jdewW2Mln-quL_-0vjKBwDvPSvLfjeJ0BWnyuFqGk2atDpkmW6m1ZJ3P5Gr6AsMXdIPDHm7HUu8PP23f0pu5hSV0XZ49_Ej3Uz7X7HoWvVVILrSxhhSQFGhfKuGa4nXKz1xs6-sIGDA_B3GTO2q7NsnFDc6aOnRB-GhdDcnZFCP3SxVkrjhvYm91TrMbfrlv0x6mb-VCMNBAMwITCAwBaSbbRpfbqHNgztIOsTOq0hU7I0uM_-KXC-AmDw1P-UPOwwWBEATaSwNEiOaykff47uIsLmxl0wX9f057yN-JjAa0bizR1ji_2bmuk_nrqrDRvF2EIe8uiOBeUyKAbvWs-mwkT-L_u_cuW-rHEglcH38BwuLIr6Fz7VrekL19NITLbrzPbR8giGF46GH2mF1OS2L2WH8Kp-EfHyg4T_sPJwRxx5NxfIzMR_zsgTsBoZYU_Epm54gJaSsKjA9r3nBlsCUkM0CuReM2tpTcJJnLp0g3XBnRmPICSBKiTZHAJ2rHY-g28uVRtQumgEP01Ip-ijGSHT1biuNxL4_jb4ud8nBXCbE8u7_JySPiVcQlgQ=w772-h1029-no?authuser=0)
