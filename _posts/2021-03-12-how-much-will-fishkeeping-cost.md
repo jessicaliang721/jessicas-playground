@@ -84,4 +84,4 @@ So at the end of the day, the question to ask myself is: am I willing to do what
 
 **Do you have any fish? Would you add (or change) anything that's on this list?**
 
-P.S. I will get a small commission if you make a purchase through these links. Thanks for your support!
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!

@@ -13,7 +13,7 @@ After a nice long drought of not buying any new board games, last week I snagged
 
 —description from the publisher
 
-The publisher also made a help video on how to play:
+The publisher also made a helpful video on how to play:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6mj3twQf6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -47,5 +47,8 @@ Quality is a 5/5.
 Over all, I really enjoyed this game. It was simple and played under an hour, which means it'd be a good weeknight game to play after work. It can also play up to 5 players, so I am looking forward to the day when we can play board games with other people again!
 
 ![overall game](https://lh3.googleusercontent.com/daaaK8UQjwpRNB8ASOajlw2PCVT72sEhZVBEodZIQfAIiQr8EK-QzkvCyaSWZ3wqpWF9NTyXCvbLJLx2obNQDdc5T8Ap9eAazlrpZg3LLw7W6Zibrzjvi4lRn2UmaSMBKw17wCTzdmZ6vWF9mRWqBUFhV5q4itfBX25yM-SG_8CZZBUEErwOXp-Qp5hMACSidk8V9os6IEZW0QtrMb1DAV4AiFnpHKrlh9ZYcVOZQjnQ2rwbCzOQmZTO0KXevm8OQGNhohKSjkn2l-KD4w7XpgkJWt1TITS4B2LMGF2kGKMlMan8Sai0ZWlNX60YWl3up5uiMUc-tFqyXKximlHeSptozq0LFWUDLkAawb3xkgKkGuyJLY5dXF00wQTBmJqEFSKccLyRT-6XFZkcYzbUvPA6wcvbXFDSf8Keech6Q4yrFaDPCeQciGbqRurlGO0SST4sLxlyh1PO-IeWyeBDCZX-BN5s_WOvomq_7I0uBUxD-EleXbvr5zlCIGuqLmMn7YeH3EVt-z2qaYKMHAUFH_8QNwc4Nn1xLKszwaB-bIMWV1gwuNmZkX37UhQz1Lgg-CnDPrSqKUugTOWRPxWAe1hfI8eqhaX9yr_BmlO02NnJFqaSL5K7AJuuDVk8ujeX5oCR3N5j2V-prGwaS4EQVoYyjy5HlLrmsLVFSmkosu5A7-YpXnaJyUgtkxh9bF5H9Kbx6X01H-4Hz8Bxo6qBEmR72Xxzb_PALlaZvseaZis3Wg3tzh1UTWJnBK_SXrim3X2beSHFN5Jq6Eox0rk=w772-h1029-no?authuser=0)
+*[Buy on Amazon](https://amzn.to/3eCbbNo)*
 
 **Have you played this game before? What did you think?**
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!
