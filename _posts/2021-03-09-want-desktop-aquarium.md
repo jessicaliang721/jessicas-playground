@@ -7,7 +7,7 @@ image: https://cdn.shopify.com/s/files/1/2964/8010/products/45845_02_720x.JPG?v=
 
 This idea has been on my mind for a while, so let's take a deep dive in this post. I want a cute little aquarium to display on my desk or bookshelf, but I have not taken the plunge just yet.
 
-<img src="{{ page.image }}">
+![Biorb]({{ page.image }})
 
 Some factors keeping me from doing it are:
 1. Additional responsibility - can I handle it? Unfortunately HB has NO interest in fish, so the maintenance would be all up to me

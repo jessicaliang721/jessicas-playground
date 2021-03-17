@@ -37,33 +37,6 @@ comments: true
 		</div>
 		<!-- Related posts -->
 		{% include related-posts.html %}
-<!--		<div class="row related-posts">-->
-<!--			<div class="col">-->
-<!--				<h3 class="text-center">Related Posts</h3>-->
-<!--				{% assign currentCategory = page.category %}-->
-<!--				<div class="row">-->
-<!--					{% for post in site.categories[currentCategory] limit: 3 %}-->
-<!--					<div class="col-md-4">-->
-<!--						<div class="card">-->
-<!--							<a href="{{ post.url | relative_url }}">-->
-<!--								{% if post.image %}-->
-<!--								<img class="img-thumbnail" src="{{ post.image }}" alt="{{ post.title }}">-->
-<!--								{% else %}-->
-<!--								<img class="img-thumbnail"-->
-<!--								     src="{{ site.baseurl }}/assets/images/category_icons/{{ post.category }}.png"-->
-<!--								     alt="{{ post.title }}">-->
-<!--								{% endif %}-->
-<!--							</a>-->
-<!--							<div class="card-body">-->
-<!--								<a href="{{ post.url | relative_url }}"><h5 class="card-title">{{ post.title }}</h5></a>-->
-<!--								<p>{{ post.date | date_to_long_string }}</p>-->
-<!--							</div>-->
-<!--						</div>-->
-<!--					</div>-->
-<!--					{% endfor %}-->
-<!--				</div>-->
-<!--			</div>-->
-<!--		</div>-->
 		<!-- Comments -->
 		{% if site.disqus.shortname %}
 		{% include disqus_comments.html %}

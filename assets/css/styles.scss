@@ -183,8 +183,6 @@ a {
 
 // hero
 .hero {
-  margin-bottom: 3rem;
-
   .body {
     position: relative;
 
@@ -226,6 +224,8 @@ a {
 
 // Browse by category
 .browse-category {
+  margin-bottom: 3rem;
+
   p {
     font-family: 'Pacifico', cursive;
     font-style: normal;
@@ -440,6 +440,8 @@ a {
 
   .browse-category {
     .single-category {
+      margin-bottom: 0;
+
       p {
         display: block;
         font-size: 1rem;
@@ -513,6 +515,10 @@ a {
 
         .dropdown {
           margin: 0;
+
+          .dropdown-menu {
+            border: 3px solid $light-orange;
+          }
         }
       }
     }

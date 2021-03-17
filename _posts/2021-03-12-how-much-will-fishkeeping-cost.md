@@ -65,13 +65,17 @@ I sourced most of the items from this [Youtube video](https://youtu.be/PysHL53f3
       <td colspan="2">$2</td>
     </tr>
     <tr>
+      <th scope="row"><a href="https://amzn.to/3bR5Qjk">water conditioner</a></th>
+      <td colspan="2">$3</td>
+    </tr>
+    <tr>
       <th scope="row">betta fish</th>
       <td colspan="2">$15</td>
     </tr>
   </tbody>
 </table>
 
-Our grand total, ladies and gentlemen, is a whopping **$426**! Oh boy. And this is the bare minimum of what every fish parent should have. That is one expensive piece of "living decor!"
+Our grand total, ladies and gentlemen, is a whopping **$429**! Oh boy. And this is the bare minimum of what every fish parent should have. That is one expensive piece of "living decor!"
 
 My hope is that this aquarium will last me a lifetime. The fish will come and go (betta lifespan is 3 yrs if you're lucky), and I intend to switch up the decor as it suits my mood. I heard a great quote about how fishkeeping is less about keeping fish and more about maintaining great water quality. If your water/environment is great, then your fish will do great. And if I'm going to have my tank on my desk all day, then I'd want it to be clear and clean too!
 

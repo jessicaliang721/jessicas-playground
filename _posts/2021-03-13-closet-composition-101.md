@@ -62,4 +62,8 @@ I won't reveal my entire shopping list since that would ruin the surprise! But I
 
 The next step is now revamping my summer clothes...and repeat this cycle all over again :cry: However, this should be an easier/smaller effort since I already have so many skirts and dresses. Once again, casual/lounge wear is what I'm missing! But since I love shopping, I think I will enjoy being "on the hunt" for just the piece in these next few months.
 
+I learned all this and more from the book The Curated Closet. [Buy The Curated Closet on Amazon.](https://amzn.to/3rjUwli)
+
 **Have you tried any of these methods to upgrade your wardrobe? How were the results?**
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!

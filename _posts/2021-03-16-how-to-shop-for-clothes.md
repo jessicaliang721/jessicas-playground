@@ -79,4 +79,8 @@ Something I never did while trying clothes (but now do!) is step 2 of the mirror
    
 Stay tuned, because in the next post, we're going shopping! I put together a list of all of my favorite stores to shop online from in the comfort of my home. It's finally time to crack that wallet open, baby!
 
+I learned all this and more from the book The Curated Closet. [Buy The Curated Closet on Amazon.](https://amzn.to/3rjUwli)
+
 **What is your experience shopping for clothes?**
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!

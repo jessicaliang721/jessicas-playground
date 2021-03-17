@@ -7,7 +7,7 @@ image: https://images-na.ssl-images-amazon.com/images/I/9116pHJPKOL.jpg
 
 Throughout this last year while stuck at home quarantining in the middle of a global pandemic, I learned to keep myself busy/entertained with *many* interests. One of these projects is redefining and figuring out my personal style with the guidance of [The Curated Closet](https://amzn.to/3rjUwli).
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/9116pHJPKOL.jpg">
+![The Curated Closet Book]({{ page.image }})
 
 I first heard about this book through [A Beautiful Mess](https://abeautifulmess.com/) (one of my favorite blogs!). The idea of a "uniform" and knowing how to put together a fabulous outfit with only a few core pieces really appealed to me. I have a closet full of clothes but can barely mix and match them because *everything is patterned.* I wanted to elevate my look to be chic and comfortable even while working from home.
 
@@ -58,4 +58,10 @@ This is probably the best website that I found that explains how to create an ho
 ![How to dress an hourglass silhouette](https://global-uploads.webflow.com/5eca30fd2b50b671e2107b06/5eea40e0e2d10b82b14357b0_How%20to%20dress%20the%20hourglass%20body%20shape.jpg)
 *[The Concept Wardrobe](https://theconceptwardrobe.com/build-a-wardrobe/hourglass-body-shape)*
 
-I am so excited by these findings that I had to share it with the world! Maybe you already have impeccable style and knew these things, but I am here to enlighten the likes of me. Join me in my style evolution, as more posts about this topic are sure to come! **How has your style evolved throughout the years? Have you learned any ground-breaking styling tricks along the way?**
+I am so excited by these findings that I had to share it with the world! Maybe you already have impeccable style and knew these things, but I am here to enlighten the likes of me. Join me in my style evolution, as more posts about this topic are sure to come!
+
+[Buy The Curated Closet on Amazon](https://amzn.to/3rjUwli)
+
+**How has your style evolved throughout the years? Have you learned any ground-breaking styling tricks along the way?**
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!
