@@ -5,7 +5,7 @@ title: How to Shop For Clothes
 image: https://lh3.googleusercontent.com/yFIjwwPpNPyradcynQA81o3ONpSkiGFL71Vlh-d78gBWAu-IHCoDUX765Br6dVFTBNNVI443Q-xUMimlUQT84l3F8_Pi9oBvGKG2EZ4mUrjUfAk0-vJiBg7Q-zjC0xPaFwth_PFxJ-tLPONVBoZ0nRcqHEriS-nM8CeZ_RhsX_Znp6bhgjqm3xVmGkVInkM5FkGFKFifwclPAZ955lDQCXjrhqUzP83qnJr5CZMT35vLHVow0is_iQQ3HX_hYCGCB69ebSdMbWLSsJzm-oLWlFhrvLELtfIx_fvGnnT34w-B-IneYF3vxmH9TnG3kNGDmWKVSOkD9mFdrwP8YmviHUcz4jHE3qJ8wOHuiQdtOBJx0jAcq-PM5kchTvyUO2o2k4I4vnLp1iy--Cbh3f6e9kEgKeZx0ataufhyFdBFtH7vnYMOLqqiD3vO__K5E-Wd6CsjsqmFrcTaiVgch3zNnxeexwSEsCJTfAY3PH1HdIEVwgzDUeYa08RjiNXA39bJPNUQj7dgdKSiVoT87mK_61DrovamnikYrziue-cDQRFqKBUipMpztB-X38PS34afzvASHTea9xhunEABeyatdq7Mt4H-JSiIX1n7WtOloOdNY91hm9rLsSu3Yx9ZDvUGM2oEkf5XqvMITGGpj5wCjAHDhUNXtIrLSW9_J7guCkU6sIR3-E_xV4O4AZd0yhd1_iSnUGxfVS-_prXrJfyeo7ReInzCkSoit4-wjF9hS6UdbqWA_EWDPShAEhR4bI1VvCLpam27UNh8xu48XSs=w772-h1029-no?authuser=0
 ---
 
-It never occurred to me until I started reading [The Curated Closet](https://amzn.to/3rjUwli) that there is a correct way to shop for clothes. Only when I read its "THIRTEEN questions to ask yourself before making a purchase" did it dawn on me that most of my clothes were bought on a whim. Let's take a look at how to shop for clothes that you will *love* and wear over and over again!
+It never occurred to me until I started reading [The Curated Closet](https://amzn.to/3rjUwli) that there is a correct way to shop for clothes. Only when I read its "THIRTEEN questions to ask oneself before making a purchase" did it dawn on me that most of my clothes were bought on a whim. Let's take a look at how to shop for clothes that you will *love* and wear over and over again!
 
 ![trying on clothes]({{ page.image }})
 
