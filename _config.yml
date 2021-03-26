@@ -23,6 +23,7 @@ description: "A sandbox development and lifestyle blog"
 baseurl: "/jessicas-playground" # the subpath of your site, e.g. /blog
 url: "https://jessicaliang721.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Jessica Liang"
+timezone: "America/Chicago"
 
 collections:
   category:
