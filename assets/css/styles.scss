@@ -273,6 +273,10 @@ a {
   a {
     color: $dark-brown;
 
+    &:not(.fa) {
+      font-weight: bold;
+    }
+
     &:hover:not(.fa) {
       text-decoration: underline solid $light-orange .3rem;
     }
@@ -387,6 +391,10 @@ a {
 
       p {
         margin: 0;
+      }
+
+      .next {
+        text-align: right;
       }
     }
   }
