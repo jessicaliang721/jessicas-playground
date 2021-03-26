@@ -402,6 +402,10 @@ a {
 }
 
 .related-posts {
+  .col-md-4 {
+    margin-bottom: 20px;
+  }
+
   .img-thumbnail {
     object-fit: cover;
     object-position: center;
@@ -469,6 +473,12 @@ a {
       .tags {
         flex: 2;
       }
+    }
+  }
+
+  .related-posts {
+    .col-md-4 {
+      margin-bottom: 0;
     }
   }
 }
