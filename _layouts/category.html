@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="row category-page">
 	<div class="col">
-		<h1 class="text-center">All things {{ page.slug }}</h1>
+		<h1 class="text-center">All {{ page.slug }}</h1>
 			{% for post in site.categories[page.slug] %}
 				{% include single-post.html %}
 			{% endfor %}
