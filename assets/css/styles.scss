@@ -374,7 +374,7 @@ a {
       margin: 10px auto;
     }
 
-    p:first-of-type:first-letter {
+    .col > p:first-of-type:first-letter {
       float: left;
       font-size: 5rem;
       line-height: 0.65;
