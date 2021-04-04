@@ -33,6 +33,10 @@ h3 {
   font-size: 2rem;
 }
 
+html, body {
+  height: 100%;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
@@ -45,6 +49,8 @@ body {
 
 .container-lg {
   background: white;
+  display: flex;
+  flex-direction: column;
 }
 
 .btn-primary {
@@ -269,6 +275,7 @@ a {
 .footer {
   background-color: $coral-pink;
   color: white;
+  flex-shrink: 0;
 
   a {
     color: $dark-brown;
