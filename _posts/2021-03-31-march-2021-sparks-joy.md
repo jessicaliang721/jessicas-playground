@@ -38,7 +38,7 @@ I found these neutral colored rope baskets at Target and knew they would be supe
 
 ## 5. Puma quarter-zip
 ![Puma quarter-zip](https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12026540&id=1566246&recipeId=728)
-*[Get it](https://www.costco.com/puma-ladies'-half-zip-pullover.product.100665790.html)*
+*[Buy on Costco](https://www.costco.com/puma-ladies'-half-zip-pullover.product.100665790.html)*
 
 I already featured this piece in [My Favorite Online Clothing Stores post]({{ site.baseurl}}{% post_url 2021-03-17-favorite-online-clothing-stores %}), but I love it so much! It has been a comfy wardrobe staple this entire month. Many reviews online complained about how it's cropped, but I love that, as that's now the style I like to wear with high-waisted leggings (or jeans).
 

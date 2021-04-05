@@ -8,7 +8,7 @@ At last, everything has arrived! I was so excited for all my parts to arrive and
 
 ![Biorb Tank]({{ page.image }})
 
-## Tank and tank accessories
+## Tank and accessories
 1. [Biorb LIFE 8gal Clear Tank](https://amzn.to/3bCWmbj), which also comes with:
    - rocks
    - filter
