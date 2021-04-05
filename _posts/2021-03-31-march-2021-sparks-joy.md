@@ -6,6 +6,8 @@ image: https://i.imgur.com/tksJZZl.png
 ---
 Sparks Joy is a monthly roundup of people, experiences, or things that "sparked joy" for me during this time. If you do not know what that means, then I highly recommend that you take a gander at [this book](https://amzn.to/38Jz7ur)! It has been a great exercise for me to think about the people or things in my life that make me happier. It's like practicing gratitude, but I can geek about them here online!
 
+![March 2021 Sparks Joy]({{ page.image }})
+
 ## 1. Full length mirror
 I had been wanting a full length mirror in our bedroom for a long time now. I was hoping to nab one from Homegoods because they have excellent prices on everything. However, I didn't see any that met my criteria (gold frame!). Finally, I looked online and found the perfect one at a great price on Walmart.
    

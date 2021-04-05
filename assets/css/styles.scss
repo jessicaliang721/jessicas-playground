@@ -75,6 +75,13 @@ a {
   text-decoration: none;
 }
 
+p {
+  a {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+}
+
 .badge {
   background-color: $darker-sea-foam-green;
   &:hover {
@@ -82,6 +89,7 @@ a {
   }
   a {
     color: white;
+    text-decoration: none;
   }
 }
 
@@ -154,7 +162,8 @@ a {
 
     .navbar-nav {
       align-items: center;
-      border: 3px solid $light-orange;
+      border-top: 3px solid $dark-brown;
+      border-bottom: 3px solid $dark-brown;
 
       .nav-link:not(.dropdown-toggle) {
         color: $dark-brown;
@@ -279,6 +288,7 @@ a {
 
   a {
     color: $dark-brown;
+    text-decoration: none;
 
     &:not(.fa) {
       font-weight: bold;
@@ -544,7 +554,7 @@ a {
           margin: 0;
 
           .dropdown-menu {
-            border: 3px solid $light-orange;
+            border: 3px solid $dark-brown;
           }
         }
       }

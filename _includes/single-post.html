@@ -8,7 +8,7 @@
 			{% endfor %}
 		</p>
 	</div>
-	<div class="col-3 col-lg-2">
+	<div class="col-12 col-md-3 col-lg-2">
 		<a href="{{ post.url | relative_url }}">
 			{% if post.image %}
 			<img class="img-thumbnail" src="{{ post.image }}" alt="{{ post.title }}">
@@ -17,7 +17,7 @@
 			{% endif %}
 		</a>
 	</div>
-	<div class="col-9 col-lg-8">
+	<div class="col-12 col-md-9 col-lg-8">
 		<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
 		<p>{{ post.excerpt }}</p>
 		<a class="read-more" href="{{ post.url | relative_url }}">Read more &raquo;</a>
