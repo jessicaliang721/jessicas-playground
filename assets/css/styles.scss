@@ -75,10 +75,12 @@ a {
   text-decoration: none;
 }
 
-p {
+p, span {
   a {
     font-weight: bold;
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-underline-offset: 0.1em;
+    text-decoration-thickness: 2px;
   }
 }
 
