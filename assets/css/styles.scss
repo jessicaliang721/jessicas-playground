@@ -418,6 +418,39 @@ a {
       }
     }
   }
+
+  .scrollToTopBtn {
+    background-color: $darker-sea-foam-green;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+    line-height: 60px;
+    width: 60px;
+    height: 60px;
+
+    /* place it at the bottom right corner */
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    /* keep it at the top of everything else */
+    z-index: 100;
+    /* hide with opacity */
+    opacity: 0;
+    /* also add a translate effect */
+    transform: translateY(100px);
+    /* and a transition */
+    transition: all .5s ease;
+
+    .fa {
+      font-size: inherit;
+    }
+  }
+
+  .showBtn {
+    opacity: 1;
+    transform: translateY(0)
+  }
 }
 
 .related-posts {
@@ -575,6 +608,12 @@ a {
         flex: 0 1 auto;
         margin-bottom: 10px;
       }
+    }
+  }
+
+  .post-page {
+    .showBtn {
+      opacity: 0;
     }
   }
 }
