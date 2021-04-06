@@ -13,6 +13,8 @@ $light-orange: #FDDDC8;
 
 $hero-image-max-width: 350px;
 
+$body-font-family: 'DM Sans', sans-serif;
+
 // general
 h1, h2, h3, h4, h5, h6 {
   color: $dark-brown;
@@ -38,9 +40,10 @@ html, body {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: $body-font-family;
   font-style: normal;
   font-weight: normal;
+  font-size: 18px;
   background-color: #ffffff;
   opacity: 1;
   background: radial-gradient(circle, transparent 20%, #ffffff 20%, #ffffff 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #ffffff 20%, #ffffff 80%, transparent 80%, transparent) 52.5px 52.5px, linear-gradient($lighter-pink 4.2px, transparent 4.2px) 0 -2.1px, linear-gradient(90deg, #f7cbc4 4.2px, #ffffff 4.2px) -2.1px 0;
