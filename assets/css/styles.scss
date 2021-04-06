@@ -78,12 +78,9 @@ a {
   text-decoration: none;
 }
 
-p, span {
+.post-body, .single-post p {
   a {
     font-weight: bold;
-    text-decoration-line: underline;
-    text-underline-offset: 0.1em;
-    text-decoration-thickness: 2px;
   }
 }
 
