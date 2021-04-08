@@ -5,10 +5,10 @@ title: Joshua Tree National Park
 image: https://lh3.googleusercontent.com/pw/ACtC-3fUpgCdh393MFyGqXv0BV3svwrujrsNxJRyUgFAtV5PqBLWsdYGY9Iecy7U9pGJ-qKbdqZGWAjddOePp1raxA3GZce0PpHX1HsGnLp3LmEGzIjuXNa-wUBGIEiY922_Z86bn1m-any2Q69ukaX3k_XdLQ=w1000-h667-no?authuser=0
 ---
 
-I had to eat my own words (No naps while out traveling! Sleep is for the weak!!) on the FIRST day of our trip when a 3 hr plane ride + 3 hr car ride to Joshua Tree National Park gave me a headache. While it bummed me out that I had to take some time to feel better, we still did have plenty of time left to see parts of the park before sunset. The perks of heading west, where the sun sets at 7-8pm! With a couple of hours in Joshua Tree, here's what we did/saw:
+I had to eat my own words (No naps while out traveling! Sleep is for the weak!!) on the FIRST day of our trip when a 3 hr plane ride + 3 hr car ride to Joshua Tree National Park gave me a dull headache. While it bummed me out that I had to take some time to feel better, we still had plenty of time left to see parts of the park before sunset. The perks of heading west, where the sun sets at 7-8pm! With a couple of hours in Joshua Tree, here's what we did/saw:
 
 ## Hidden Valley Trail
-Hidden Valley hike was a nice, short, 1 mile hike around the "hidden valley" of Joshua Tree National Park. It gave us a good overview of what Joshua Tree was all about. And yes, it was mostly Joshua Trees, rocks, and stretches of desert.
+Hidden Valley was a nice, short, 1 mile hike around the "hidden valley" area of Joshua Tree National Park. It gave us a good overview of what Joshua Tree was all about. And yes, it was mostly Joshua Trees, rocks, and stretches of desert.
 
 ![Us in Joshua Tree](https://lh3.googleusercontent.com/pw/ACtC-3cIkhHUGIfp1xBN--MDHIu4N8oAM1mWxvq3R853AqU9TtpKMcnK2WWpVCd1j9vXWUFfRJRBPfhZT3FkV27Eos21tqMWjjQ1PW2_dc9iN1q0y5NBCWOaskmjfPB6yP3dHf1OmbihB6DbVKEr6-7KawcWDQ=w1000-h667-no?authuser=0)
 
@@ -18,7 +18,7 @@ Hidden Valley hike was a nice, short, 1 mile hike around the "hidden valley" of 
 ![Me with Joshua Tree](https://lh3.googleusercontent.com/pw/ACtC-3cxE7jf-pSRd7wotv2f_dn79v8mLe_hRSnyk3GNj4gXmiKXlsvSj1Oo62_WwfqZnv1RH3Lu8OE9oAC9DVJ6ylsSCjK51Rl9YXl6OAfRrndTAaGF6Qt2tRNYTEuRp3KrlqL-6mU1GccURgj62QghrIGxvA=w1000-h667-no?authuser=0)
 *We each picked out our own Joshua Tree!*
 
-It tickled me that people use to steal each other's cows and hide them here. Hidden Valley indeed!
+It tickled me that people used to steal each other's cows and hide them here. Hidden Valley indeed!
 
 ![HB on Rock](https://lh3.googleusercontent.com/pw/ACtC-3eeWXUHYqsIrmb2wHHBIYzvuEQ24Nl5H3r7y2igwuUkEdrQU-A4uPyUdhXfgWZLjw60B7dr6hJZURxRTjVLy7U87h05_S1yKE-IWwxacIEveyQAGgSEA1OtF2lfj52llKwQd1r7qK7ypwGHce2QggJuEg=w1000-h667-no?authuser=0)
 
@@ -30,12 +30,12 @@ It tickled me that people use to steal each other's cows and hide them here. Hid
 ![careful](https://lh3.googleusercontent.com/pw/ACtC-3fpRVjPVqq32pMvhXmTEP8vxSOGWB3G-DUsyNpW_bYaFNd5-NARwc3NL9sr60wMtx0d0djpmKh1m7tuLQ-t4xKaRC9up5nuzkH7Ud4hEhjwxsS2t8SBO1vODMZyCkBrpOznxgRAzjPzpGW06RuEmBNbMQ=w1000-h667-no?authuser=0)
 *Be careful!*
 
-There was a nice variety of different landscapes to see in the desert.
+There was a nice variety of landscapes to see in the desert.
 
 ![Tree](https://lh3.googleusercontent.com/pw/ACtC-3eLxH81kIZynaj9e2NyJMna27fwiJJ16KlmM_DK7QZMcdj3h0O-wM6wmIXG8VFvyAmBECrRLSbQufnHbGYJTl9T704n7HjbWNFF-brn1OhSNS_T25g9ur300OsR62qCfayHQ5-inUMomdsjLT_TdLYcpA=w1000-h667-no?authuser=0)
 
 ![HB alone](https://lh3.googleusercontent.com/pw/ACtC-3cxscQONidr8VyIYhIFShNmZHguNfMhVLP6Zr1LvEFjX9p1RZX537xZaq-4qPidUEcffTHUgj-hV-ddHsbQ4oCUpUMLnxhE_WCKo7pCzTd0LgKtWBRm_B8-7yodhe-IV9tkFYoJf5mZNYh04y4zjMgNzg=w1000-h667-no?authuser=0)
-*Doesn't this look like an album cover or something?*
+*Doesn't he look like he belongs on a boy band album cover or something?*
 
 ![Together in desert](https://lh3.googleusercontent.com/pw/ACtC-3f6nf-ZII91WDvLKzlHoRjCKtF6gU0VFTeiqSYNFCm8ABss6UskJaR6EGz6T94arsXfjsgZpHxSs1MjpWjA05HhVEsA-od-jnSnaM4FHIEEuP3TQPfwf_9TQgbpEVoCLJESQ2zwt_OSZcT3Xt3shQyvWw=w1000-h667-no?authuser=0)
 
@@ -43,9 +43,11 @@ There was a nice variety of different landscapes to see in the desert.
 
 ![Cactus](https://lh3.googleusercontent.com/pw/ACtC-3cY3YsoR7bN5aOazRfk1Oi8nmvCousN5bg1cq3fJWVwidcG6GR_8rksnGoSeluXekPwcrdVFFjACOkXEVLW3zByrEwvyLQitdM4oD20AXqNIg4D4MegVUI2juqL5NvwACbScKREeflK3fNn4DJdond6dg=w1000-h667-no?authuser=0)
 
-Over all, it was a nice, easy hike on flat terrain that we were able to complete in about an hour. Though if you want to scramble on the rocks, you can! Keep in mind there is little to no shade on the trail!
+Over all, it was a nice, easy hike on flat terrain that we were able to complete in about an hour. Though if you want to scramble on the rocks, you can! Also keep in mind there is little to no shade on the trail!
 
 ![climbing rocks](https://lh3.googleusercontent.com/pw/ACtC-3d5CV3Pu94VDK6ZtJbQWJ1v6rwquVBWnpviLfFOpRXblaNArQuZeJtl4_SMOMbAMmtTaJBhVsCFUdZU3vEmM2AmVVnutDfZivkADswHJep2puRahtGxsblcFxCfoYuBXEQIexyRuj_VI2uGcnUIV39dMg=w1000-h667-no?authuser=0)
+
+![top of rock](https://lh3.googleusercontent.com/pw/ACtC-3eKdP0Agir-RUUfgLMTN7t5mTVY4zVtlLepmT1Mk5zOepiboyi_ajyIe19MkwY0CRSq_PWR6TQ5y_uXm3PJWqdXJNKcEfxQjNNwlxXzMLI8c8g5BLBpp0gY1-VF4fYVRCb7C7mVHJwoR2pjvMAY_NnASQ=w1000-h667-no?authuser=0)
 
 Getting there, on the other hand, took us forever since it's near the Hidden Valley campground where we parked. But the trailhead itself has its own parking lot. Hope that saved you some walking!
 
@@ -73,10 +75,10 @@ Joshua Tree is known for being a Dark Sky Park. But not on the day we went! You 
 Below are additional places that we really liked and would recommend.
 
 ### Eat
-Man, we were spoiled on this first day with [Mexican Street Tacos](https://www.yelp.com/biz/mexican-street-tacos-twentynine-palms-2). They were so cheap and delicious. No other places as we drove out east had such comparable food. The menu contained stuff besides tacos like burritos, quesadillas, etc. But I was there for tacos! We enjoyed it so much that we went for both lunch and dinner. My favorite taco was *lengua.* YUM! Due to COVID, the place only offered take-out.
+Man, we were spoiled on the first day with [Mexican Street Tacos](https://www.yelp.com/biz/mexican-street-tacos-twentynine-palms-2). They were so cheap and delicious. No other places as we drove out east had such comparable food. The menu contained stuff besides tacos like burritos, quesadillas, etc. But I was there for the tacos! We enjoyed it so much that we went for both lunch and dinner. My favorite taco was *lengua.* YUM! Due to COVID, the place only offered take-out.
 
 ### Stay
-As proud members of the Marriot credit card, we got a free night's stay at the nearby Fairfield Inn! It was so conveniently located - very close to Mexican Street Tacos :wink: and the Oasis Visitor's Center. From there, it was about a 30 min drive to Hidden Valley. Despite COVID, the hotel still offered breakfast (though limited).
+As proud members of the Marriott credit card, we got a free night's stay at the Fairfield Inn using points! It was so conveniently located - very close to Mexican Street Tacos :wink: and the Oasis Visitor's Center. From there, it was about a 30 min drive to Hidden Valley. Despite COVID, the hotel still offered breakfast (though limited selection).
 
 **Have you been to Joshua Tree National Park? What would you recommend to see/do around here?**
 
