@@ -28,10 +28,14 @@ It tickled me that people use to steal each other's cows and hide them here. Hid
 ![skinny cactus](https://lh3.googleusercontent.com/pw/ACtC-3c-l1PSepJ42qY1eKeDEl65YCdxi-v5EOZIIXZ9xysnuKLwe8E8pg3lgvrdK5eFtgUNRgeO_5jU51F_S1EzZXHdciXgWXcUgi2GkiaKHP_cYsBPh09GY7ZFThzMw_gNs10Ic2xJrcfg-YR-d7p7pjzXAw=w1000-h667-no?authuser=0)
 
 ![careful](https://lh3.googleusercontent.com/pw/ACtC-3fpRVjPVqq32pMvhXmTEP8vxSOGWB3G-DUsyNpW_bYaFNd5-NARwc3NL9sr60wMtx0d0djpmKh1m7tuLQ-t4xKaRC9up5nuzkH7Ud4hEhjwxsS2t8SBO1vODMZyCkBrpOznxgRAzjPzpGW06RuEmBNbMQ=w1000-h667-no?authuser=0)
+*Be careful!*
 
 There was a nice variety of different landscapes to see in the desert.
 
 ![Tree](https://lh3.googleusercontent.com/pw/ACtC-3eLxH81kIZynaj9e2NyJMna27fwiJJ16KlmM_DK7QZMcdj3h0O-wM6wmIXG8VFvyAmBECrRLSbQufnHbGYJTl9T704n7HjbWNFF-brn1OhSNS_T25g9ur300OsR62qCfayHQ5-inUMomdsjLT_TdLYcpA=w1000-h667-no?authuser=0)
+
+![HB alone](https://lh3.googleusercontent.com/pw/ACtC-3cxscQONidr8VyIYhIFShNmZHguNfMhVLP6Zr1LvEFjX9p1RZX537xZaq-4qPidUEcffTHUgj-hV-ddHsbQ4oCUpUMLnxhE_WCKo7pCzTd0LgKtWBRm_B8-7yodhe-IV9tkFYoJf5mZNYh04y4zjMgNzg=w1000-h667-no?authuser=0)
+*Doesn't this look like an album cover or something?*
 
 ![Together in desert](https://lh3.googleusercontent.com/pw/ACtC-3f6nf-ZII91WDvLKzlHoRjCKtF6gU0VFTeiqSYNFCm8ABss6UskJaR6EGz6T94arsXfjsgZpHxSs1MjpWjA05HhVEsA-od-jnSnaM4FHIEEuP3TQPfwf_9TQgbpEVoCLJESQ2zwt_OSZcT3Xt3shQyvWw=w1000-h667-no?authuser=0)
 
@@ -39,7 +43,9 @@ There was a nice variety of different landscapes to see in the desert.
 
 ![Cactus](https://lh3.googleusercontent.com/pw/ACtC-3cY3YsoR7bN5aOazRfk1Oi8nmvCousN5bg1cq3fJWVwidcG6GR_8rksnGoSeluXekPwcrdVFFjACOkXEVLW3zByrEwvyLQitdM4oD20AXqNIg4D4MegVUI2juqL5NvwACbScKREeflK3fNn4DJdond6dg=w1000-h667-no?authuser=0)
 
-Over all, it was a nice, easy hike on flat terrain that we were able to complete in about an hour. Keep in mind there is little to no shade on the trail!
+Over all, it was a nice, easy hike on flat terrain that we were able to complete in about an hour. Though if you want to scramble on the rocks, you can! Keep in mind there is little to no shade on the trail!
+
+![climbing rocks](https://lh3.googleusercontent.com/pw/ACtC-3d5CV3Pu94VDK6ZtJbQWJ1v6rwquVBWnpviLfFOpRXblaNArQuZeJtl4_SMOMbAMmtTaJBhVsCFUdZU3vEmM2AmVVnutDfZivkADswHJep2puRahtGxsblcFxCfoYuBXEQIexyRuj_VI2uGcnUIV39dMg=w1000-h667-no?authuser=0)
 
 Getting there, on the other hand, took us forever since it's near the Hidden Valley campground where we parked. But the trailhead itself has its own parking lot. Hope that saved you some walking!
 
