@@ -112,7 +112,7 @@ Well once we arrived, we discovered that it was not mossy but *icy!*
 
 In the summer when the ice has all melted, I'm sure the cave would look like it's namesake. But I thought it was still pretty cool to see all the remaining ice in the cave. Once again, coming from Texas, I was surprised to see parts of the country still covered with snow/ice when it was already a nice, balmy 70-80 deg back home!
 
-**Have you been to Bryce Canyon National Park? What would you recommend to see/do around here?**
+**Have you been to Bryce Canyon National Park? What would you recommend to see/do around there?**
 
 P.S. Some of these photos will be available in my [online photography shop](https://society6.com/jessicapei) soon! In the meantime, you can check out my existing [American Southwest collection](https://society6.com/jessicapei/collection/american-southwest).
 
