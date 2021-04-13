@@ -13,8 +13,7 @@ function scrollFunction() {
 }
 
 function scrollToTop() {
-    console.log('button clicked');
-    rootElement.scrollTo({
+    rootElement.scroll({
         top: 0,
         behavior: "smooth"
     })
