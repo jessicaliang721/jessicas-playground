@@ -101,7 +101,7 @@ We ended up going all the way down past Wall Street to Floating Rock before turn
 
 ![HB in Wall Street](https://lh3.googleusercontent.com/pw/ACtC-3cIy5xtoWO_9soisZ3loSY4_dgtHFxxOiSDHCSbherqWhFBZo8sUpg_gX4BLt8wFQLeMRKMdmvogvJoVZ28TJrrYUmOpl5VecxMZx-WFA42TBTTYQXJYZZSeWMxl8PzI2WKdat7TGDCvuiQok8li1t-hQ=w1000-h667-no?authuser=0)
 
-<div class="row row-cols row-cols-md-2 gy-4 text-center">
+<div class="row row-cols-1 row-cols-md-2 gy-4 text-center">
     <div class="col"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cCUUOm2sefGcWnoFfX4qqqBgx1oFFWPJiCzxSdW_OnOSQKBnbAAc2TCs35K0ldprklVG0H6yDS6Evlm8nUpGwIadlz_872eJmsXjtWe-cskKqSsiwZPZa9fnw6wjOeB_r3rkwWWk2mtxk3LXcMQmgWLQ=w501-h751-no?authuser=0"><span>Sheer rocks in Wall Street</span></div>
     <div class="col"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e7PfSpl7YpACtlK4Q11okYJkyI-i3y5T8kuV7FTV_pAjk4zi98Q7eS-qviabYaC1AfcephOfU5mFeOSyKf8-dcJk1EI2p_JJ4MyXvPYDja98konwxwbXpQeptD5elawR4TDbSzgKt2kzbAHULeNXjJoA=w501-h751-no?authuser=0"><span>Floating Rock</span></div>
     <div class="col"><img src="https://lh3.googleusercontent.com/pw/ACtC-3foMLVcbEAPOy6Ba6Z2TMpYMFI02fk_Jy2G6hcLAQSHM4-3N0qD4etcjebkqa_FcG1_jSwfES2CiT-va1kZB3eW3P1jsmkjnLuMNwiJALs5tL4yBSRxEDue4Oow-lpEZYHFphPzRb-kIjSfoYyhHMI2tQ=w501-h751-no?authuser=0"></div>
@@ -110,7 +110,7 @@ We ended up going all the way down past Wall Street to Floating Rock before turn
 
 It took us 2.5 hrs to get up there, with a little detour down the right side of the junction. It was a narrower canyon, Orderville Canyon. The water was also much more shallow, perhaps only ankle deep. This turned out to be one of my favorite parts of the hike because it was easy (ha) and it was nice and quiet. Few people chose to go down there.
 
-<div class="row row-cols row-cols-md-2 gy-4 text-center">
+<div class="row row-cols-1 row-cols-md-2 gy-4 text-center">
     <div class="col"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cWaDD-4_EJwstwE2WPsPSAIJdsAiKuPlfAPefr8mjqUbVj9WiK9ZR-iNBOpVIjC4z_ZnVyzNFxtmXD8cHlN9KoEz5ouUpaCUDHJ057fuaNv__S9AjGNBfIGGleJEaDKXrfKFas1qgRzRnikrv0TFdAPg=w501-h751-no?authuser=0"></div>
     <div class="col"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cR-9urG0tUBy7xTkhnzcRusEWp1C9RpQw6NKAdPLeRF1sp_KhK-91HvxuV9ENLehDZNV3aWc0gA_OfJB6I0xpswFqQ_6S2n2OcdmpUG8p6cyz4YluIUPkjVkGR3X9iE8Ju_rUWLFN6CxumxzVk7cSHSg=w501-h751-no?authuser=0"></div>
     <div class="col"><img src="https://lh3.googleusercontent.com/pw/ACtC-3e_As-hQGpLgvzmr6q0g4mJPA1HUt6S7YZYWNL9it4N2q_8lvS3EWwq_v3-btv_xfMJCYTyvkJ-6mzICSLIF1MuVxrUd4fHgJaMSyhk3fTieOACU3gBUmSj6UCMdcEcHqjA9tcbrF-LsF6ucaxvrwXRGA=w501-h751-no?authuser=0"></div>
@@ -139,7 +139,7 @@ We tried two different restaurants in Springdale and there was a clear winner. O
 A little birdie told us that Springdale Candy Company had the best ice cream in town. We tried it and it is indeed good. They have your classic ice cream flavors and then some. I tried strawberry + huckleberry but preferred strawberry a little more. But it was my first time trying huckleberry, which was like a mix of blue and raspberry, so if you like berry-heavy flavors, you might enjoy it!
 
 ### Souvenirs + essentials
-I picked up my [souvenir t-shirt]({{ site.baseurl }}{% post_url 2021-04-11-week-of-4-5-21-outfits %}) from Hoodoos General Store. But the store also contains a bunch of other stuff such as snacks/quick meals, a deli, and camping essentials.
+I picked up my [souvenir t-shirt]({{ site.baseurl }}{% post_url 2021-04-11-week-of-4-5-21-outfits %}) from Hoodoos General Store. But the store also sold a bunch of other stuff such as snacks/quick meals, a deli, and camping essentials.
 
 **Have you been to Zion National Park? What would you recommend to see/do around there?**
 
