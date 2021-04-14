@@ -133,7 +133,7 @@ It seems that every time we come to Zion we do a hike marked “strenuous” - l
 Below are the places that we really liked and would recommend.
 
 ### Lunch/Dinner
-We tried two different restaurants in Springdale and there was a clear winner. Oscar’s Cafe was our favorite. They had a good selection of burgers and Mexican food. Their service was also friendly and speedy. We also didn’t have to wait very long for a table despite coming during the lunch rush. We didn’t realize how important speed was to us until we waited for AN HOUR to be seated at the other restaurant when the estimated wait time was 30 min. Then we waited another 30 min for our food. Nah, just stick with Oscar’s and you’ll have a good, ½ burger in your belly in no time.
+We tried two different restaurants in Springdale and there was a clear winner. Oscar’s Cafe was our favorite. They had a good selection of burgers and Mexican food. Their service was also friendly and speedy. We also didn’t have to wait very long for a table despite coming during the lunch rush. We didn’t realize how important speed was to us until we waited for AN HOUR to be seated at the other restaurant when the estimated wait time was 30 min. Then we waited another 30 min for our food. Nah, just stick with Oscar’s and you’ll have a good, ½ lb burger in your belly in no time.
 
 ### Dessert
 A little birdie told us that Springdale Candy Company had the best ice cream in town. We tried it and it is indeed good. They have your classic ice cream flavors and then some. I tried strawberry + huckleberry but preferred strawberry a little more. But it was my first time trying huckleberry, which was like a mix of blue and raspberry, so if you like berry-heavy flavors, you might enjoy it!
