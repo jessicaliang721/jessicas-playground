@@ -1,7 +1,7 @@
 <div class="row single-post">
 	<div class="col-12 col-lg-2 metadata order-lg-last">
 		<p class="date">{{ post.date | date_to_string }}</p>
-		<a  class="category" href="{{ site.baseurl }}/category/{{ post.category | slugify }}">{{ post.category }}</a>
+		<a  class="category" href="/category/{{ post.category | slugify }}">{{ post.category }}</a>
 		<p class="tags">
 			{% for tag in post.tags %}
 			{% include single-pill.html %}
@@ -13,7 +13,7 @@
 			{% if post.image %}
 			<img class="img-thumbnail" src="{{ post.image }}" alt="{{ post.title }}">
 			{% else %}
-			<img class="img-thumbnail" src="{{ site.baseurl }}/assets/images/category_icons/{{ post.category }}.png" alt="{{ post.title }}">
+			<img class="img-thumbnail" src="../assets/images/category_icons/{{ post.category }}.png" alt="{{ post.title }}">
 			{% endif %}
 		</a>
 	</div>
