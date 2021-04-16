@@ -22,3 +22,11 @@ It'll also be a whirlwind of a trip where we are trying to see as much as we can
 Of course, COVID risks will still be at the back of my mind as we travel. I suspect that we will never look at large crowds the same way again! The irony is that Texas is administering the vaccine to everyone *while we are gone.* Hah. But I don't want to live my life in fear. It'll have to be a balance of caution and fulfillment on my part. Hopefully we will be able to stay safe on this trip and make it back in one piece. Your prayers are appreciated!!
 
 **Have you been to some of these parks before? What were your favorite activities there?**
+
+*UPDATE: we had gone and come back and tested negative for COVID! Here are the posts from that trip:*
+
+- [Joshua Tree National Park]({% post_url 2021-04-08-joshua-tree-national-park %})
+- [Grand Staircase-Escalante National Monument]({% post_url 2021-04-10-grand-staircase-escalante-national-monument %})
+- [Bryce Canyon National Park]({% post_url 2021-04-12-bryce-canyon-national-park %})
+- [Zion National Park]({% post_url 2021-04-14-zion-national-park %})
+- [Outdoor Activities Near Las Vegas]({% post_url 2021-04-16-outings-near-las-vegas %})

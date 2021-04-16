@@ -91,7 +91,7 @@ I originally thought the entire hike would be in the water only. That was not co
 ![HB on big rock](https://lh3.googleusercontent.com/pw/ACtC-3dHQ64M1_JMSL1LFBgFUP6ahl0B7wgWc-ssYROC-89HOhLbaO8Jd321vxv2yGyIsaYsqvPbafGbC5HX7t1EXHBdzkLF7th21uNHAwSfaTARJuvYXlwaVRZDlkFU3ogInzXNJeEWETCzxT01B-33g-YVWA=w501-h751-no?authuser=0)
 
 ![LOTR](https://lh3.googleusercontent.com/pw/ACtC-3dmsk1HQr7FWgZwDu-THvAE10GVr0G55qqGitRGYleh6ltHZJhVwEejoLkKLt6Py9e-RwOgUm5AjgrYXCs9V9NleOTEQUPp1WkYfochJHkWXoDyQacSqCpR6papDwS0maNr2jSlZApkCXp0z8K4b4MvIQ=w1000-h667-no?authuser=0)
-*So the scene that HB was trying to recreate here was [this one](https://static.wikia.nocookie.net/lotr/images/7/79/Argonath.png/revision/latest?cb=20210114222756) from LOTR but he told me the wrong pose :laughing:*
+*So the scene that HB was trying to recreate here was [this one](https://static.wikia.nocookie.net/lotr/images/7/79/Argonath.png) from LOTR but he told me the wrong pose :laughing:*
 
 The highest the water ever got for us was up to our crotch! Talk about a cold shock! :stuck_out_tongue_closed_eyes: I am very impressed by little kids who do this hike. They are practically swimming in some parts!
 
