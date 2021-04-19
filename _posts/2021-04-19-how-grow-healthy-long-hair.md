@@ -7,12 +7,12 @@ image: https://lh3.googleusercontent.com/3UurlHQ9Cz3ZHTop7l2GCwvZnFJ_tyv_kayrjtl
 
 Last spring when the world shut down - including hair salons - I went with the flow and decided that I simply grow out my hair. I chopped off my long locks shortly after getting married (seriously, does every woman do this?) in 2018 but didn't think I'd grow it out again so soon. But ya gotta be flexible in times like these, right?
 
-![hair last Feb](https://lh3.googleusercontent.com/wUr88KAw6QDvElUlxz26-wFFSeVKTX5Iwkadw7MlMsRh_T1wyVKD_fb--U_2QpTQ_9WeK9z-dd1oxSPtM3zecZn0Vmc-XCVaZPMcS3khhunPegwVgNqfAO7jdEijiOSCeDN5lVxYJqNO0nlOfPFs6pKJWVl1Wx0WEHP2RUxiLN39r1XTrdDns-7NHqmU3sQFUKKrf9aMAf2PYl-gB7VphwoLWcwBXXI1GFhcK3CEf5GYurXRvIASMvEjVVjWxvwJkQnqyY4fa-wuoW8u-OOUxR-eXOqW3ifB99kqFC3M6p2EiKtBx1CeB1siAYx_502yM3c4Ij_N9rCxIpFYu2yBO5TGhutpFwIeIHxXLFmqH8a9rAo2It4xovAeT-XSHDKn_ZePoRe65ThtuGw7m3nrYnvN93AjDB1tQfepea8_oOuhX1_kQ6J3ZKt4neH9X-r7Ra1n5nbYapACYrscyD_f5GVoLcnKck7I0k62mAzjlrcyi5S7grEPu8Ujagrc-Bq0aEZDswkH5RNo7TnQetJqE3-NulyKrSmaRMPuk1IJgeibAOrZ8FoRVKw3dUPenb8nTClD5vXl4AJLsY99gPDsMaE9zWyOp4TbgJn76qiF8SpDLYRBkI6-mzDZvUVvE41xry8Dbc1CDdM6Bj3dfM_sOfJifN1aYIGIsjxn2p0nQQFvjkUwCpQK4V7ly3tA32gXlKuD0Rq7iqmcMYWDkwh8zFqp_A=s895-no?authuser=0)
+![hair last Feb](https://lh3.googleusercontent.com/mv1KywLWmNULYxjTVERp-JS_luAcPrfYi79Dfd8FnMU6VFiJ1WHAhyxQeQ44brwA-HTijUqGMd3WcnMO5iSHrmf9gWi7JR1HZQqfeRm3lmsMTbtjPfJ2Mn_wElZI6tt0n9Q8o3XVTNCBV9UorxRuu7BwJMk_8WyOqjjTsZko3c-F7uR5M54ss5XJJqktbWWknQt22fHHll37XLd3b7zWFYmV8M_Y_IvzsV05I69j5eo06uZ4WAsJgd9PbgNAAJuFnTfMKwMhHaT4n24KAgNTVKTkup3YXa_Jar49egvb3ZfoP9__m0LqhPz45pbBzDOJmsEAWybJ5XOC69Q-Ch-0XRJTsv8ZGdOc9guJXmU89IFmXZT8JP8DxM3-W9DXl_jhvyXvAkfVZELlKKeIMrlXbJFS350McM0mWEJea8oNMtIOZA2Ge7qn830jrpkHkw4DxxhSUsNJW7L4fdyNUpOyuvbTbTNjeZDYwyrQBv_M4qka-ytdhjesf8S74F7myJH5mbeABVFaqOyorVWzqSC_dDkLPdJLB6iNvC0ZIKSs8Mlp7zFuNj9EBuH8zwuVwo2LXyJZ8Zwzg8d8GEeoCvlrPynSxqNja_zvXw95s188wLX0RVIWr6FGJHqvVC8ybLZWZLT9IXwOR_e5eIF4WSd-GL4o3o0O7g7AJci0JaKX-GS2IFUSq49F7BV1vm7HVZpAlfrqldbuBCoWpycU_0UhDZ24wPd1V2pFwP1mMT9ud8a7j5xvidg2rrzQT7ZnsVtHMpgscd1uHYtgVzEIQ2w=s984-no?authuser=0)
 *My hair length in Feb 2020*
 
 Of course, I went onto YouTube to learn how other ladies grow out and take care of their long hair. This is my [favorite channel](https://www.youtube.com/user/holistichabits). I learned, though, there is no magical product that  accelerates hair growth. **Time** is the only solution. BUT! We can help our hair become as healthy as possible to give it a chance to grow out. And here, my friends, is where I discovered that hair products *do* make a difference. Here's a bunch of tips and products that helped nourish my hair. As you can see, my dedicated care aided my hair growth - about 6 inches in a year!
 
-![hair this Apr](https://lh3.googleusercontent.com/i_W1S7kewCCM6maPyCI3y75b2h9BDtmpOf87KMzOC8QFdQ74WZt0IKAmgPugIfNZeRvjZjg9JRtmPn8zeOh5locMQGCwdCXBiAVsJdZdb3I2KqyxjLmQpg6KnKMMUBLUB4JaKqpgKt0-TFJpKFLzOEPiA-0_BT8TJV5uyOIF6YJX8Ju28bTxlevnf7DgYYVsbaTiqTQP6CAPl9aKQaGWyhqxegUftF_EX_XNV6Cb6IJXciVISOE9nVk0jkbUToBZdz18b3bljOWId5B6jXpWYXnul53uVz7CfnAatm9H74zAf1QJi-aOED9CtVDZAXICHxIIP1voGYZQ2nf_c6C7TJCZxd8w_Uv-uMaR1BlW4p_5VVPOXwFTROdbom_su31_1RdqN5GdtpThgH_Tau714OfpeNRGxCnBxavAUldE3qum9ffPP_j6dpufRStEJGgg7nMRf6MSIUNUNuuUrW4EpwfFPi4RRY7WDKz4mSsBlFr_Xk6ynZmx4rJCFPQKH1eqk-Rl18DhQrbNp83avPL_ZxRU0mRBKKW-mkdVCtSm2Wz5cAFXM05IyYAvXut_OY-zqm2y1Vn89Og2Dlni3foZrDXoAo8PCIUvmKNfMbAIAB2wz4W_gYwjJmREtXqRPyLeMVFjWgGN5nnmibJ8u1XL7yhCt5v4ApSKH-W5sqd95DiK2qLNuRRGzVlUefLgG_tG64ImwBS-5jO_-wuCBOkq86ijdA=w672-h895-no?authuser=0)
+![hair this Apr](https://lh3.googleusercontent.com/0lr1B_ODmrhFCP79aoEuIU5mjTXthym1muJ59CIijsbtoJhHvsl5JhsEFMVyXfQ-x3HRDK4y7I0cfU11SQQwGFIf5pDimxZBCUl_VqC9ZOg5HolBiutf2-d0fb1tUj9o-HLsSip4381WIJiE-cGu21zscVUeW-w8VQX-xyLir9JQOtfbNmtjIkqu7NJWbM-WJLPU3flcM-UMuXPLMl2SsPbgWSplUCdZwZIwz5yMdoRWddn9e6uLSS3xbL_azTXE_bRKLkG6f6Ugr3HPGY0PuSe7QfOvOpfY2fCPMYc7a-D_4LNue4Jm8prLIJFauFEnA8TMQO92MJfkyam8BU-LXojW9WEj96MGFd70OFc93Do86TdRaD3Zrf6BEsP2zCI_wws-VVy8I4Q9zK0oLY7vBVzTsTahY0_ixM_lN9bUxvl6LsFRyjn-lLxdFBtRy_yBxEVsmFxmeV-7DaiiIEq6OHvs1nrLN0q_yVQnTCHG6er7uQO2kfQcg-ON6Xra1_CjWTVSDC0SdC6giT5qydKhuP4RHlkbx0qd7FeC7iOnJKDLSk8YWyV5cpa1okix61apIyHWoA9EnK_r5nE8jmcyy7iJzDI5vXh25as2QO6276kAZvYrqO86YOhv9LpWdshY_GFBMQJig25hxom12UmbMfR8N5_YL7KafFhu2ZB8bLqFqb0AyHXjokxwChSK92XER8OLBfZo6BRyn9V3Mr1vRjMTdeWPxozikAkwU1rMW2FTqi5ADrL04RobrtrpJspqUmhzc9hlD_CZgA7XrZI=w738-h984-no?authuser=0)
 *My hair length in Apr 2021*
 
 ## Tips and Tricks For Hair Growth
@@ -74,6 +74,15 @@ Sometimes if I want to go the extra mile, I will even apply [leave-in conditione
 
 ![Shea Moisture leave-in conditioner](https://images-na.ssl-images-amazon.com/images/I/817ZZsvNHJL._SL1500_.jpg)
 *[Get it on Amazon](https://amzn.to/3s3vbLS)*
+
+### Wooden comb or boar bristle brush
+These kinds of materials help evenly distribute hair oils from the roots to the rest of the strands. Now, I exclusively use my wooden comb!
+
+![wooden brush](https://images-na.ssl-images-amazon.com/images/I/71YVzQxNwmL._SL1200_.jpg)
+*[Get it on Amazon](https://amzn.to/32rFdvX)*
+
+![boar bristle brush](https://images-na.ssl-images-amazon.com/images/I/714nYz4ixNL._SL1500_.jpg)
+*[Get it on Amazon](https://amzn.to/3v0UEaH)*
 
 ## Other things to try
 In my extensive YouTube research, I saw that other ladies added these other practices to their hair growth routine. Personally, I am too lazy (or unwilling!) to incorporate these steps into mine. But I'll share them here since I already did the research and in case you want to try!
