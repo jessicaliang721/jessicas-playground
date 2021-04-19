@@ -1,6 +1,6 @@
 ---
 tags: [pets]
-category: home
+category: musings
 title: How Much Will Fishkeeping Cost?
 image: https://cdn.shopify.com/s/files/1/0311/3149/articles/EV32OkFv_8eb2cfc4-cfb2-44dd-af03-220d087846d9_1000x.jpeg?v=1578218912
 ---
