@@ -1,3 +1,3 @@
 ---
-name: mood-boards
+name: mood boards
 ---
