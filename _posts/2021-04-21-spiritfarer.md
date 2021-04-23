@@ -27,12 +27,12 @@ A lot of them involve going to other islands. I like how new places get revealed
 ![Spiritfarer map](https://assets.nintendo.com/image/upload/c_limit,f_auto,q_auto,w_1920/ncom/en_US/games/switch/s/spiritfarer-switch/screenshot-gallery/screenshot05?v=2021041703)
 *[Image Credit](https://www.nintendo.com/games/detail/spiritfarer-switch/)*
 
-In addition to these main tasks, you can do additional things like fish, cook, garden/farm, and upgrade your boat. They don’t play as huge a role as completing the main quests. I do these secondary tasks when killing time sailing from island to island. In fact, I like how they aren’t a huge focus, unlike Stardew Valley where every task you do can be pretty important. Instead, I like the focus on the main spirit tasks.
+In addition to these main tasks, you can do other things like fish, cook, garden/farm, and upgrade your boat. They don’t play as huge a role as completing the main quests. I do these secondary tasks when killing time sailing from island to island. In fact, I like how they aren’t a huge focus, unlike Stardew Valley where every task you do can be pretty important. Instead, I like the focus on the main spirit tasks.
 
 ![build up boat](https://thunderlotusgames.com/wp-content/uploads/2020/08/Spiritfarer-SCREENSHOTS-03.png)
 *[Image Credit](https://thunderlotusgames.com/spiritfarer)*
 
-Finally, this game has everything that would make it a cozy game. Beautiful art, relaxing music, and low stakes. There’s no winning/losing here, just completing tasks! There comes a time when you literally can’t do anything and you have to go to sleep. This is great for binge-gamers for me. It forces me come to an end, haha. I got this game on the Switch so that I can play it in a cozy setting, of course, and hope to continue exploring this spirit world.
+Finally, this game has everything that would make it a cozy game. Beautiful art, relaxing music, and low stakes. There’s no winning/losing here, just completing tasks! There comes a time when you literally can’t do anything and you have to go to sleep. This is great for binge-gamers for me. It forces me come to an end, haha. I got this game on the Switch so that I can play it in a cozy setting, of course, and hope to continue exploring this spirit world at an easy pace.
 
 ![stella](https://thunderlotusgames.com/wp-content/uploads/2020/08/Spiritfarer-SCREENSHOTS-01.png)
 *[Image Credit](https://thunderlotusgames.com/spiritfarer)*

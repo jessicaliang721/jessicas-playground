@@ -1,5 +1,5 @@
 ---
-tags: [moving]
+tags: [decor]
 category: home
 title: We Are Moving!
 image: https://lh3.googleusercontent.com/AlxOi-AuNfRf5lX7WgPNkCppm3qkBFLEyZ_DvaOzeqpSsrPGCe7kTew_fZiDe3VFPXH47vqljJpe5cBhRFebBdvnn3BJsY7lsiNtTpdCYxlIjFHbr8yV4dQRuVbvje2dT8ikrm15dZ8sG8xzgRGhqLeCci4VcOIo16KEYPq3bueXTT0H1gysN8j-lZP7pPAXenxRQ2LgGRk6iGG1_ZK-knsgarb0rVMAl471qMl2xg_jXh2yQIDoOJ_VNFshTbYdhkzLnJ7rDAECrrhlvD_J5mRV-PGaNo_PmhTliYQ92Oa5PVU3rfwJW-RjXNvHuLf-qCt_3AjpBUhoJAWMK2NKezL2JsVHLGCrAXQZExMT-jJmPUMthq5NdaFa7wX1SQV1azRoqGOAXIRSSAmTleGzMaJuEJ-aczJH7sCa3YDqQY2LjIa7kKvO0fkv_3sTtfiogTlD-5-f7gKY_FAQohb4wjOoTlg-DMkBkZq1XCbxmfRvja7rrzh4tfK9rvnGhgMKut8FhGSevwOSASjo1V1dupHymanOXRgWH5Yf227KMIAdhTydCxTTWdnUD4YklCDd_rBowK9hkbeuogmpWwW7IOL_MESr1ON91uCT-BPbC5yHHTiBcDxQMR5AkOh7RfqY8jc_ilaAjfiqAj2RWDI5ZVFHZJ8XtNsSOsRDoNUeqVR1PzDezOYfFFQvmeeAFkF4o2X74GykOCpN3GVTcPrCS3BT2zhzb-4KlVRtsIkzz5t6dMJVLSUT38M5W-xgC-NbcoIA3Jv69Pi7h8hHi4A=w949-h633-no?authuser=0
@@ -35,12 +35,14 @@ Since this home was also my first "adult" space, I also went all out decorating 
 As I say goodbye to this house, you can bet that I'll finally get around to doing a room-by-room tour of it here on the blog! It has been 4 years and though it never feels "done," it's in a good place right now. What I've learned is there is no such thing as "perfect" or "done" - just whatever is good enough for me and HB. This home has served us so much and so well; we are eternally grateful for it.
 
 ## Plans for the next house
-In this next house, I'll still keep some color around, but I think I'm leaning more towards neutrals in our open, shared spaces. Similar to [how my wardrobe has evolved]({% post_url 2021-03-05-redefining-style-curated-closet %}) towards neutrals and basics, I think my taste in home decor has shifted that way too! I want the pieces to age well. This sounds incredibly adult, and like a type of wine, haha.
+In this next house, I'll still keep some color around, but I think I'm leaning more towards neutrals in our open, shared spaces. Similar to [how my wardrobe has evolved]({% post_url 2021-03-05-redefining-style-curated-closet %}) towards neutrals and basics, I think my taste in home decor has shifted that way too! I want the pieces to age well. I want to be able to strike a balance between "refreshing" and "timeless." This sounds incredibly adult, and like a type of wine, haha.
 
-![home inspiration](https://i.imgur.com/fSm8CjC.jpg)
-*[Image credit](https://theeverymom.com/home-tour-amy-elizabeth-peters/)*
+![New home color palette](https://i.imgur.com/LWyr1U8.png)
+*New home color palette*
 
-I want to be able to strike a balance between "refreshing" and "timeless." My brain has been kicking into high gear with new design and decor ideas for our next space. Since we want to live in this next home for a while, I might invest in some bigger changes (paint a wall?!) rather than only hanging up pictures/decor. Over all, I'm going for more of a grown-up vibe (but without losing personality!).
+My brain has been kicking into high gear with new design and decor ideas for our next space. I don't think I could ever stray from my love of clean lines, so mid-century modern decor is here to stay. For colors, I want to keep my primary trio that we had in this house - pink, yellow, and blue - but tone them down a little. I want them to not be as "loud" or bright as we currently have, so I'm playing around with softer tones. I want to interlace them with my favorite neutral colors: black, white, and tan. And of course, green is thrown in, seeing how I've amassed a crazy [plant collection](https://www.instagram.com/play.with.dirt) this past year!
+
+Since we want to live in this next home for a while, I might invest in some bigger changes (paint a wall?!) rather than only hanging up pictures/decor. Over all, I'm going for more of a grown-up vibe (but without losing personality!).
 
 ## When are we moving
 It'll still be a month or so before we actually move into the new home. I think about the long laundry list of "things to do" before we move and my head hurts. However, it's important to us that we don't lose sight of the "now." We want to continue to do the things we like and spend time with each other and our friends in the midst of the moving craze. You can pray for us to not lose sight of the present and to not get overwhelmed with the future! :pray:

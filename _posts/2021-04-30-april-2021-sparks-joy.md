@@ -20,6 +20,8 @@ Salmon was really shy the first few days I got him. He only hung around the back
 ## Dreaming about our new home
 In case you missed the big announcement, We Are Moving! Ever since our dream became a reality, my mind has gone into overdrive daydreaming and imagining how I want to decorate this new space. I have been having a blast creating mood boards so that I can give my brain (and HB's ears) a relief, lol. Sometimes it's fun to dream even if it might not turn into anything concrete. It's part of the creative process!
 
+Check out some of the mood boards I have created [here](/tag/decor).
+
 ## Playing Spiritfarer
 ![Spiritfarer](https://www.nintendo.com//content/dam/noa/en_US/games/switch/s/spiritfarer-switch/spiritfarer-switch-hero.jpg)
 
