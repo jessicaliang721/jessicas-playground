@@ -2,7 +2,7 @@
 tags: [mood boards]
 category: home
 title: Living Room Mood Board
-image: https://i.imgur.com/Zfael5z.png
+image: https://i.imgur.com/9EZecdY.png
 ---
 
 My imagination is going wild thinking of all the possible ways I could design our [new home]({% post_url 2021-04-24-we-are-moving %})! Let's start with one of the main, and most seen, spaces of the home - the living room. The way I imagine our living room to look is vastly different from what our first home's living room looked like. For our first home, I was all about color play. I wanted bold, happy colors such as pink, yellow, and cobalt to greet me when I walked through the door. In fact, you can see what our first living room looked like in [this post]({% post_url 2021-04-26-first-home-living-room-tour %}).
@@ -38,7 +38,7 @@ There's also this random little nook. I'm not sure what I want to do with it yet
 
 With that in mind, here's the mood board that I had dreamed up:
 
-![living room mood board](https://i.imgur.com/Zfael5z.png)
+![living room mood board](https://i.imgur.com/9EZecdY.png)
 
 I am re-using as many existing pieces from my old home as possible. Luckily, my tastes have stayed approximately the same, so a number of them can be transferred to the new home. We already have a gray couch, marble coffee table, gold arc lamp, and TV. The rest of the pieces will have to be bought. I am hoping to get most of my furniture from vintage or secondhand sources. I wish I could say I'm doing it for the environment, but in reality, it's just cheaper this way!
 

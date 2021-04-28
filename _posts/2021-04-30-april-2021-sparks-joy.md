@@ -22,12 +22,14 @@ Salmon was really shy the first few days I got him. He only hung around the back
 
 In case you missed the big announcement, [We Are Moving]({% post_url 2021-04-24-we-are-moving %})! Ever since our dream became a reality, my mind has gone into overdrive daydreaming and imagining how I want to decorate this new space. I have been having a blast creating [mood boards](/tag/mood-boards) so that I can give my brain (and HB's ears) a relief, lol. Sometimes it's fun to dream even if it might not turn into anything concrete. It's part of the creative process!
 
-Check out some of the mood boards I have created [here](/tag/decor).
-
 ## Playing Spiritfarer
 ![Spiritfarer](https://www.nintendo.com//content/dam/noa/en_US/games/switch/s/spiritfarer-switch/spiritfarer-switch-hero.jpg)
 
 I had talked about this game in detail in [this post](% post_url 2021-04-21-spiritfarer %), but I have really been enjoying playing Spiritfarer. The more I play, the more "stuff" I feel like I have to do! Sometimes it's a little overwhelming and when that happens then I just give myself a break. And remember that I don't have to do everything; it's a game for heaven's sake! Otherwise, it has been a fun way to wind down at the end of the day.
+
+## Playing board games with friends
+
+HB and I had a great time playing board games with friends again. We replayed an oldie but goodie - [Terraforming Mars](https://amzn.to/2R16xyw) using our friend Eric's upgraded wooden player boards and expansions! Man, after playing on those [nice wooden boards](https://amzn.to/3aGlays) I am so tempted to upgrade our own. It was our first time playing board games, in person, with people outside of our family in *over a year!* We're both looking forward to getting our second vaccination soon so that we can see more people and do more things.
 
 **What sparked joy for you this month?**
 
