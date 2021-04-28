@@ -7,16 +7,25 @@ title: Archive
 	<div class="col">
 		<h1 class="text-center">{{ page.title }}</h1>
 		{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-		Jump to year:
-		{% for year in postsByYear %}
+		<div>
+			Jump to year:
+			{% for year in postsByYear %}
 			<a href="#{{year.name}}">{{year.name}}</a>
-		{% endfor %}
+			{% endfor %}
+		</div>
 
 		{% for year in postsByYear %}
 		<h2 id="{{ year.name }}">{{ year.name }}</h2>
 		{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+		{% assign reversedMonths = postsByMonth | reverse %}
+		<div>
+			Jump to month:
+			{% for month in reversedMonths %}
+				<a href="#{{month.name}}">{{ month.name }}</a>
+			{% endfor %}
+		</div>
 		{% for month in postsByMonth %}
-		<h3>{{ month.name }}</h3>
+		<h3 id="{{ month.name }}">{{ month.name }}</h3>
 			{% for post in month.items %}
 				{% include single-post.html %}
 			{% endfor %}
