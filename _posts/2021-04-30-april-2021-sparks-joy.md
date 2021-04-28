@@ -2,13 +2,15 @@
 tags: [sparks joy]
 category: musings
 title: Sparks Joy | April 2021
-image: https://i.imgur.com/tksJZZl.png
+image: https://i.imgur.com/Ojubfa7.png
 ---
 Sparks Joy is a monthly roundup of people, experiences, or things that brought joy or value for me during this time. It's like practicing gratitude, but I can geek about them here online with other people!
 
+![April 2021 Sparks Joy](https://i.imgur.com/Ojubfa7.png)
+
 ## A Really Big TV
 ![TV](https://images-na.ssl-images-amazon.com/images/I/81SfyKpEieL._AC_SL1500_.jpg)
-*LG 86" Class - UN8570 Series - [get it](https://amzn.to/2QUDBII)*
+*[Get it](https://amzn.to/2QUDBII)*
 
 Call us crazy, but right after we got back from our [national parks trip]({% post_url 2021-03-26-going-on-southwest-trip %}), we ordered ourselves a nice, big, 86" TV. We had been getting hand-me-downs from our families up until this point. Over the last year, we realized that BOY do we watch/use the TV a lot. So it was time for an upgrade, and I couldn't be happier. It was definitely tricky mounting the 100 pound beast onto the wall. But now I can see all my captions at like, 70pt font! :smile: I've been enjoying it a lot, watching lots of TV and movies and playing games on it this month.
 
