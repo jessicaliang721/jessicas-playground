@@ -35,7 +35,7 @@ Since this home was also my first "adult" space, I went all out decorating to my
 As I say goodbye to this house, you can bet that I'll finally get around to doing a room-by-room tour of it here on the blog! It has been nearly 4 years and though it can never be "done" since we're always changing, it's in a good place right now. What I've learned is that there is no such thing as "perfect" or "done" - just whatever works for me and HB at the moment. This home has served us so much and so well; we are eternally grateful for it.
 
 ## Plans for the next house
-In this next house, I'll still keep some color around, but I think I'm leaning more towards neutrals in our open, shared spaces. Similar to [how my wardrobe has evolved]({% post_url 2021-03-05-redefining-style-curated-closet %}) towards neutrals and basics, I think my taste in home decor has shifted that way too! I want the home to age well. I want it to strike a balance between "refreshing" and "timeless."
+In this next house, I'll still keep some color around, but I think I'm leaning more towards neutrals in our open, shared spaces. Similar to [how my wardrobe has evolved]({% post_url /2021/Mar/2021-03-05-redefining-style-curated-closet %}) towards neutrals and basics, I think my taste in home decor has shifted that way too! I want the home to age well. I want it to strike a balance between "refreshing" and "timeless."
 
 ![New home color palette](https://i.imgur.com/LWyr1U8.png)
 *New home color palette*

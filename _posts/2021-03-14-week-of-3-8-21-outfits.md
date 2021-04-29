@@ -6,7 +6,7 @@ image: https://i.imgur.com/6NNbVEx.png
 ---
 Weekly Outfits is a round-up of my favorite outfits of the past week.
 
-I used to not think too much about using clothing as a way of expressing myself. But after going through the process of [Redefining My Style With the Curated Closet]({% post_url 2021-03-05-redefining-style-curated-closet %}), choosing my daily outfit is quite fun now!
+I used to not think too much about using clothing as a way of expressing myself. But after going through the process of [Redefining My Style With the Curated Closet]({% post_url /2021/Mar/2021-03-05-redefining-style-curated-closet %}), choosing my daily outfit is quite fun now!
 
 ![3/8 weekly outfit]({{ page.image }})
 
