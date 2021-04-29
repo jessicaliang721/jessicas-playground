@@ -5,7 +5,7 @@ title: Living Room Mood Board
 image: https://i.imgur.com/9EZecdY.png
 ---
 
-My imagination is going wild thinking of all the possible ways I could design our [new home]({% post_url 2021-04-24-we-are-moving %})! Let's start with one of the main, and most seen, spaces of the home - the living room. The way I imagine our living room to look is vastly different from what our first home's living room looked like. For our first home, I was all about color play. I wanted bold, happy colors such as pink, yellow, and cobalt to greet me when I walked through the door. In fact, you can see what our first living room looked like in [this post]({% post_url 2021-04-26-first-home-living-room-tour %}).
+My imagination is going wild thinking of all the possible ways I could design our [new home]({% post_url /2021/Apr/2021-04-24-we-are-moving %})! Let's start with one of the main, and most seen, spaces of the home - the living room. The way I imagine our living room to look is vastly different from what our first home's living room looked like. For our first home, I was all about color play. I wanted bold, happy colors such as pink, yellow, and cobalt to greet me when I walked through the door. In fact, you can see what our first living room looked like in [this post]({% post_url /2021/Apr/2021-04-26-first-home-living-room-tour %}).
 
 ![home inspiration](https://i.imgur.com/fSm8CjC.jpg)
 *[Inspiration image credit](https://theeverymom.com/home-tour-amy-elizabeth-peters/)*

@@ -139,7 +139,7 @@ We tried two different restaurants in Springdale and there was a clear winner. O
 A little birdie told us that Springdale Candy Company had the best ice cream in town. We tried it and it is indeed good. They have your classic ice cream flavors and then some. I tried strawberry + huckleberry but preferred strawberry a little more. But it was my first time trying huckleberry, which was like a mix of blue and raspberry, so if you like berry-heavy flavors, you might enjoy it!
 
 ### Souvenirs + essentials
-I picked up my [souvenir t-shirt]({{ site.baseurl }}{% post_url 2021-04-11-week-of-4-5-21-outfits %}) from Hoodoos General Store. But the store also sold a bunch of other stuff such as snacks/quick meals, a deli, and camping essentials.
+I picked up my [souvenir t-shirt]({{ site.baseurl }}{% post_url /2021/Apr/2021-04-11-week-of-4-5-21-outfits %}) from Hoodoos General Store. But the store also sold a bunch of other stuff such as snacks/quick meals, a deli, and camping essentials.
 
 **Have you been to Zion National Park? What would you recommend to see/do around there?**
 

@@ -25,8 +25,8 @@ Of course, COVID risks will still be at the back of my mind as we travel. I susp
 
 *UPDATE: we had gone and come back and tested negative for COVID! Here are the posts from that trip:*
 
-- [Joshua Tree National Park]({% post_url 2021-04-08-joshua-tree-national-park %})
-- [Grand Staircase-Escalante National Monument]({% post_url 2021-04-10-grand-staircase-escalante-national-monument %})
-- [Bryce Canyon National Park]({% post_url 2021-04-12-bryce-canyon-national-park %})
-- [Zion National Park]({% post_url 2021-04-14-zion-national-park %})
-- [Outdoor Activities Near Las Vegas]({% post_url 2021-04-16-outings-near-las-vegas %})
+- [Joshua Tree National Park]({% post_url /2021/Apr/2021-04-08-joshua-tree-national-park %})
+- [Grand Staircase-Escalante National Monument]({% post_url /2021/Apr/2021-04-10-grand-staircase-escalante-national-monument %})
+- [Bryce Canyon National Park]({% post_url /2021/Apr/2021-04-12-bryce-canyon-national-park %})
+- [Zion National Park]({% post_url /2021/Apr/2021-04-14-zion-national-park %})
+- [Outdoor Activities Near Las Vegas]({% post_url /2021/Apr/2021-04-16-outings-near-las-vegas %})

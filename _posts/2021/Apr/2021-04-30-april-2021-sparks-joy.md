@@ -22,7 +22,7 @@ My fish was really shy the first few days I got him. He only hung around the bac
 ## Dreaming about our new home
 ![living room mood board](https://i.imgur.com/9EZecdY.png)
 
-In case you missed the big announcement, [We Are Moving]({% post_url 2021-04-24-we-are-moving %})! Ever since our dream became a reality, my mind has gone into overdrive daydreaming and imagining how I want to decorate this new space. I have been having a blast creating [mood boards](/tag/mood-boards) so that I can give my brain (and HB's ears) a relief, lol. Sometimes it's fun to dream even if it might not turn into anything concrete. It's part of the creative process!
+In case you missed the big announcement, [We Are Moving]({% post_url /2021/Apr/2021-04-24-we-are-moving %})! Ever since our dream became a reality, my mind has gone into overdrive daydreaming and imagining how I want to decorate this new space. I have been having a blast creating [mood boards](/tag/mood-boards) so that I can give my brain (and HB's ears) a relief, lol. Sometimes it's fun to dream even if it might not turn into anything concrete. It's part of the creative process!
 
 ## Playing Spiritfarer
 ![Spiritfarer](https://www.nintendo.com//content/dam/noa/en_US/games/switch/s/spiritfarer-switch/spiritfarer-switch-hero.jpg)
