@@ -7,7 +7,7 @@ image: https://www.nintendo.com//content/dam/noa/en_US/games/switch/s/spiritfare
 
 I recently discovered this genre called “cozy games” that are aesthetic and relaxing video games. These are just the kind of games I look for and enjoy playing! Anything that gets my heart rate up and hands sweaty (even Mario Party) make me feel incredibly amped up and anxious. That is the opposite of what I want to feel when playing games, lol. Low stakes, non-competitive games only for me, please.
 
-Stardew Valley is one of these cozy games, which I recently [started up again]({% post_url 2021-03-08-revisiting-stardew-valley %}). As I was researching more cozy games to try, [Spiritfarer](https://thunderlotusgames.com/spiritfarer) was mentioned in several “best of” lists. Initially the theme didn’t appeal to me. It’s a game about death. You *are* the Spiritfarer, ferrying spirits into the afterlife. Will it be too sad? Morbid? I don’t want to feel sad when it’s my relaxing “me” time!
+Stardew Valley is one of these cozy games, which I recently [started up again]({% post_url /2021/Mar/2021-03-08-revisiting-stardew-valley %}). As I was researching more cozy games to try, [Spiritfarer](https://thunderlotusgames.com/spiritfarer) was mentioned in several “best of” lists. Initially the theme didn’t appeal to me. It’s a game about death. You *are* the Spiritfarer, ferrying spirits into the afterlife. Will it be too sad? Morbid? I don’t want to feel sad when it’s my relaxing “me” time!
 
 ![Spiritfarer game]({{ page.image }})
 *[Image Credit](https://www.nintendo.com/games/detail/spiritfarer-switch/)*

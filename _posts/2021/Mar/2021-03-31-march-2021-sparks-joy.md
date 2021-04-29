@@ -17,7 +17,7 @@ I had been wanting a full length mirror in our bedroom for a long time now. I wa
 It is SO tall and wide that I can finally take mirror selfies and pretend to be a fashion blogger! :stuck_out_tongue_winking_eye:
 
 ## My Biorb
-Considering that I talked about it a [couple of times this month]({{ site.baseurl }}{% post_url 2021-03-09-want-desktop-aquarium %}), it's kind of a given that I am going for it! Yes, I got a Biorb as a home for my future betta fish. I have not added fish yet because we are going out of town the end of this month. But I did set it up with all the accessories. When I turn on the colorful LED lights, boom! It looks so pretty already! You'll be *sure* to see more posts on this bad boy soon!
+Considering that I talked about it a [couple of times this month]({{ site.baseurl }}{% post_url /2021/Mar/2021-03-09-want-desktop-aquarium %}), it's kind of a given that I am going for it! Yes, I got a Biorb as a home for my future betta fish. I have not added fish yet because we are going out of town the end of this month. But I did set it up with all the accessories. When I turn on the colorful LED lights, boom! It looks so pretty already! You'll be *sure* to see more posts on this bad boy soon!
 
 ![biorb life 30l](https://cdn.shopify.com/s/files/1/2964/8010/products/48444_03_1728x.jpg?v=1584130374)
 *[Buy on Amazon](https://amzn.to/38L8ENe)*
@@ -40,7 +40,7 @@ I found these neutral colored rope baskets at Target and knew they would be supe
 ![Puma quarter-zip](https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12026540&id=1566246&recipeId=728)
 *[Buy on Costco](https://www.costco.com/puma-ladies'-half-zip-pullover.product.100665790.html)*
 
-I already featured this piece in [My Favorite Online Clothing Stores post]({{ site.baseurl}}{% post_url 2021-03-17-favorite-online-clothing-stores %}), but I love it so much! It has been a comfy wardrobe staple this entire month. Many reviews online complained about how it's cropped, but I love that, as that's now the style I like to wear with high-waisted leggings (or jeans).
+I already featured this piece in [My Favorite Online Clothing Stores post]({{ site.baseurl}}{% post_url /2021/Mar/2021-03-17-favorite-online-clothing-stores %}), but I love it so much! It has been a comfy wardrobe staple this entire month. Many reviews online complained about how it's cropped, but I love that, as that's now the style I like to wear with high-waisted leggings (or jeans).
 
 ## Going on a national parks trip
 We will actually be on this trip when this post drops, so more details about it will be coming later! However, we were ready to try to travel again - domestic only - where we take as many precautions as possible to stay safe. Hello, face shields! I am excited to write about this trip when we come back home.

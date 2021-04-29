@@ -9,7 +9,7 @@ It never occurred to me until I started reading [The Curated Closet](https://amz
 
 ![trying on clothes]({{ page.image }})
 
-The very first thing you want to do is make a shopping list. Hopefully after reading the previous Curated Closet post [on closet composition]({{ site.baseurl }}{% post_url 2021-03-13-closet-composition-101 %}) you did this already.
+The very first thing you want to do is make a shopping list. Hopefully after reading the previous Curated Closet post [on closet composition]({{ site.baseurl }}{% post_url /2021/Mar/2021-03-13-closet-composition-101 %}) you did this already.
 
 But just as a recap, here are key factors to consider when writing a shopping list:
 - Overall style

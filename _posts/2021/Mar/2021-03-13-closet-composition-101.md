@@ -5,7 +5,7 @@ title: Closet Composition 101 - The Curated Closet Pt. 3
 image: https://i.imgur.com/GDP51hl.png
 ---
 
-Now that [I've tried on a bunch of clothes]({{ site.baseurl }}{% post_url 2021-03-11-try-before-you-buy %}) and know what looks good on me, I can start creating a plan for my closet rehaul. I did a closet clean-out where I evaluated all of my clothes and sorted them into 5 categories: donate, repair, tailor, temporary hold, and keep.
+Now that [I've tried on a bunch of clothes]({{ site.baseurl }}{% post_url /2021/Mar/2021-03-11-try-before-you-buy %}) and know what looks good on me, I can start creating a plan for my closet rehaul. I did a closet clean-out where I evaluated all of my clothes and sorted them into 5 categories: donate, repair, tailor, temporary hold, and keep.
 
 This allowed me to see obvious gaps in my closet - not enough basics or solids! At the same time it allowed me to see what I already owned enough of. I have dresses, patterned skirts, and patterned button-downs galore. This was a good exercise for me because I am a sucker for a cute, patterned dress and will get them in a heartbeat if they're on sale. It is now clear: no more dresses!
 

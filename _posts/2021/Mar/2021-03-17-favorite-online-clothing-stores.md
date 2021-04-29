@@ -4,7 +4,7 @@ category: style
 title: My Favorite Online Clothing Stores
 image: https://i.imgur.com/13G9Fwx.png
 ---
-It's finally time to go shopping! Hopefully by now, you've made a [detailed shopping list]({{ site.baseurl }}{% post_url 2021-03-16-how-to-shop-for-clothes %}) and know exactly what you're looking for. Thanks to this pandemic, I had to buy most of my new wardrobe online. It's kind of awesome but also kind of stressful because the possibilities are endless! I narrowed down my choices by selecting new pieces from the following stores. They are my tried and true favorites!
+It's finally time to go shopping! Hopefully by now, you've made a [detailed shopping list]({{ site.baseurl }}{% post_url /2021/Mar/2021-03-16-how-to-shop-for-clothes %}) and know exactly what you're looking for. Thanks to this pandemic, I had to buy most of my new wardrobe online. It's kind of awesome but also kind of stressful because the possibilities are endless! I narrowed down my choices by selecting new pieces from the following stores. They are my tried and true favorites!
 
 ## Express
 <div class="row row-cols-2 row-cols-md-4 gy-4 text-center">

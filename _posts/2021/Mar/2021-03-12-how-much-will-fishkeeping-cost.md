@@ -4,7 +4,7 @@ category: musings
 title: How Much Will Fishkeeping Cost?
 image: https://cdn.shopify.com/s/files/1/0311/3149/articles/EV32OkFv_8eb2cfc4-cfb2-44dd-af03-220d087846d9_1000x.jpeg?v=1578218912
 ---
-Previously, I expressed the desire to have a [desktop aquarium]({{ site.baseurl}}{% post_url 2021-03-09-want-desktop-aquarium %}). As I research, I am discovering that there are a LOT of accessories that's involved with fishkeeping. Here, I am going to list all of the items a beginner fish parent will need + its estimated cost. Hello, reality check!
+Previously, I expressed the desire to have a [desktop aquarium]({{ site.baseurl}}{% post_url /2021/Mar/2021-03-09-want-desktop-aquarium %}). As I research, I am discovering that there are a LOT of accessories that's involved with fishkeeping. Here, I am going to list all of the items a beginner fish parent will need + its estimated cost. Hello, reality check!
 
 <img src="{{page.image}}">
 *[Image credit](https://www.aquariumcoop.com/blogs/aquarium/betta-fish-care-guide)*
