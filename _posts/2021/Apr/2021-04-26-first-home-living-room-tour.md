@@ -39,7 +39,7 @@ This ladder shelf originally held a bunch of knick-knacks. It still holds a few 
 ![ladder shelf](https://lh3.googleusercontent.com/pw/ACtC-3fHW0AT5G8phSxEqpAm4wFcqAbher0hwSKN7JvAtc-g4oGH5PSoFQKPD4U0quStFakqmQdl6PsqO2aGSf2I93kHylcVk3iKLwIN4FewevrBMNNfLPvlZUfm-7cbipN2oEMGkcYHi2nnYVU6KAxKqd9Yvg=w501-h751-no?authuser=0)
 *[ladder shelf](https://amzn.to/3tNatSg) | [succulent planters](https://amzn.to/3dNaWOD) | [round pots](https://amzn.to/3sM2aVl) | [terrarium end table](https://amzn.to/3xnpsVa)*
 
-I love the colors in our living room. They're all bright shades of pink, yellow, and blue, which give off a youthful and happy energy. I have plans to keep some of these brighter colors in our new home, while toning it down in other places - stick around and you'll see!
+I love the colors in our living room. They're all bright shades of pink, yellow, and blue, which give off a youthful and happy energy. I have plans to keep some of these brighter colors in our new home, while toning it down in other places - stick around and you'll see! *UPDATE 4/28: See the inspo post [Living Room Mood Board!]({% post_url /2021/Apr/2021-04-28-living-room-mood-board %})*
 
 ![blue armchairs](https://lh3.googleusercontent.com/pw/ACtC-3efnjbid1mWIiVIv_fQPP89MnjIHb32b_piakfjOrjlc1Echa5gV1ZCfMfIU-Vf64Q3Xd7HSYHgrnW99NG8OAnV7bhYhCZJeHyea_ukkzow9l4PPXtDveGvBViCTxnzU668LlpvNxhv0YJsBLcZdUJPSw=w1000-h667-no?authuser=0)
 
