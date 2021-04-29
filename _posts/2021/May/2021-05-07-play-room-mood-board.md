@@ -2,7 +2,7 @@
 tags: [mood boards]
 category: home
 title: Play Room Mood Board
-image: https://i.imgur.com/fZTeL1Y.png
+image: https://i.imgur.com/wZfgYyw.png
 ---
 
 One of the rooms that I am most excited to decorate in the new house is the play room! This is a room that will explode with fun, bright, happy colors. I am most looking forward to playing with our kids, so naturally, I am also excited to design a space where kids can play and let their imaginations run wild. I think I'm just a big kid at heart!
@@ -22,7 +22,7 @@ It's a good amount of space that is perfect for a kid's playroom. I'm also lovin
 
 ## My Play Room Mood Board
 
-![play room mood board](https://i.imgur.com/fZTeL1Y.png)
+![play room mood board](https://i.imgur.com/wZfgYyw.png)
 
 You might notice that the colors and design of this room look pretty similar to our first home's [game/media room]({% post_url /2021/May/2021-05-05-first-home-game-room-tour %}). I purposely designed that room with kids in mind so that in times like these, most of the existing furniture and decor will translate well.
 
