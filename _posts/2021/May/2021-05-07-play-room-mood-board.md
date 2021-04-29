@@ -1,0 +1,50 @@
+---
+tags: [decor]
+category: home
+title: Play Room Mood Board
+image: https://i.imgur.com/fZTeL1Y.png
+---
+
+One of the rooms that I am most excited to decorate in the new house is the play room! This is a room that will explode with fun, bright, happy colors. I am most looking forward to playing with our kids, so naturally, I am also excited to design a space where kids can play and let their imaginations run wild. I think I'm just a big kid at heart!
+
+![kids play room inspiration](https://i.imgur.com/rTcFTg3.png)
+*Inspiration for the play room - [Image credit](https://shop.projectnursery.com/products/rainbow-confetti-dots-wall-decals?utm_source=pinterest&utm_medium=social)*
+
+## Game Room - Before
+
+Here's the space that I'm working with:
+
+![game room - before](https://lh3.google.com/pw/ACtC-3fk7ejiDxf1Kb8r4DWVMjKCSuuXhIt4sAyWNlk4IH3PqUyGQqgvmXouPxer_TClMfMwcZJC2v3zLVKVfJDBObLwzn4HIJQ=w1024-h683-no?authuser=0)
+
+![game room - before hallway view](https://lh3.google.com/pw/ACtC-3fm3hRD68ZIXurw9YznSA3VDLrvtIFrCAhnFMBKIYKL8xtl9gpYCzaHglhGSzto8Cy7SRPZJn-HVz8Nlpq27Ui0qQSxZI4=w1024-h683-no?authuser=0)
+
+It's a good amount of space that is perfect for a kid's playroom. I'm also loving that wall of windows for my plants! I'm the kind of crazy person who thinks 10 steps ahead, so I envision that this will turn into our kids' homework room as they grow older. I know it's insane to think so far into the future, but I'm sure my future self will thank me as I keep these kinds of things in mind while designing the room now...
+
+## My Play Room Mood Board
+
+![play room mood board](https://i.imgur.com/fZTeL1Y.png)
+
+You might notice that the colors and design of this room look pretty similar to our first home's [game/media room]({% post_url /2021/May/2021-05-05-first-home-game-room-tour %}). I purposely designed that room with kids in mind so that in times like these, most of the existing furniture and decor will translate well.
+
+For example, we already have the yellow couch and abstract art from our [former living room]({% post_url /2021/Apr/2021-04-26-first-home-living-room-tour %}), and white shelves, rug, poufs, and craft cart from our [former game/media room]({% post_url /2021/May/2021-05-05-first-home-game-room-tour %}).
+
+I am most excited to buy toys (seriously, are they for kids or for me? :stuck_out_tongue_winking_eye:) like the [Ikea play kitchen](https://amzn.to/3gNMqyF). I've seen a ton of bloggers jazz up the play kitchen (see below), and a part of me wants to do that too, while my other lazy part doubts that I will actually put in the work to do it. We shall see!
+
+![jazzed up play kitchen](https://abeautifulmess.com/wp-content/uploads/2018/09/Mid-Century-Modern-Ikea-Play-Kitchen-Hack-click-through-for-more-1-15.jpg)
+*[Image credit](https://abeautifulmess.com/mid-century-modern-ikea-play-kitchen-hack/)*
+
+Another idea I love are picture-rail bookshelves that are child-height when hung up on the wall. Same goes for [Ikea Kallax bookshelves](https://amzn.to/3gQCzZ0) to hold kids' toys. I'm all about putting toys and items at a level where kids can reach themselves. I grew up in a [Montessori](https://en.wikipedia.org/wiki/Montessori_education) setting and want that for my kids too. I want to empower them to independently self-care and play. So that they can leave me alone. LOL!
+
+![picture rail books](https://i.imgur.com/DoJSgqk.png)
+*[Image credit](https://shop.projectnursery.com/products/rainbow-confetti-dots-wall-decals?utm_source=pinterest&utm_medium=social)*
+
+![toy shelves](https://i.imgur.com/8xLUyJN.jpg)
+*[Image credit](https://www.holisticlifestylista.com/playroom-organization-on-a-budget/)*
+
+I was listening to [A Beautiful Mess podcast](https://abeautifulmess.com/category/podcast/) where Elsie was talking about how your kids' childhood is kind of like your second chance at re-living your own. Perhaps this is why I am so excited about creating this awesome play room for my kids! I want to re-experience childhood vicariously through my kids in the best way possible. They probably won't remember much of their childhood years, but I will, and hope to nurture it the best I can. Childhood is fleeting and precious!
+
+**What is your favorite childhood memory?**
+
+<div class="text-center">
+<a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/play-room/"></a>
+</div>

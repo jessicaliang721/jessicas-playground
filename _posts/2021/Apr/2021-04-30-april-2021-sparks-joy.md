@@ -12,12 +12,12 @@ Sparks Joy is a monthly roundup of people, experiences, or things that brought j
 ![TV](https://images-na.ssl-images-amazon.com/images/I/81SfyKpEieL._AC_SL1500_.jpg)
 *[Get it](https://amzn.to/2QUDBII)*
 
-Call us crazy, but right after we got back from our [national parks trip]({% post_url 2021-03-26-going-on-southwest-trip %}), we ordered ourselves a nice, big, 86" TV. We had been getting hand-me-downs from our families up until this point. Over the last year, we realized that BOY do we watch/use the TV a lot. So it was time for an upgrade, and I couldn't be happier. It was definitely tricky mounting the 100 pound beast onto the wall. But now I can see all my captions at like, 70pt font! :smile: I've been enjoying it a lot, watching lots of TV and movies and playing games on it this month.
+Call us crazy, but right after we got back from our [national parks trip]({% post_url /2021/Mar/2021-03-26-going-on-southwest-trip %}), we ordered ourselves a nice, big, 86" TV. We had been getting hand-me-downs from our families up until this point. Over the last year, we realized that BOY do we watch/use the TV a lot. So it was time for an upgrade, and I couldn't be happier. It was definitely tricky mounting the 100 pound beast onto the wall. But now I can see all my captions at like, 70pt font! :smile: I've been enjoying it a lot, watching lots of TV and movies and playing games on it this month.
 
 ## My new betta fish
 ![betta fish](https://lh3.googleusercontent.com/pw/ACtC-3dwEXrg3kQU2IEg80LzToTgSqi6U9n3pXPNg99NN0Woah7k-dd9Xgl63j0KTyuPNqrg571YGoMjwvpUTWPJTchTsJOPYHtMxzI0nKI2yUxi0RHJWHwhdsL5_NfFaTUFq3PLLyYL9aBncPovIWZoQeNGZQ=w1000-h667-no?authuser=0)
 
-My fish was really shy the first few days I got him. He only hung around the back of the tank and I always had trouble finding him! After a week or so, he got used to my presence and will come out and swim near me when I'm at my desk. It is such a joy to watch him when I need a break from staring at my computer! I'll definitely share my full desk setup soon. In the meantime, here's more information about [my tank]({{ site.baseurl }}{% post_url 2021-04-06-my-biorb-aquarium-setup-supplies %}). P.S. He still needs a name! HB suggested Salmonella. :unamused:
+My fish was really shy the first few days I got him. He only hung around the back of the tank and I always had trouble finding him! After a week or so, he got used to my presence and will come out and swim near me when I'm at my desk. It is such a joy to watch him when I need a break from staring at my computer! I'll definitely share my full desk setup soon. In the meantime, here's more information about [my tank]({{ site.baseurl }}{% post_url /2021/Apr/2021-04-06-my-biorb-aquarium-setup-supplies %}). P.S. He still needs a name! HB suggested Salmonella. :unamused:
 
 ## Dreaming about our new home
 ![living room mood board](https://i.imgur.com/9EZecdY.png)
