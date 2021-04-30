@@ -34,7 +34,7 @@ The other recent addition is this [Biorb aquarium](https://amzn.to/3bCWmbj) hold
 
 ![fish](https://lh3.googleusercontent.com/pw/ACtC-3dwEXrg3kQU2IEg80LzToTgSqi6U9n3pXPNg99NN0Woah7k-dd9Xgl63j0KTyuPNqrg571YGoMjwvpUTWPJTchTsJOPYHtMxzI0nKI2yUxi0RHJWHwhdsL5_NfFaTUFq3PLLyYL9aBncPovIWZoQeNGZQ=w1000-h667-no?authuser=0)
 
-Next to my desk are my three [craft carts](https://amzn.to/3nf9asG) that hold craft, fish, and plant supplies (just realized these are my three main hobbies, lol). I used to have a lot more plants in here, but I moved them to areas that got more light in the [game room]({% post_url /2021/May/2021-05-05-first-home-game-room-tour %}). There is only a single north-facing window, so this room isn't very bright. But my lone bird's nest fern seems to be doing just fine.
+Next to my desk are my three [craft carts](https://amzn.to/3nf9asG) that hold craft, fish, and plant supplies (just realized these are my three main hobbies, lol). I used to have a lot more plants in here, but I moved them to areas that got more light in the [game room]({% post_url /2021/May/2021-05-03-first-home-game-room-tour %}). There is only a single north-facing window, so this room isn't very bright. But my lone bird's nest fern seems to be doing just fine.
 
 ![craft carts](https://lh3.googleusercontent.com/pw/ACtC-3e6ZXSNNt_bFQa6TqzmX21_HdL82Hj6IeLJOetUa5XaebV5_56Z9zap5QopfwqyxA-bTb9BEezGRql6sjt6nrLoTgMI2AJltjoU5ftDDcvQS5jxOuZlcbBfc3QAcjcmOJytkO_BxV-0ab8yFsB74Aj1gw=w501-h751-no?authuser=0)
 *[3-tier cart](https://amzn.to/3nf9asG)*

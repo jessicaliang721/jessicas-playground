@@ -22,11 +22,11 @@ It's a good amount of space that is perfect for a kid's playroom. I'm also lovin
 
 ## My Play Room Mood Board
 
-![play room mood board](https://i.imgur.com/wZfgYyw.png)
+![play room mood board]({{ page.image }})
 
-You might notice that the colors and design of this room look pretty similar to our first home's [game/media room]({% post_url /2021/May/2021-05-05-first-home-game-room-tour %}). I purposely designed that room with kids in mind so that in times like these, most of the existing furniture and decor will translate well.
+You might notice that the colors and design of this room look pretty similar to our first home's [game/media room]({% post_url /2021/May/2021-05-03-first-home-game-room-tour %}). I purposely designed that room with kids in mind so that in times like these, most of the existing furniture and decor will translate well.
 
-For example, we already have the yellow couch and abstract art from our [former living room]({% post_url /2021/Apr/2021-04-26-first-home-living-room-tour %}), and white shelves, rug, poufs, and craft cart from our [former game/media room]({% post_url /2021/May/2021-05-05-first-home-game-room-tour %}).
+For example, we already have the yellow couch and abstract art from our [former living room]({% post_url /2021/Apr/2021-04-26-first-home-living-room-tour %}), and white shelves, rug, poufs, and craft cart from our [former game/media room]({% post_url /2021/May/2021-05-03-first-home-game-room-tour %}).
 
 I am most excited to buy toys (seriously, are they for kids or for me? :stuck_out_tongue_winking_eye:) like the [Ikea play kitchen](https://amzn.to/3gNMqyF). I've seen a ton of bloggers jazz up the play kitchen (see below), and a part of me wants to do that too, while my other lazy part doubts that I will actually put in the work to do it. We shall see!
 
@@ -46,5 +46,5 @@ I was listening to [A Beautiful Mess podcast](https://abeautifulmess.com/categor
 **What do you most remember about your childhood?**
 
 <div class="text-center">
-<a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/play-room/"></a>
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/play-room/"></a>
 </div>
