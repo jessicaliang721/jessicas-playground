@@ -43,7 +43,7 @@ Another idea I love are picture-rail bookshelves that are child-height when hung
 
 I was listening to [A Beautiful Mess podcast](https://abeautifulmess.com/category/podcast/) where Elsie was talking about how your kids' childhood is kind of like your second chance at re-living your own. Perhaps this is why I am so excited about creating this awesome play room for my kids! I want to re-experience childhood vicariously through my kids in the best way possible. They probably won't remember much of their childhood years, but I will, and hope to nurture it the best I can. Childhood is fleeting and precious!
 
-**What is your favorite childhood memory?**
+**What do you most remember about your childhood?**
 
 <div class="text-center">
 <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/play-room/"></a>
