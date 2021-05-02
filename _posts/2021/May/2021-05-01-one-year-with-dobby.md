@@ -134,6 +134,11 @@ We love taking her wherever we go and try to expose her to a variety of differen
 
 As you can see, we *love* having Dobby in our lives. She truly made my 2020 so much better, and will continue to for all the years to come! I never understood "dog people" before this, but I totally get it now. They truly become part of your family. Dobby will always be our first kid! :smile:
 
-**Do you have a dog? What is your dog like?**
+## Dobby One Year Calendar
+
+Yes, I really went there, and you can download it too:
+
+<iframe src="/assets/images/Dobby_One_Year.pdf" width="100%" height="750px">
+</iframe>
 
 P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!
