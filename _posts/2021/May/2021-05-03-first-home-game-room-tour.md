@@ -5,7 +5,7 @@ title: Game/Media Room Tour
 image: https://lh3.googleusercontent.com/pw/ACtC-3fD-vq_KaeT88VL0yf9MBMJqWrOgHcBDz85cQst9CglMOnT00poCivlbroqF5xZeFm5r3E-WZ-R6qLRedRcKuIaFYfZL-3baKSfaOBXTuM3kqYSBydOJs-o18JQN1I4OByAwx4xy6cDqsVKZ_RfQHUnbQ=w1000-h667-no?authuser=0
 ---
 
-One of my favorite "rooms" in our home is the game/media room. It's fun, colorful, and comfortable. We certainly spent a LOT of time in here this last year...it certainly provided us a good amount of entertainment while we were stuck at home. I'm excited to share our different interests/hobbies that can be seen throughout this room!
+One of my favorite rooms in our home is the game/media room. It's fun, colorful, and comfortable. We certainly spend a lot of time in here, and especially during this last year...it provided us a good amount of entertainment while we were stuck at home. Come on in; I'm excited to share our different interests/hobbies that can be seen throughout this room!
 
 ![game room](https://lh3.googleusercontent.com/pw/ACtC-3fD-vq_KaeT88VL0yf9MBMJqWrOgHcBDz85cQst9CglMOnT00poCivlbroqF5xZeFm5r3E-WZ-R6qLRedRcKuIaFYfZL-3baKSfaOBXTuM3kqYSBydOJs-o18JQN1I4OByAwx4xy6cDqsVKZ_RfQHUnbQ=w1000-h667-no?authuser=0)
 
