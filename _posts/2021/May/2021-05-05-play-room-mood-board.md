@@ -1,5 +1,5 @@
 ---
-tags: [mood boards]
+tags: ['kids room', 'mood boards']
 category: home
 title: Play Room Mood Board
 image: https://i.imgur.com/wZfgYyw.png

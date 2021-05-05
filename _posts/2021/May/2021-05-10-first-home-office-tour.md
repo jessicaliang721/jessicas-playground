@@ -1,5 +1,5 @@
 ---
-tags: [decor]
+tags: ['office', 'first home']
 category: home
 title: Home Office Tour
 image: https://lh3.googleusercontent.com/pw/ACtC-3dUYiF1LGyF0CHEUUG9EGxSzTaS_AqNO1K8SW9W2-kBAE6di2tfiI9pfXrZxXj5vRigPj5cVmgVl-a0AIawGHXz3mjuJdryBAeoTQbmBGlHmQB3VnbvlWyJEMA1L2I7SfvK65fHFrruIL2q_4Go1XikiA=w1000-h667-no?authuser=0

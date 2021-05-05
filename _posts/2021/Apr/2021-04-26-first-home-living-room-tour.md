@@ -1,5 +1,5 @@
 ---
-tags: [decor]
+tags: ['living room', 'first home']
 category: home
 title: Living Room Tour
 image: https://lh3.googleusercontent.com/pw/ACtC-3dGKJJOjnZ44Z6Spia_oCuZBYFO9nhMvzD7hc0oR8f55jeeAlSntcjQw8SHTZXhIjxpdeIvHOftbNZwHq2sp4JFv_4kZhpVQ-iXIjppUvIK5xJx7uCBXRJcZ700u10-opHbCJjKUTwWhVyFclA2A0qMlQ=w1000-h667-no?authuser=0

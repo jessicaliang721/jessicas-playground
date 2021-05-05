@@ -1,5 +1,5 @@
 ---
-tags: [mood boards]
+tags: ['living room', 'mood boards']
 category: home
 title: Living Room Mood Board
 image: https://i.imgur.com/9EZecdY.png

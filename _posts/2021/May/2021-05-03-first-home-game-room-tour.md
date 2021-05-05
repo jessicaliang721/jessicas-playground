@@ -1,5 +1,5 @@
 ---
-tags: [decor]
+tags: ['media room', 'first home']
 category: home
 title: Game/Media Room Tour
 image: https://lh3.googleusercontent.com/pw/ACtC-3fD-vq_KaeT88VL0yf9MBMJqWrOgHcBDz85cQst9CglMOnT00poCivlbroqF5xZeFm5r3E-WZ-R6qLRedRcKuIaFYfZL-3baKSfaOBXTuM3kqYSBydOJs-o18JQN1I4OByAwx4xy6cDqsVKZ_RfQHUnbQ=w1000-h667-no?authuser=0
