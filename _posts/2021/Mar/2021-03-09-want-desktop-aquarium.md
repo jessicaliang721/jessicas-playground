@@ -1,5 +1,5 @@
 ---
-tags: [pets]
+tags: ['office']
 category: home
 title: I Want a Desktop Aquarium
 image: https://cdn.shopify.com/s/files/1/2964/8010/products/45845_02_720x.JPG?v=1584366537
