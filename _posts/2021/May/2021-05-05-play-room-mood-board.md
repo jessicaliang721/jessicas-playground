@@ -14,9 +14,9 @@ One of the rooms that I am most excited to decorate in the new house is the play
 
 Here's the space that I'm working with:
 
-![game room - before](https://lh3.google.com/pw/ACtC-3fk7ejiDxf1Kb8r4DWVMjKCSuuXhIt4sAyWNlk4IH3PqUyGQqgvmXouPxer_TClMfMwcZJC2v3zLVKVfJDBObLwzn4HIJQ=w1024-h683-no?authuser=0)
+![game room - before](https://lh3.googleusercontent.com/pw/ACtC-3eqcBwrjLMspHZCJK884xuwF39A4TJBaBRNgQvU6u2k25-7pK4JPk3ertDOwP5CNi4MDVuAMvktkhdrAzY52j_s-q0znxuHa_vUZHqcJUN0qBDIcU_yr2eTevVoeLLfRMMlZdufWv1uoF_GXwpmEOybQg=w1024-h683-no?authuser=0)
 
-![game room - before hallway view](https://lh3.google.com/pw/ACtC-3fm3hRD68ZIXurw9YznSA3VDLrvtIFrCAhnFMBKIYKL8xtl9gpYCzaHglhGSzto8Cy7SRPZJn-HVz8Nlpq27Ui0qQSxZI4=w1024-h683-no?authuser=0)
+![game room - before hallway view](https://lh3.googleusercontent.com/pw/ACtC-3ca29pJ9HHn_a34Sx0YqBhx3r2lLd6l6Dce6jRlYvv0FsNSo218QtZ-AIANK2EhHbocLHGQ8UBVjN9G3Lt8s2A2NhfJ4EPPttvYXNq4umaEmlOfEjpwFoKOF38qzSysuYF5hjpAjGw6O6TTZXvt_xm89Q=w1024-h683-no?authuser=0)
 
 It's a good amount of space that is perfect for a kid's playroom. I'm also loving that wall of windows for my plants! I'm the kind of crazy person who thinks 10 steps ahead, so I envision that this will turn into our kids' homework room as they grow older. I know it's insane to think so far into the future, but I'm sure my future self will thank me as I keep these kinds of things in mind while designing the room now...
 
