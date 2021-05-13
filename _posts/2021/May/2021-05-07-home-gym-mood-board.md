@@ -22,6 +22,7 @@ Unfortunately, we don't have any windows in the garage. It'd be the ultimate dre
 In the meantime, we'll work with what we've got. So here's the mood board that I've dreamed up:
 
 ![home gym mood board]({{ page.image }})
+*[exercise ball](https://amzn.to/2QlgSFO) | [white shelves](https://amzn.to/3oe2E5Q) | [gym flooring](https://amzn.to/3y7HbQI) | [woven cube shelves](https://amzn.to/3eHp507) | [geometric wallpaper](https://amzn.to/3y31xe1)*
 
 The garage itself is not big. It's enough to fit one car - think of a long rectangle. So I'm interested in only getting the minimum equipment that we'll actually use and need.
 

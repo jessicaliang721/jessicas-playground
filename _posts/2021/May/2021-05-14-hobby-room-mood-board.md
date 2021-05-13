@@ -1,11 +1,11 @@
 ---
-tags: ['hobby room', 'mood boards']
+tags: ['living room', 'mood boards']
 category: home
 title: Hobby Room Mood Board
 image: https://i.imgur.com/TViDgDY.png
 ---
 
-Many homes in our area have a "formal" living room that's usually off to the side of the entrance. To me, this room is SUCH a waste a space, because why would we need both a formal and informal living room? As I thought a little more about how I want to purpose the space for our family's needs, it occurred to me that it would be a good space as a hobby or music room!
+Many homes in our area have a "formal" living room that's usually off to the side of the entrance. To me, this room is SUCH a waste a space, because why would we need both a formal and informal living room? As I thought a little more about how I want to purpose the space for our family's needs, it occurred to me that it would be put to good use as a hobby or music room!
 
 ![piano among bookshelves](https://i.imgur.com/ZtqAGz9.jpg)
 *I'd love to do something like this with our piano - [Image credit](https://www.flor.com/area-rugs_carpet-tiles/urban-nature---charcoal-%2F-lichen/21-1400-03.html)*
@@ -19,7 +19,7 @@ Many homes in our area have a "formal" living room that's usually off to the sid
 
 ![formal living room with dining - before](https://lh3.googleusercontent.com/pw/ACtC-3fDta-wBFWOPqMUmQCpTDgcgiS9WqyCgXnvKzOSyC3M_ZNq7OfQDqgG9KbLASVTytvqrErUhEEUnKxMY1xDVQZ20qK_EZH_O0vscvppOeXwh-rVMmFm_4tBq8oIIca3flVQ2f4_lRgs-S5km7jDs70Qiw=w1024-h683-no?authuser=0)
 
-As you can see, the formal living room connects to the dining room. This works out well because I was thinking about storing our board games in the hobby room then playing them on the dining table. Another design consideration is making sure that the colors in the two rooms are cohesive! But since I chose a color palette for our entire home [at the very beginning]({% post_url /2021/Apr/2021-04-24-we-are-moving %}), I'm pretty confident that everything will mesh well together.
+As you can see, the formal living room connects to the dining room. This works out well because I was thinking about storing our board games in the hobby room then playing them on the dining table. Another design consideration is making sure that the colors in the two adjacent rooms are cohesive! But since I chose a color palette for our entire home [at the very beginning]({% post_url /2021/Apr/2021-04-24-we-are-moving %}), I'm pretty confident that everything will mesh well together.
 
 ## Hobby Room Mood Board
 

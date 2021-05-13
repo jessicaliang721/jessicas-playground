@@ -23,6 +23,7 @@ It's a good amount of space that is perfect for a kid's playroom. I'm also lovin
 ## My Play Room Mood Board
 
 ![play room mood board]({{ page.image }})
+*[yellow couch](https://amzn.to/3hq3USa) | [geometric area rug](https://amzn.to/2SQhpAn) | [gold curtains](https://amzn.to/3ocOYrQ) | [white cube shelves](https://amzn.to/33HdKXG) | [play kitchen](https://amzn.to/3eL9Aog) | [mint rolling cart](https://amzn.to/3w4FwJT) | [kids table](https://amzn.to/3uFwjaF)*
 
 You might notice that the colors and design of this room look pretty similar to our first home's [game/media room]({% post_url /2021/May/2021-05-03-first-home-game-room-tour %}). I purposely designed that room with kids in mind so that in times like these, most of the existing furniture and decor will translate well.
 

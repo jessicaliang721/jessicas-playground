@@ -39,6 +39,7 @@ There's also this random little nook. I'm not sure what I want to do with it yet
 With that in mind, here's the mood board that I had dreamed up:
 
 ![living room mood board](https://i.imgur.com/9EZecdY.png)
+*[gray couch](https://amzn.to/3y83V2V) | [leather couch](https://amzn.to/3eHNdji) | [console](https://amzn.to/3uKWWuS) | [cream chair](https://amzn.to/3fhROb0) | [marble coffee table](https://amzn.to/3bqv1st) | [white area rug](https://amzn.to/3y4blVb) | [mantel mirror](https://amzn.to/3eGfWVM) | [light pink curtains](https://amzn.to/3eJvE2t) | [arc floor lamp](https://amzn.to/3odhlpX)*
 
 I am re-using as many existing pieces from my old home as possible. Luckily, my tastes have stayed approximately the same, so a number of them can be transferred to the new home. We already have a gray couch, marble coffee table, gold arc lamp, and TV. The rest of the pieces will have to be bought. I am hoping to get most of my furniture from vintage or secondhand sources. I wish I could say I'm doing it for the environment, but in reality, it's just cheaper this way!
 
