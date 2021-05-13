@@ -49,3 +49,5 @@ I was listening to [A Beautiful Mess podcast](https://abeautifulmess.com/categor
 <div class="text-center">
     <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/play-room/"></a>
 </div>
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!

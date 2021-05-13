@@ -18,6 +18,7 @@ The office room is pretty small. It is connected to the bedroom, which is actual
 ## Jessica's Office Mood Board
 
 ![home office mood board](https://i.imgur.com/ipnAH9j.png)
+*[hairpin legs](https://amzn.to/3uKjJqN) | [green curtains](https://amzn.to/3of4K5z) | [black bookcase](https://amzn.to/3eLwbRe) | [ladder bookshelf](https://amzn.to/2Ra5Eo2) | [sputnik chandelier](https://amzn.to/2Ra5HQK) | [Biorb aquarium](https://amzn.to/3bCWmbj) | [black rolling cart](https://amzn.to/3obbH7O) | [faux leather chair](https://amzn.to/3gObGou)*
 
 I love deep, emerald green tones! I had wanted to incorporate that shade in our first home's office but didn't want to paint the walls. I had no luck finding a rug in that shade either. But with such a large window in the room, it was the perfect opportunity to add a touch of bold color.
 
@@ -41,3 +42,5 @@ With the limited amount of space, I will have to be creative with how I'm going 
 <div class="text-center">
     <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/home-office/"></a>
 </div>
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!

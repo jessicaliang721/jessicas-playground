@@ -40,3 +40,5 @@ Creating this mood board was a challenge because how do you turn a garage into a
 <div class="text-center">
     <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/gym/"></a>
 </div>
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!

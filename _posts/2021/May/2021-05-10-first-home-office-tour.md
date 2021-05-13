@@ -17,7 +17,7 @@ So in this next house, we're going to each have our own office. We are incredibl
 In the meantime, let me show you my setup. This is what my side currently looks like:
 
 ![Jessica's side](https://lh3.googleusercontent.com/pw/ACtC-3d-dXMV2Xd9X7xRiP81qvQiCv7e04E6P4CHNnCCZxxuTK51WQTNfNN_C7JJd2IpJScd_4lt6p1syuyS7e5_t52QSm0wdki0X9pDd1DN5rZmeTU5BrEoKezVinWHnfFWCovJLP8I9nkQFjhyTzdfb9twNQ=w1000-h667-no?authuser=0)
-*[widescreen monitor](https://amzn.to/3gxAnp5) | [mechanical keyboard](https://amzn.to/2QPZyIM) | [gaming mouse](https://amzn.to/2QQRuYq)*
+*[widescreen monitor](https://amzn.to/3gxAnp5)*
 
 ![Jessica's desk with PC tower](https://lh3.googleusercontent.com/pw/ACtC-3ea85rrxIyQqNcq2Wdx1VSWVv_SkDAlywhBUSFtqMrfYUjRBJ-2u0ZfJqBg-ZBZRfE1PSNH19f8OkZxaAfv05KqjWU5icptjwHF6hfQcZk9T1mjSw-61MoiuUGuVAYVvbCpoOmlRMxux2aBS_Eln-YBYg=w1000-h667-no?authuser=0)
 *[Rain Design laptop stand](https://amzn.to/3gQIAVt) | [faux leather chair](https://amzn.to/3gObGou)*

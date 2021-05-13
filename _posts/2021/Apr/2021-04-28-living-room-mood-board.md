@@ -48,3 +48,5 @@ The exception to that rule is original mid-century modern pieces like that conso
 It will definitely take some time to find/collect all the pieces I want organically. In the mean time, I am pinning away! Half the fun is also finding inspiration...and the other half is actually shopping for it. **Who else finds joy in making mood boards?!**
 
 <div class="text-center"><a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="80" href="https://www.pinterest.com/heyletsplaywithdirt/living-room/"></a></div>
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!
