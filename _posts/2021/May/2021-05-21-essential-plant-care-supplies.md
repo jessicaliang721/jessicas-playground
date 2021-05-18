@@ -68,7 +68,7 @@ FYI I actually get most of my plant stands from Homegoods! So if you see a pot/s
 
 ## Decor & stands
 
-Fully integrate plants into your home with these decor items or plant displays.
+Fully integrate plants into your home with these decor items and plant displays.
 
 <!-- IG images -->
 <div align="center">
