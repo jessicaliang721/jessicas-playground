@@ -15,6 +15,8 @@ $hero-image-max-width: 350px;
 
 $body-font-family: 'DM Sans', sans-serif;
 
+$thin-text-underline: underline solid $light-orange 4px;
+
 // general
 h1, h2, h3, h4, h5, h6 {
   color: $dark-brown;
@@ -103,7 +105,7 @@ a {
   border: none;
 
   h4 {
-    text-decoration: underline solid $light-orange 0.3rem;
+    text-decoration: $thin-text-underline;
   }
 
   .img-thumbnail {
@@ -169,7 +171,7 @@ a {
 
     &:hover {
       color: $dark-brown;
-      text-decoration: underline solid $light-orange .3rem;
+      text-decoration: $thin-text-underline;
     }
   }
 
@@ -190,7 +192,7 @@ a {
         color: $dark-brown;
 
         &:hover {
-          text-decoration: underline solid $light-orange .3rem;
+          text-decoration: $thin-text-underline;
         }
       }
 
@@ -316,7 +318,7 @@ a {
     }
 
     &:hover:not(.fa) {
-      text-decoration: underline solid $light-orange .3rem;
+      text-decoration: $thin-text-underline;
     }
   }
 
@@ -386,7 +388,7 @@ a {
       color: $dark-brown;
 
       &:hover {
-        text-decoration: underline solid $light-orange .3rem;
+        text-decoration: $thin-text-underline;
       }
     }
   }
