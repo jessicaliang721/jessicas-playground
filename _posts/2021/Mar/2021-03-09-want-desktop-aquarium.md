@@ -79,3 +79,5 @@ I got out a tape measure and made sure that those sizes will take up the least a
 *Biorb cube*
 
 I will continue to think about this idea as I wait for these tanks I want to come back in stock! It is certainly not a cheap hobby, and I want to make sure I will not get tired of it. **If you have your own desktop aquarium setup, I'd love to see! Any advice appreciated :)**
+
+*UPDATE: [I got one]({% post_url /2021/Apr/2021-04-06-my-biorb-aquarium-setup-supplies %}) :smirk:*
