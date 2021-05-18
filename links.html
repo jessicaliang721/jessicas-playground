@@ -1,0 +1,34 @@
+---
+layout: default
+title: Links
+---
+<div class="row page gy-2">
+	<div class="col">
+		<h1 class="text-center">Links</h1>
+		<div class="row margin-bottom">
+			<div class="col">
+				<h2>Recommendations</h2>
+				<div class="row row-cols-md-2 gy-4">
+					{% for post in site.data.featured_recs %}
+					<div class="col">
+						{% include card.html %}
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+		<div class="row margin-bottom">
+			<div class="col">
+				<h2>Photography Shop</h2>
+				<div class="row row-cols-2 row-cols-md-4 gy-4 text-center margin-bottom">
+					{% for photo in site.data.featured_photos %}
+					<div class="col">
+						<a href="{{ photo.link }}" target="_blank"><img src="{{ photo.src }}" alt="{{ photo.name }}" class="img-fluid"></a>
+					</div>
+					{% endfor %}
+				</div>
+				<a href="https://society6.com/jessicapei" target="_blank" class="btn btn-primary">See more on Society6 shop</a>
+			</div>
+		</div>
+	</div>
+</div>

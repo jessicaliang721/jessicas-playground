@@ -12,6 +12,7 @@ One of my favorite rooms in our home is the game/media room. It's fun, colorful,
 ## Plants, plants, and more plants
 
 ![game room view](https://lh3.googleusercontent.com/pw/ACtC-3djeTs3ZZ6HfR2Shz8AtTyVhcbDVzp8oXL9xbIPlNNXye1dsaYvR7T2ZGH-W-a8HdA1or-Y13lIqBVaOSxQLV-xaRk44Bi4PgFRPOOSgHo4BKCd2epJUhRl8Jg81P6nQwTOlZXbM9j7MUnwYm1E7sHP4A=w1000-h667-no?authuser=0)
+*[marble coffee table](https://amzn.to/3bAasK7)*
 
 Last summer, plants infiltrated our entire home! I went through a plant craze, and as a result, had to add more ways to grow/display them around the home. As you can see, they've taken up every inch of windowsill, so I added a couple of shelves to the wall. It was a simple DIY consisting of wood and brackets that I then spray-painted gold. I LOVE the additional space to display MORE plants! Since the windows are east-facing and next to a building, there's not enough light coming in throughout the day. So I added self-timer [grow lamps](https://amzn.to/3u4iKkG) to each shelf. The plants are loving all that light.
 

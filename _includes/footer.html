@@ -10,12 +10,13 @@
 		<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=JessicasPlayground', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="JessicasPlayground" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" class="submit-button "/></form>
 	</div>
 	<div class="col-lg-4">
-		<h4>Fun Links</h4>
+		<h4>Links</h4>
 		<p>
 			{% for media in site.data.social_media %}
 			<a href="{{ media.link }}" class="fa fa-{{ media.name | slugify }}" target="_blank"></a>
 			{% endfor %}
 		</p>
+		<p><a href="/links">Shop & recommendations &raquo;</a></p>
 		<p>I don't run ads because I, too, hate ads. If you found value in my blog, you can support me here:
 			<a data-bs-toggle="modal" data-bs-target="#supportMe" class="fa fa-coffee"></a>
 			<!-- Modal -->
@@ -43,14 +44,6 @@
 				</div>
 			</div>
 		</p>
-		<ul>
-			<li>
-				<a href="{{ 'archive.html' | relative_url }}">Browse the archive</a>
-			</li>
-			<li>
-				<a href="https://society6.com/jessicapei" target="_blank">Buy my photography</a>
-			</li>
-		</ul>
 	</div>
 	<div class="col text-center">
 		<small>Site lovingly designed and developed by <a href="https://www.jessicaliang.net" target="_blank">Jessica Liang.</a></small>

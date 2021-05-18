@@ -22,7 +22,7 @@ More close-ups of all my different plant zones:
 I originally thought this entryway corner was getting a lot of light coming in from the door's windows. But that turned out to not be true after I measured this space with a light meter. Since our door is shaded under an awning, it vastly reduced the amount of bright light. Hence the giant, blinding [grow light bulb](https://amzn.to/3xlbO4P). It's been keeping my plants alive and growing, so whatever works...
 
 ![entry way close-up](https://lh3.googleusercontent.com/pw/ACtC-3dLr0C4Se_Qbfz2Pj1Ti8wNPr7BTmNJLwDyTakvLmR8Y0HBesJF9a6VrvV41d3NJaIbQIcMlpF0GcrzcaS2r1ErUQe6A5EQciFIUJ0DfOoyGIlZunZGiq9npmEVM6G7VeJnkaVxN9aMAo-7GADEW8sTtA=w1000-h667-no?authuser=0)
-*[plant stand](https://amzn.to/3dKxtvx) | [shoe rack](https://amzn.to/3erbicN) | [multicolored coat rack](https://amzn.to/3xnbGBF) | [monstera leaf rug](https://amzn.to/3elOsmM)*
+*[plant stand](https://amzn.to/3dKxtvx) | [3-tier plant stand](https://amzn.to/3tWVEvF) | [shoe rack](https://amzn.to/3erbicN) | [multicolored coat rack](https://amzn.to/3xnbGBF) | [monstera leaf rug](https://amzn.to/3elOsmM)*
 
 Ah yes, I love this gallery wall. It has grown over the years. Almost all the art are handmade by me. I did this to create a gallery wall on the cheap! :laughing: But I also enjoy the creative process. In fact, you can browse and purchase my photography on my [online store](https://society6.com/jessicapei).
 

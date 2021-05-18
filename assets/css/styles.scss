@@ -99,6 +99,13 @@ a {
   border: none;
 }
 
+.card {
+  border: none;
+  h4 {
+    text-decoration: underline solid $light-orange 0.3rem;
+  }
+}
+
 .share-social-media {
   span {
     color: $dark-brown;
@@ -128,8 +135,12 @@ a {
 .tag-page,
 .category-page,
 .archive,
-.about {
+.page {
   padding: 1rem;
+}
+
+.margin-bottom {
+  margin-bottom: 3rem;
 }
 
 // navbar
@@ -564,7 +575,7 @@ a {
   .tag-page,
   .category-page,
   .archive,
-  .about {
+  .page {
     padding: 1.5rem;
   }
 
@@ -625,7 +636,7 @@ a {
   .tag-page,
   .category-page,
   .archive,
-  .about {
+  .page {
     padding: 2rem;
   }
 

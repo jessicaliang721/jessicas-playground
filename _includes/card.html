@@ -1,0 +1,17 @@
+<div class="card text-center">
+	<a href="{{ post.url | relative_url }}">
+		{% if post.image %}
+		<img class="img-thumbnail" src="{{ post.image }}" alt="{{ post.title }}">
+		{% else %}
+		<img class="img-thumbnail"
+		     src="/assets/images/category_icons/{{ post.category }}.png"
+		     alt="{{ post.title }}">
+		{% endif %}
+	</a>
+	<div class="card-body">
+		<a href="{{ post.url }}"><h4 class="card-title">{{ post.title }}</h4></a>
+		{% if post.date %}
+		<p>{{ post.date | date_to_long_string }}</p>
+		{% endif %}
+	</div>
+</div>
