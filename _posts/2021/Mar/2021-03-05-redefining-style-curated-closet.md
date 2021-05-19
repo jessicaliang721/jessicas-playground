@@ -17,7 +17,9 @@ Trying to rehaul my closet during a pandemic is certainly an unconventional choi
 
 Of course, I Pinterested like crazy to figure out what I admired first.
 
+<div class="text-center">
 <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="500" data-pin-scale-width="200" href="https://www.pinterest.com/heyletsplaywithdirt/style-inspiration/"></a>
+</div>
 
 Holy heck, I learned that I liked neutrals! And this is coming from a girl who exclusively wore prints.
 
