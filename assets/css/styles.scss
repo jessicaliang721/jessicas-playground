@@ -488,6 +488,13 @@ a {
 .comments {
   margin-top: 1rem;
 }
+#links-page {
+  .card {
+    .img-thumbnail {
+      max-height: 350px;
+    }
+  }
+}
 
 // Medium devices (tablets, 768px and up)
 @include media-breakpoint-up(md) {
