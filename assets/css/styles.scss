@@ -363,6 +363,12 @@ a {
   transform: translateY(0)
 }
 
+video {
+  display: block;
+  margin: 1rem auto;
+  width: 100%;
+}
+
 // Posts
 .single-post {
   margin-bottom: 3rem;
