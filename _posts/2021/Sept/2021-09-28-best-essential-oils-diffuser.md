@@ -37,3 +37,5 @@ I, however, don't know what most of these smell like, so I don't want to buy onl
 I'm also interested in finding other ways to use up the crappy, cheap oils instead of diffusing them. I know that people use them for "medicinal" or "health" benefits, but I don't really believe that. If you have creative ways of using essential oils, do share!
 
 Now that I found a great set of affordable oils, I want to diffuse oils in my entire home. I a diffuser in every room, haha! I may just get a couple more of the [100 ml](https://amzn.to/2Wfzxpg) versions of the diffuser that I have. It looks clean and modern, and the neutral color and can easily work with any decor style. **Do you diffuse essential oils in your home? Which oils do you use?**
+
+P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!
