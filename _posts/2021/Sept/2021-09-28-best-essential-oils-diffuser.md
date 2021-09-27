@@ -17,7 +17,7 @@ Of course, I needed essential oils to diffuse. I went onto Amazon and bought the
 
 Little did I know, the reason why the scents didn't last long is because I bought a cheap set of essential oils. Even though they were marked as "pure," there's no telling exactly how pure they are. There can be any percentage of oils inside that bottle mixed with a carrier (non-scented) oil. This is the price of buying cheap oils!
 
-After doing some more research, I saw good reviews for another brand's oils, ESSLUX. I immediately bought [a set](https://amzn.to/3kJBjID), and after trying it out, was super impressed with just how much better they were. Turns out not all essential oils are created equal!
+After doing some more research, I saw good reviews for another brand's oils, ESSLUX. I immediately bought [a set](https://amzn.to/3kJBjID), and after trying it out, was super impressed with just how much better they were. Turns out not all essential oils are created equal! What I want is **therapeutic grade** oils, which the ESSLUX ones are.
 
 ![Esslux floral essential oil scents](https://m.media-amazon.com/images/I/717VYKPgzAS._SL1500_.jpg)
 *[Get it on Amazon](https://amzn.to/3zNGBY7)*
