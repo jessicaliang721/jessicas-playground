@@ -22,7 +22,7 @@ After doing some more research, I saw good reviews for another brand's oils, ESS
 ![Esslux floral essential oil scents](https://m.media-amazon.com/images/I/717VYKPgzAS._SL1500_.jpg)
 *[Get it on Amazon](https://amzn.to/3zNGBY7)*
 
-For one, the scent was much stronger. The Laguna Moon oils' scent was gone after 10 minutes; not so for these. I put 8 drops of oil into 250 ml of water, and the smell is pretty strong. Not overwhelming, but I even can smell it  from outside the room. For the other oils, I had to stick my nose right up to the diffuser to smell anything!
+For one, the scent was much stronger. The Laguna Moon oils' scent was gone after 10 minutes; not so for these. As long as the diffuser is going, you'll be able to smell the oils. Mine (on auto mode) lasts for *hours*. I put 8 drops of oil into 250 ml of water, and the smell is pretty strong. Not overwhelming, but I even can smell it  from outside the room. For the other oils, I had to stick my nose right up to the diffuser to smell anything! 
 
 Now this is what I am talking about! I'm excited to try out other scents and mix my own. I'm tempted to buy the other sets that this brand offers:
 
