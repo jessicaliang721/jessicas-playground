@@ -25,7 +25,7 @@ In the meantime, let me show you my setup. This is what my side currently looks 
 I bought a nice new [widescreen monitor](https://amzn.to/3gxAnp5), a [mechanical keyboard](https://amzn.to/2QPZyIM), and best of all, built myself a custom [PC tower](https://photos.app.goo.gl/zGfBjvucU7Uq8dFu5) last summer. This thing is a beast - I got pretty much top-of-the-line CPU and graphics cards - so that I can continue to use this bad boy for the next 20 years. I was debating between a custom PC Tower vs a Macbook Pro. In the end, building a tower was waaaay cheaper than the Macbook. And it is a powerful workhorse. Aside from having to code on Windows (boooo), this is the ultimate software engineer's setup, I think!
 
 ![Jessica's keyboard](https://lh3.googleusercontent.com/pw/ACtC-3eSNcteX6U5jYEmPUUATZWjymDW4ioUwX9vZPHp3ROEThjRds4Qs5zP7WwC1TKGd6lHDqPjUJVWOCAF8kK5ZbT3h80RJ_DEgulsivIHRC_IRIL_rB5JtvLtV9YgG9QtdaTJnT6jbTNqwIf3bzfYPURTjw=w1000-h667-no?authuser=0)
-*[mechanical keyboard](https://amzn.to/2QPZyIM) | [gaming mouse](https://amzn.to/2QQRuYq) | [phone & airpod wireless charger](https://amzn.to/3vkPjeB)*
+*[mechanical keyboard](https://amzn.to/2QPZyIM) | [gaming mouse](https://amzn.to/2QQRuYq) | [phone & airpod wireless charger](https://amzn.to/3nvpd6q)*
 
 ![Biorb](https://lh3.googleusercontent.com/YXS_xXTTE9IuYzIfTbcQ0XrLAQXCllxNYBE7CWPwUazM05mLfFDhHSBfQ5-xLT1R-WQo3MDc6mYJiLf_DQzEoCMm26-N6Rm977MtxgFTbTtKu80lFvZjQ2BX-gyw98iszMY_WAF_JBgtIp6U1fhAQuNyPjvgN1d4fpPOezKjR7HwqJwd21Jh8C9EYePpS0QPkj4Qwproc94Zzgb3zZhDmT8iUX323EowIjW7_6vpziXWgodof1XomFmgt0fbV7Y8O5gtkVUtXZZ4v6NWceyrZY4PnAKkgAReyfLqcq4vysH5y73VOpM0KD_PRTx_KAO48LME_kXC8rgYdwKBhBUD0d6-XDg6qdgsVUIhzai1p6gJuEUUW_tA5n5qTPXyyjCVhhjqbj0CnTO0zNHcgJWBTZUbEyvo0tfts-c7xe8bvN--RC0OUg3OGFB-EEAlDy8MMJ3dlmUSyYAZBsW2-ur8zR8SVln3W7hBRd2tRDLdjG0OKhBpy3Tc2Kh2kmq4uJVxkez040g3dwR34uqtF9tMaLC956qhCae-rpjKSfsJElquqFSXyqSmrL4MctusPmpq44siE6rFcev_vNkOJpyKZpkdxE5Gqb_3jPk860wpBJ691Xhvbe7A4GTHtdf2bqDE3J7KdcVR8Y4S1KlUK-goVhZeGMsfFVCyMfmyj4o7UTaAEzpJMatzzZpbfALo6rqdlSRjGHRcKa4J5By2_xIhLLuvEQiz0x8oAUwCS7g6306haSIhIrx6rGb0BTr-Hd_uWnoi9HFlGD77qzDWHV8=s1029-no?authuser=0)
 *[My Biorb Aquarium Setup & Supplies]({% post_url /2021/Apr/2021-04-06-my-biorb-aquarium-setup-supplies %})*
@@ -48,6 +48,6 @@ Finally, the [map](https://amzn.to/2PhkJmC) is an awesome engagement gift from o
 
 Stick around to find out what I envision for my office in our new home! It'll still have similar colors to what we see here, but I'm excited to also add a touch of drama...
 
-**What is a "must-have" in your home office? Mine is my PC tower!**
+**What is a "must-have" in your home office? Mine is my [PC tower]({% post_url /2021/May/2021-05-24-nzxt-h510-elite-pc-build %})!**
 
 P.S. I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!
