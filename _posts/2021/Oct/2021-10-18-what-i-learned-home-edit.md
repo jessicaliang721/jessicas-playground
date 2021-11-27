@@ -1,5 +1,5 @@
 ---
-tags: [sparks-joy]
+tags: [sparks joy]
 category: entertainment
 title: What I Learned from The Home Edit
 image: https://www.thehomeedit.com/wp-content/uploads/2020/10/NetflixBanner_v2.png
@@ -50,7 +50,7 @@ Label EVERYTHING. This is the ONLY way to maintain your organized system. I am t
 <div class="row row-cols-1 row-cols-md-2 gy-4">
     <div class="col"><img src="https://lh3.googleusercontent.com/dTYkZN20QjqfOYKtRfzMoLgZ49nTvw2IE-AzA9jdXpbFgF_iSCAUTpdQbQppIBULSRX67L8ygAQw1PX1ilf_XB5dxcJrzlMbTv-FWl9pOCFEzSZoRydmnEfjNiFZqdaEJNhu4JBSYgvbya8VncT8y8JRQFg_M1FZOev8OXfrYjL9dzxRv9BDvM1AaDlNAUqbJBvDVRPCvPSF68EdqTKRMUp7b_4mogZX-7ygvCs2Dh1ix9VpthJDQaWxodDstfQHo7qUQFGRVJoyoG3-Q9-_mXWmCYtc1x2fJcn2LtnSL6KNi0_tB690FhJuAyiIX8q62ewGbCsJHw9c9buhA2FWU4GHiJhTtQFfxmxT5rqEKqwrfXN-PG_y8wjDvlN_0GRCTXKpPPVkBt5mfBKlTc7BF3hW_1dIqaYZwdTgUveJJQ3a8YEuGBwdHuFlvxdp7pNlloRx100tWk2U_3rovk11SuO3wgIncTtKaGmltVr5BCjgVGWYGXQ_DK8SamYA5bxXMdNUNMufS01t8ub-6tH04zUTfG8PtUcvSoe7EpXXL6bvb9HL5rX4XLluIXOaHZnNd15OYH0h6ngTOQZJoRZMvs8xHSizi0AjNreWHZ9abRqgEaxeeKjJgHUgBXM4Nf218__aSIKVkwhk9VJpEtc84ASNHmMejMJ1vvuzaWmrbqRQOgf6qLTiqJkvsYoFTw617d6clKej7ELxdGf7rM1gdmdumfZABNzt8iDg-piaKanjO7R68lZ_YTwlDZOsn8QRQk4WA5uzpb8Fuo-J3KE=w738-h984-no?authuser=0"></div>
     <div class="col"><img src="https://lh3.googleusercontent.com/giRZJGhQ-oPMVC5H1fjXURkN4uRG2jyiVrHqw34aTVxbn7tnDYCeZwxM2I9x16Cdw5-QmumZ-L4hnZpvXhs_TuYlqnf4XDVJigYY9-rK1ojyExO-lZqiaHU4bzIAtUjKreQ8jycseAymM3CcX95n2-Xfe09ZCSMXNVBh7-Kl9hOHZmg78owbj2lkmzchSHJq-QdN_AEJd5ePQAAMXp71khAaDyJBdrjETUJ8JdQVctFibBPHZxKlTvHcvWxcgycvGE4_O6RIrE1Gi-Bn5y_AK8gxGcdp6X-zQKCdRLMVXO-DL2ABjA_QyjFGkiXZ1FIXQEvuGgo0lutKIDf5iWcfMI8ct1DnEZFVMIoFrV62KgirKeKYtp8ERUM1rSj_0Gs2CILdrSwNCoMCU_hmdxQmcHuOpEuTYuBTb7Fj5TGbKYd5BBHMYrrYC9mJxefb1louhFFcZ3thQErNPN-fSw1GD_YeBrs0D-qhpunA_jJ0kB96KTFrdwpxUzwnWzwMwINxKkx2855G9PVtr1Mt59bZ1C1CA6mhAgfsrfKgqyE2MfthPaMcE48jF9F85o5WCWrSkaHKVOyR0ZYwTUVblhDbZRDOtoBEmIGh6GIp7dncpKQy8OCUyFcpGHKs8iGuFpK6VQanh8okNbET7oh0fmAS8rD465K8ruS6PiNJuBZBy1EDYPZJAdwEh-9i0BWv9-MHa60sprWRp25Fk6HSsDzgCXwp1tP7n8Jw3R1Oh3sEWCzlZc646uHiUw_OFJAayn9TS1GskEG75BJcF_O742E=w738-h984-no?authuser=0"></div>
-</div>
+</div> 
 
 ## Rainbow Order
 <div align="center">
