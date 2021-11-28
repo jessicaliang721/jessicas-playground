@@ -44,6 +44,12 @@ Rating: 3/5
 
 Rarely does the second book of a series equate or exceed the first book, and it was true here. I still liked it, but it wasn't as good as Six of Crows because of the ending. SPOILERS: I felt that the ending between Kaz and Inej was improbable. Maybe the author tossed readers a bone, giving us a "happier" ending (because there's no happy ending with these guys). But it just felt too "nice" and out of character. And in this series, character development is everything!!
 
-**Have you read any of these books? What did you think?**
+## Unorthodox: The Scandalous Rejection of My Hasidic Roots
+<a href="https://www.amazon.com/gp/product/1439187010?ie=UTF8&SubscriptionId=1MGPYB6YW3HWK55XCGG2&linkCode=li3&tag=jessicapei-20&linkId=f233dcb2ef1acd47573c6fb8c436a697&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1439187010&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jessicapei-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jessicapei-20&language=en_US&l=li3&o=1&a=1439187010" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Rating: 4/5
+
+Well let me tell you, I learned a lot about Judaism while reading this book. It was absolutely fascinating, especially as someone raised in Christian culture. So many rules to follow! Feldman's stories about growing up Hasidic were captivating. However, the ending fell a bit short because she neglected to provide details about how she got out of the community. Girl, you had no real job, where did you get the money?! But I devoured the book in a couple days and can't wait to finish watching the Netflix adaptation (I watched 1 episode before reading the book).
+
+**Have you read any of these books? What did you think? See more on my [Goodreads](https://www.goodreads.com/user/show/7454797-jessica)!**
 
 P.S. I will get a small commission if you make a purchase through the book image links at no additional cost to you. Thanks for your support!
