@@ -2,7 +2,7 @@
 tags: [books]
 category: entertainment
 title: November Book Report
-image: https://www.thehomeedit.com/wp-content/uploads/2020/10/NetflixBanner_v2.png
+image: https://i.imgur.com/snYeHal.jpg
 ---
 
 This month I read a lot of books! What motivated me was to scroll less on social media, and to read more books during that time instead. I also started listening to more audiobooks while going on walks and doing chores. Finally, I joined our neighborhood book club which motivated me to read even more! As a result, I consumed a LOT of books, which I'll share with the following rating system:
