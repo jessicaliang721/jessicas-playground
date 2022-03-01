@@ -9,7 +9,7 @@ This month I tried to continue to read books instead of go on social media. I wa
 
 ## Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 <a href="https://www.amazon.com/gp/product/B07D23CFGR?ie=UTF8&SubscriptionId=1MGPYB6YW3HWK55XCGG2&linkCode=li3&tag=jessicapei-20&linkId=3946bf2e78703659ed38b47c5ae1f078&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D23CFGR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jessicapei-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jessicapei-20&language=en_US&l=li3&o=1&a=B07D23CFGR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-Rating: 4/5
+Rating: 5/5
 
 I loved this book. It was super practical in explaining how one can build new habits, bit by bit. My biggest takeaway is that something is better than nothing, which is the heart of the "atomic" idea of habit-building. Doing a little bit every day (or most days) is better than not doing at all. I've applied this principle to my workouts (some movement is better than no movement!) and practicing piano (10 minutes of practice is better than no practice!). I can already see myself wanting to re-read this book to refresh my memory this next year.
 
