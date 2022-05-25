@@ -1,5 +1,5 @@
 ---
-tags: ['mood boards', 'kids-room']
+tags: ['mood boards', 'kids room']
 category: home
 title: Nursery Mood Board
 image: https://i.imgur.com/1RUHHov.png
