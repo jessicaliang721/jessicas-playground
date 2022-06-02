@@ -7,6 +7,8 @@ image: https://i.imgur.com/EzYVlwF.png
 
 I'm waaay behind on my monthly book reports, but I'm trying to catch up! Here's what I read in May:
 
+![May Book Report](https://i.imgur.com/EzYVlwF.png)
+
 ## The Innocent
 <a href="https://www.amazon.com/gp/product/045121577X?ie=UTF8&SubscriptionId=1MGPYB6YW3HWK55XCGG2&linkCode=li3&tag=jessicapei-20&linkId=eb907e1615788246ca5ce065566ac751&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=045121577X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jessicapei-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jessicapei-20&language=en_US&l=li3&o=1&a=045121577X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 Rating: ★★★/5
