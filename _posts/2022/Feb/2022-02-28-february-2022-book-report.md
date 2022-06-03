@@ -2,10 +2,12 @@
 tags: [books]
 category: entertainment
 title: February Book Report
-image: https://i.imgur.com/snYeHal.jpg
+image: https://i.imgur.com/K3CZsSr.png
 ---
 
 A shorter month, but that does not mean less books! With the trips to Denver and Vegas I took this month, I had plenty of time to kill in airports and hotels, which I did by reading. Once again, I am so grateful for my new [Kindle](https://amzn.to/34RBj4k)! It's small, compact, and long-lasting battery. It's been great for travel.
+
+![Feb 2022 Book Report](https://i.imgur.com/K3CZsSr.png)
 
 ## All the Ugly and Wonderful Things
 

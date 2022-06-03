@@ -2,10 +2,12 @@
 tags: [books]
 category: entertainment
 title: January Book Report
-image: https://i.imgur.com/uIZ2tz3.jpg
+image: https://i.imgur.com/n6xuLMC.png
 ---
 
 New Year, new reading challenge! While I started off strong, my book-reading tapered off towards the end of the month. I got kiiind of absorbed in phone games, rediscovering my love for Candy Crush and finding a new obsession with Wordle. My goal next month is to read when I get the urge to game or watch Youtube!
+
+![Jan 2022 Book Report](https://i.imgur.com/n6xuLMC.png)
 
 ## The Girl With the Louding Voice
 <a href="https://www.amazon.com/Girl-Louding-Voice-Novel-ebook/dp/B07SCTZ4RQ?keywords=the+girl+with+the+louding+voice&qid=1643336718&sprefix=the+girl+with+%2Caps%2C157&sr=8-1&linkCode=li3&tag=jessicapei-20&linkId=0b23d83d1159289fcec046be6cfc84b0&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07SCTZ4RQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jessicapei-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jessicapei-20&language=en_US&l=li3&o=1&a=B07SCTZ4RQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
