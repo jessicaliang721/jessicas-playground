@@ -157,7 +157,7 @@ Grow lights are not the same as your regular old light bulbs! These have specifi
     </div>
 </div>
 
-## Care/Remedies
+## Care/Pest Control
 Everything I use to combat pests and keep my plants in good health.
 
 <!-- IG images -->
@@ -187,6 +187,8 @@ Everything I use to combat pests and keep my plants in good health.
         <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=jessicapei-20&language=en_US&marketplace=amazon&region=US&placement=B07QNVSP74&asins=B07QNVSP74&linkId=437f6241ecf2f13c803e0509902502bd&show_border=false&link_opens_in_new_window=true"></iframe>
     </div>
 </div>
+
+See the full/updated list on [Amazon](https://a.co/8jgm2k5).
 
 ## Tools
 
