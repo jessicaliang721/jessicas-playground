@@ -1,5 +1,5 @@
 ---
-tags: [crafts]
+tags: [arts & crafts]
 category: art
 title: Starting to Crochet a Waffle Scarf
 image: https://www.anniedesigncrochet.com/wp-content/uploads/2020/06/crochet-waffle-stitch-sq.jpg

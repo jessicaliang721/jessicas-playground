@@ -2,10 +2,12 @@
 tags: [books]
 category: entertainment
 title: December Book Report
-image: https://i.imgur.com/ZswcfhU.jpg
+image: https://i.imgur.com/Mb5Br9R.png
 ---
 
 This month I tried to continue to read books instead of go on social media. I wasn't as successful as last month (re-downloaded some social media apps, eek), but I still read a good number of them. I also started a bunch of books but didn't end up finishing them, so you'll probably see them next month! Here's what I've finished so far:
+
+![Dec book report](https://i.imgur.com/Mb5Br9R.png)
 
 ## Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 <a href="https://www.amazon.com/gp/product/B07D23CFGR?ie=UTF8&SubscriptionId=1MGPYB6YW3HWK55XCGG2&linkCode=li3&tag=jessicapei-20&linkId=3946bf2e78703659ed38b47c5ae1f078&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D23CFGR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jessicapei-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jessicapei-20&language=en_US&l=li3&o=1&a=B07D23CFGR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
