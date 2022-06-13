@@ -4,7 +4,29 @@ title: Links
 ---
 <div class="row page gy-2" id="links-page">
 	<div class="col">
-		<h1 class="text-center">Links</h1>
+		<h1 class="text-center">Link Up</h1>
+		<div class="row">
+			<div class="col">
+				<p>Welcome! Below are links to my latest blog post, Amazon storefront, post recommendations, and my photography print shop.</p>
+				<p class="text-center">
+					{% for media in site.data.social_media %}
+					<a href="{{ media.link }}" class="fa fa-{{ media.name | slugify }}" target="_blank"></a>
+					{% endfor %}
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<h2>Latest Blog Post</h2>
+				<div class="row">
+					<div class="col">
+						{% for post in site.posts limit:1 %}
+						{% include single-post.html %}
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="row margin-bottom">
 			<div class="col">
 				<h2>Amazon Storefront</h2>
@@ -17,7 +39,7 @@ title: Links
 				</div>
 				<div class="row">
 					<div class="col text-center">
-						<a href="https://www.amazon.com/shop/play.with.dirt" target="_blank" class="btn btn-primary">Visit Amazon storefront</a>
+						<a href="https://www.amazon.com/shop/play.with.dirt" target="_blank" class="btn btn-primary">Browse Amazon recommendations</a>
 					</div>
 				</div>
 			</div>
@@ -46,7 +68,7 @@ title: Links
 				</div>
 				<div class="row">
 					<div class="col text-center">
-						<a href="https://society6.com/jessicapei" target="_blank" class="btn btn-primary">Visit photography shop</a>
+						<a href="https://society6.com/jessicapei" target="_blank" class="btn btn-primary">Buy photo prints</a>
 					</div>
 				</div>
 			</div>
