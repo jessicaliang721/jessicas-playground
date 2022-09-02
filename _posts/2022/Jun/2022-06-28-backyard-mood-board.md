@@ -1,5 +1,5 @@
 ---
-tags: [mood boards]
+tags: ["mood boards", "yard"]
 category: home
 title: Backyard Mood Board
 image: https://i.imgur.com/JLQIq6R.png
