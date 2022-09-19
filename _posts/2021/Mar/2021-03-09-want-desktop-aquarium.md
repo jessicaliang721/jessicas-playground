@@ -2,7 +2,7 @@
 tags: ['pets', 'decor']
 category: musings
 title: I Want a Desktop Aquarium
-image: https://cdn.shopify.com/s/files/1/2964/8010/products/45845_02_720x.JPG?v=1584366537
+image: https://cdn.shopify.com/s/files/1/0615/8948/7843/products/45840_03.jpg?v=1652468704
 ---
 
 This idea has been on my mind for a while, so let's take a deep dive in this post. I want a cute little aquarium to display on my desk or bookshelf, but I have not taken the plunge just yet.
