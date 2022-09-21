@@ -26,8 +26,6 @@ Ok enough doom and gloom, let's talk about the fun stuff!
 
 Of course my number one reason for wanting one of these bad boys is aesthetics! I am in love with the look of Biorb aquariums.
 
-![Biorb aquarium](https://cdn.shopify.com/s/files/1/2964/8010/collections/FOT_WWBI_54537-biOrb-CUBE-60MCR-Transparent-001__SALL__AQU__V1_900x.jpg?v=1605188922)
-
 The price, though, is just so god-awful. Like, is it really worth $200+ for an acrylic box? It comes with "everything you need" which highly appeals to my lazy ass. I want to be able to set up my aquarium easily since I have zero real experience with fish-keeping. The fish tank of my childhood was maintained and cleaned by my dad! So Biorb's simplicity + beauty really appeals to me.
 
 However, the downside is that they cannot have live plants in them. The roots of the plants interfere with the bottom filter or something. This is not a huge deal to me right now since I don't think I really want to go as far as aquascaping (I have enough houseplants to maintain). But if I choose this kind of tank, then I pretty much can't have live aquatic plants in the future.
@@ -64,18 +62,11 @@ Of course, all fish have their pros and cons. I am looking for a pretty sturdy f
 ## What tank I want
 After waffling back and forth between several 5 gal tanks, I think my final choice will be the Biorb LIFE 4 gal or 8 gal tank.
 
-<div class="row row-cols-1 row-cols-md-2">
-    <div class="col">
-        <img src="https://cdn.shopify.com/s/files/1/2964/8010/products/45874_01_720x.JPG?v=1584366265">
-    </div>
-    <div class="col">
-        <img src="https://cdn.shopify.com/s/files/1/2964/8010/products/45845_01_720x.JPG?v=1584366203">
-    </div>
-</div>
+![Biorb]({{ page.image }})
 
 I got out a tape measure and made sure that those sizes will take up the least amount of space on my desk. I was also considering the Cube, but its dimensions mean it also takes up more desk space.
 
-![Biorb cube](https://cdn.shopify.com/s/files/1/2964/8010/products/54490_02_133fbd22-7029-48f5-ae20-cb81dfe1e833_2048x.JPG?v=1584124696)
+![Biorb cube](https://www.oase.com/_Resources/Shared/FOT/PRD/FREI/FRLI/all/jpeg/FOT_PRD_FREI_FRLI_54506-biOrb-CUBE-30MCR-Transparent-001.webp)
 *Biorb cube*
 
 I will continue to think about this idea as I wait for these tanks I want to come back in stock! It is certainly not a cheap hobby, and I want to make sure I will not get tired of it. **If you have your own desktop aquarium setup, I'd love to see! Any advice appreciated :)**

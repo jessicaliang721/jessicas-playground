@@ -322,11 +322,17 @@ a {
     }
   }
 
+  .email-input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
   .submit-button {
     background-color: $dark-brown;
     color: white;
     border: none;
     padding: 10px;
+    display: block;
   }
 }
 
