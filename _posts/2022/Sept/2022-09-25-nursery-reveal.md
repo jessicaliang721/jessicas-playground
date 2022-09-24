@@ -1,0 +1,44 @@
+---
+tags: ['kids room']
+category: home
+title: Nursery Room Reveal
+image: https://lh3.googleusercontent.com/qPb0PbNmQVsHOaX-IEgtujVOFjcFC_BDh8Y47tNW8B4wqlSR66ZTTV9w5VYqZ7YpfpgFt0PjOwsQaSMv8WtexArHlOgGdB1ccq-3_aYbS9nF1Lg61Q6ENaV2beRAxmc-dO3g4nXwG8dlBN0UvS23QArodrTZxQ1ubPqHmMR8Q0PYh-AabKwofVQKRr64LZDBIudgv0tV46HSHeigLOKIISBjAnBaiVv68XUdlrk2SzP5JBvN-dx9BAc2myIht3nNgEzO_RdRkSCVhALy0Xh_Xv8LgNqyNdnZJJIVu22dPEEbXzZZmrZrlEybiYC_hVPbBdIK8QSUquYSl_oL-JMQbYLzcWCMpSRnTeBonWXw_kzocFEdeK4CVkotOUrrqsxjkyyDkFW6VOhtgvDrJS3-rkSP8Ian4ZukCmlmK3eJ_2x-ikvQzAnElzibwJ4Z-Nif61gLXYEPbyNm9mxQqSO1U2buLoPVtgBjV1PU2c_nkZ8U2pm028JgESddQjYxsAOtP-_bgtwCiDuK9ExPBu96p5Ml3UDrrDsIsXGJpqvFSlmRzN_1lX5DG8PngQw9BjNq3TWGKtb28kHubqoo3xwq601l5at21m_i5ISx8PfkE6Fi8Zk6CZehjmPrRRtAwc7RFPNsRYuqgH-hxre7Q7LZltYs29npwETKV_uHGfq3GBOA7UGeYBp-kPtlWG3Z3fAfBYfzTvHq85eQfPBaEVeVA2ptlc9jSdHdQXsNkJ3VLdx7yYweGxPNgOYytRZ-z3Drk6u4Vy_PBgMF0yl5gZ_HLCurKnfi_SqhNhcROLiXg2sgGT8exYqupw=w738-h984-no?authuser=0
+---
+
+I've shown a little preview of this room on [Instagram](https://www.instagram.com/reel/CinSg2DDbYk/?utm_source=ig_web_copy_link), but after a few more furnishings, it now feels complete!
+
+![nursery chair]({{ page.image }})
+*[glider](https://amzn.to/3ScwKVI) | [side table](https://amzn.to/3LGsone) | [throw blanket](https://amzn.to/3UFbaLh) | [macrame hangers](https://amzn.to/3C5fzzO)*
+
+Remember how it looked before?
+
+![nursery before picture](https://lh3.googleusercontent.com/molsLG4dzjpWZfcK_PDfLipW8UAb7vZrddEo3WkjcyXLM1hbJPXYWIO1SkJfIXdPKVog-TbAnU0mwAsV72o6TqjChTN68MvSNGl8QlI9C1RULWuKem1QR5Ulp1BtLAgrn5rnDKniGEKigySvcc35tZbH_5xMDTml5ujZI03k3r0-UHgtvnAzZygaqA6nCVBy7zFIyC6bwPDUOVPbpVDo4Lv65reDtor8UzwN_M0ANBIFFR5_Q24bJWhr4H8qmWNyT_HeEMW2qKsXtm5i92OLoGJ_lZXCnDS5dS0s7wKLdGPY1McPtTbM0AcMQmqU8SLVjcALJFnmVanPn_oAh5AnYq0xzduSYqeh9qIqWxR1ctXQfjawE7JzxMt1t9ytNbjTVcb8ANuWwytrY--ZJcikOfPyx5Mu5E9N4FqYAKYz4d2sk9a5KWIficqA0lJCHRvtQPzsVAG9SWPXVV2tyfARV0JNQ9YJ86rRCup9NekJ_-bD_es0QrkJPFxZLmXndgqTyIOUi0I2NP47dUwZgojSFTKpi3qMxc0tRVvU-qF6Bv_yp0XIvoZwBH0eKPENxgiF0ODcqvkMmtVJW_7jWee00IZewyZubdP6VzbAEIXagoekpTpWDFeqGNNC3Sgy7bGE1SWAZC8FUa16J9L8KG4L5dx4HsllZwnY7DAjGaOJLQ-92za-63g2QETpUguLU6e6uSBHTjvVXqeDqC5DQ2fPXEEhBHx7paiET2U0Fka9TzUpfD1k5OcGlCbMGvQAEwoorSnLxvcrZ36fSPqODEna9hd4OvytFIFNfPP17DP1WiVZOhACMo1OfdzZj919rWZZsP8lNVv9pZiCaNYCaNlS7EQyLfjkVg=w1024-h683-no?authuser=0)
+*The original listing photo*
+
+And how I envisioned it:
+
+![nursery mood board](https://i.imgur.com/1RUHHov.png)
+*[mood board blog post]({{ site.baseurl}}{% post_url /2022/May/2022-05-25-nursery-mood-board %})*
+
+It came together just as how I imagined it. When baby gets a little older, he'll have access to the toy/book shelf on his own. 
+
+![window view](https://lh3.googleusercontent.com/mltfHPjd-RLA2vUZF9e9YBQkwQ9yWCcpivJlmYZHSe-5d62uc_IZh8-Ikc6V0I-07TzPy4mewQ6Jp9Sd6goxruemczwTjEA7NNXKv1QTA1pbEYDEZHgusZWZCSDD__SHBAQY3fkINwnB8wugsSqB3RLzYQ0qJnjhJNNrzksRoJIo6AAeHeKd2EmUBqdLp4NYTpYG1asRTQTgKgQ4xI2vx6DTxME_0vzi8fFJvz_jfNlO5PzUdq7l5HyZzNsj0wdnNd9KeknB5U88_gZ_aoOnz3qVkJveKDo24gTgp33Kyyaua0LiwiGueXsMIpl3n42yZOiMqdY_iDtjtr24aPfHjpt1kDbupNb_T8foJVvrxugdNBpRsrQu13MX1oeiX34bSg4IHvDjjd_lE06R5rlfldxGEtA6ckHznd4mdqqHErTc9_a3XRxN5J7u5NAZq9ZJCSU6ZfRsp_CQZUOu3KAosI4hgQZ4hBlFPN9DxB2yru73OuJmKeUVz0ziO9HmDQyJuXJfpchy_f5QECp3gbat9jY4BFjbOBT71bN8ZhBp9mVh6tXlntdY1enXlZANj8_yIxoY9Fzzs53p_mkyMwUbc-pK8ANywXF1D8B-aW0H6_ECB9rvVZsEjb_6hhQxYMDcRAJ1Xl0JDa9_tyq-5yUAPWJEqoeKDv4wNklbarYOhwo_IrR8quCHgYfNm26sp1_ONA6tWpl63RnnHKFjD74OaF7Zmj1RNk37cEE2hBPtbcVwLoUn6hrlsWhK04QbN-IakL_LP363lHY-5p0kEsIMAOmQj7ewO4pCsgTqdEYNRtQVLX4Xuz2TOI-QoENrczEVvRT8GjvpmX5gE__u-wsNLtrsE1oAXbj59X4xtediLKSn5f0QP301PbmZIfHLpk-G51oqEHcoaGy-QQPAvoAkLyRbt6ymKDyxHcQs_maZ_0FRHRY76pCscgO3yRkFJqlXtaTVrvuk3GliimH7QSkSlLElYlG4Rp7c=w1312-h984-no?authuser=0)
+*[diaper pail](https://amzn.to/3rbJyQ5) | [gold curtains](https://amzn.to/3SoyKKo) | [constellation rug](https://amzn.to/3SqQiVY)*
+
+![dresser view](https://lh3.googleusercontent.com/kVvstqZgXQhGy3ubsQFbfEN_eZc3C_LqiX89oy0aKs0TILgzRjr65sBlBbt4w1fLC5xTktIOIoin-p1_BR7epaUrvLlhKUzDXQfUEfCcFQ1CixzVnQwGPqY_opPNp5AqDVHKKdmHK_KYKA0amBweekmyPuMc4ji4J_2ZPy3ahmjK4cJf6oiSyvT3yx-5LLJNQxIqYx3zeuxADbwJMqhcEdXI8x-UBpQq5rFblOlAGV1lGhyY5wN0iwACg9GnMu5K_XWy1UBJB2AVaAh5ESb7apP9N5NUQB85QZIsDwaBd3vmLVzbGL7aLZjoArXVgKw2AkYtAcDWRwolvMmriXY7gizM5LYuqMTVsUo7ZM_CmDJA23ts6vQrWAolKWAQyr7cqIAXDumqGxb3v8sY1UgPmnkVBqcTQSfXDc8214nA2G30ssIZ9oBuS02UCh5iKBoOUQlV24h8lWddoA-vQkrrUrLly3oNiqSOSehWerCT4DNtcZG_O7OAK91rDP7WaG2JIXuxHIFIPip7pukTARpY4OrsfjllfxVCGKzM59M-ix0INsEv70wFN1JF96j-ggWsnDIQ9rkG7FxmftWWh7lGCLCMc6uclDrRaCgXPOifTCFEy0HTuK4fq3rkmuZ7n8cKFC4Ah5-hNiHy-WrtcC9dwNbDt9ycZXFJvQVpP0QzJBXbJo0h0aRsroh1ebWkhk5Gnu5vzwlpW4OgwLeovKNhaCpdxNWRxfyhjBfFzqi8UBZKSupv8F911MbR5JA_ygR1pqn2pDVXPdVLs1Cw1XL8CK6m6WJT1jmzxmL7VADi5VXW_ucM9zdTANDzfNgCrxOwhVfqtwyRcGcta-h-43C7toer48qYsUpUdHWK_p3eFtbpk5eSpz9X9w2WhKOIz3ZAQBqup9OHWw31FWS5aHadkbHfpYMFXmEQLLrX5f4tHtvA2mWcIxo6q0SOct_BdNsGu08fchSH42nhoxglI7xdrvnODSl7895x=w1312-h984-no?authuser=0)
+*[changing pad cover](https://amzn.to/3UEsPT6) | [mini fridge](https://amzn.to/3C5gLTO) | [bottle warmer](https://amzn.to/3SmftZU)*
+
+I especially love the colors of the room! I wanted it to be bright, happy, and gender-neutral. The color scheme was inspired by the whimsical bedding.
+
+![floor bed](https://lh3.googleusercontent.com/TVk2G_apglL3lo7ZiIwOQkHEaRre7AfqeM6F79eDx5Y4MToBiddedVo_jK7PalLuMLhQsKSLoDyXADahQjGkstP0XtbYKxFY_L5I3RilJIW5NU068_pzhV9SqYef9gaDfe7cRy9QQ5OvCogGNo525qSH_ZIW7NyIQRMh1p0xjsPeu-x9Vbo_5lBUhjF3HAkkIFymbQ5iXW8jUpd2zUBA09galwsSXrSRD_BZzNcsms9AaT8t2WrWbzzKYUOYywLXmkWcVjwMEhhZf0LR8IJAvpW54-0Ey4kzPLrhn22PBU9-t_eL-15SXBZO_eJmlp7w3dG0G0R0ZjCXIZfqXOGAMrW1AJK9rJbqQBe0mMzjqvyNx5lCG066naDDWKzn9j_7qz9Th7NdL0BrcHxvoRtqYjMCs5GI0FPtyln7xJbOwCAsx6xnOxMWX-cWXtsKnerjVJttQMzVH9Aq_LUx_hAxSU33Sd8mmLVzYnt96_-n_spoP_AZNhw_Edi-WjNg8YsaIG2HNQLds5IKOqw4LVsNYUKHym1C1EXM9g6MwbwjPfOY7zxP0BVnv8TzzJwg4yJXQ98rzagdPyGxFUbi-Lz3ZLmHvpWgO8s7o3ZDYbcgVnSxeV_IcQICoUqSc9OIm-K7NjaUd6wh-8fuLvNIKKB22utADTpTzmJaGxVnqQYIJlmJDFLlv18ENIPaMMjT-Y9mjO0fxQqimQLhRfJM_pMwOU0UWFtxuJFEjLVPYjFzPKZSUJQDghNRmrO5H4znskKJV4m0yCkGo_k9kEbeR8KPekUdALnOcyQz555reJnlWIvdy4xUlAnqeQ=w1312-h984-no?authuser=0)
+*[bassinet](https://amzn.to/3r2NpiD) | [baby monitor](https://amzn.to/3C7osbX) | [reading pillow](https://amzn.to/3dDYKCK) | [whale rug](https://amzn.to/3LDoVWF) | [bunkie board](https://amzn.to/3DSECY7)*
+
+I want this room to be a "yes space" for our kid, meaning everything in here will be baby-proofed and safe for him to explore once he becomes mobile. That's why we have a floor bed and not a crib. He'll eventually have the freedom to get out of bed and play independently before we come get him (or at least that's the hope :pray:). Until baby outgrows his bassinet, WE will use the bed!
+
+![vertical dresser view](https://lh3.googleusercontent.com/dKYhHfKiAXpm-LO57qW584ilHaZbL42GWYH2D-j7Wg96yOzRig6oh36MBJ-sE68gxC7VbLZ7l4BRphhnVDm_5E3ivs7bW_OJDmOFKS2cItr1ALvmkIRKwcWtS_KIRisLYWJnkk6L-ExC3PXiE--bKtvRC2KYYHsv3N_L0ORKavfd-lDnlfvs9IhRw9tS9uQyYlRHnNwLUJ88koTFdNJ6Ckt6EUNoqRb0ZFZ-fQ3P4XkO3O1A1XxOWL5tglGchIgkM71EL2OEjBLX_Bc1TExswKly8Ko_ZNCkjY52qr7piZNMZQh7UyEdwx1VEviEGoN6wjyvs2ZfOJFs7mXvupkPCjfiK2znI7qfJ9eqQNDXHaVTSdCbLljfD7ZpOpvGBUyL-9mkCf8eFh5gdHiofHtKu0YefJx-BcojYSbvJQF-wyUCB5onry1R4yBAfaoTw19R1j6RP4zrhLasMp-aIRgwibv0LMNGDbpwGfPlhVuIcHDZQMdApG_WUkUd4IAbIEELwClyIoS_xeVqc0kY8OgZg1Gr41rk_GxrHVsnOZa_0L7-mFprnhZQaD1a3tWynfsnkUVt9IBMBjcsrYI1fyPMsP3DT32EIYnvXAq5ukXtshnQJ5BJ4unOs6j_XAQIOl7AGSyuSAYZwfYh7_xJXnapxeSNuNQRvtJPBcFyWk_PFlgV_EtSeoTa7ZLQH2fGVJX2ZLev0aIoxqGu7Iji-Ny6U0tdhKbxQoM0Ux1QlgRsgpLas6EBpzZa9A1Zptg7mSV_9jhH3682TRYLlXe5vGTK2d5lfbPXp-PqvqsG_2MDpkpu7uFSIR-R-q0GXizlzlMDKzIu8lrC1tLvpcd8qX7kUuePtZ0_QeLjzc4d_nY2fa1f2GLyZdvbuGrAVf6b9TgxqbgIggoszrK2lt0FixmkFGxCriQqimiWDnKenl7RlEbQxKTjAUfUl3RSJSh4axDWJyPeq_ogdGbpWt4EbCYlpcDRhIqRynxA=w738-h984-no?authuser=0)
+
+It's such a fun, happy little space. I love the stuffies amassed from my own collection over the years, as well as the [crochet cacti](https://www.instagram.com/p/ChSTqy1r54E/?utm_source=ig_web_copy_link) that I made for him. He better know that this room was a labor of love from his mama!
+
+I'm sure the space will evolve as we figure out the best way to use it once the baby is actually here. Right now I imagine sharing the space with him in those early months. But who knows, babies are notorious for throwing your plans out the window!
+
+P.S. You can also [shop the nursery on Amazon](https://www.amazon.com/shop/play.with.dirt/list/1CJG7KSYRR83Y). I will get a small commission if you make a purchase through these links at no additional cost to you. Thanks for your support!
