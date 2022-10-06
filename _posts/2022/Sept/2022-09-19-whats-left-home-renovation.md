@@ -7,7 +7,7 @@ image: https://lh3.googleusercontent.com/PKZvOBxi-S8FFlNJ3Bs2LhCvicFAmL69tGXDVbR
 
 We've done a lot since moving into our home last May. A lot of renovations gave the house a nice facelift, but we also had to do a few that were absolutely necessary (looking at you, termite-control and broken water heater). Here's a list of everything we've done so far that has made a tremendous difference:
 
-- new windows
+- new windows & blinds
 - new floors and carpet
 - built-in bookcase
 - [kids bathroom makeover]({{ site.baseurl}}{% post_url /2022/Sept/2022-09-03-kids-bathroom-makeover %})
@@ -17,6 +17,7 @@ We've done a lot since moving into our home last May. A lot of renovations gave 
 - backyard pergola
 - garage to gym conversion
 - kitchen island re-paint and new sink
+- closet makeover
 
 <div class="row row-cols-1 row-cols-md-2 gy-4">
     <div class="col">
@@ -54,6 +55,7 @@ Even with all that done, I still have a list of stuff that I want to change/upda
 - Clean up our side yard and lay down pathing. I want to get rid of all the overrun weeds and lay down some stone pathing so that I can put a storage shed out here to hold all my garden/seasonal stuff.
 - Paint our guest room bathroom cabinets. I have a color theme that's partially executed with some cute peach-themed decor but it won't be complete until the cabinets are painted some shade of pink!
 - Re-wallpaper our powder room. I know, I know, didn't [I do that already]({{ site.baseurl}}{% post_url /2021/Sept/2021-09-07-diy-peel-stick-wallpaper-application %})? Yes. I did. And I made a huge mistake. I didn't listen to the pros and now I'm paying for it twice over. I'll talk about this wallpaper saga in another post!
+- Island fume hood in the kitchen. We fry things a lot and having a downdraft fume hood is just not enough. Been trying to figure out the logistics of how to install a fume hood above our kitchen island's stove...if you know who/how to do this, please share!
 
 ![kitchen window valences](https://lh3.googleusercontent.com/N6aIso8TSZQLuVbH6wYa45hioCVAm_yHZUz6O6z85K_KhSq9rhUoLUUwKR1J3cbNuNvdUdsC29EMBmisIPwl_iqM-S--hCzx_ujvh8YjDhDzKY_H_MdkZ3bMfWi38Thcwfz1PvMEjvT4gX2RHvG82YuclyLW6ZWdgC9uGY-Z3hS_ah9HuCWYzVo96gjJ7z7zDL-yA2uFVwm2th2LzLdqsZQqxYDbqV9UUVBxoJoBxcwAZl06w5VqZVmeNKgWPF7Bw7uHYAHJ4-4wCTHvSPuGYbgg8beuY5WUgrXT3y7BhjLArh2Lsso7qOycC724SllY3YovyHr-XJyBxVGogtY2kmghX_Q-umwBrJ0yROLR8NmD_YHSlzKvRdzkldoxAFRw3-bl0SOSF6vbtX-iQ0JGiYaaOs7jlfKVoIbSu0SLd9ks_wEkCgcG0DtHBiUCGyqBwK0g6v2OdjVGJmJ48yinNogsWptCOP38d98esOBQ4F9WJJp6AmRMD3MzJXAx9F1U3-fUbM51TTB1UJB16IMhZFs_TTN9R_Syixr6hQ1z-psGD1bItta8BAIUPdq_sbJ3misNaI8es096QZHyj249JZ5fjEWDea1Pxmicdh5MFdlOEPwZGa3cFNEihfjCT0PLgwjpIyQWp2GeLz2LhQ2GqZu03bbL5CVULx1grG_RdHKpXfKwfQygb1Twab075t5z0TN8TW4XfuphKDFUOR0qRa5OWH97tqKdiO9wnQY7rSX292eOvqN5aWO87uHv7Xp_u-NWoXICdeZ8icjxGagqiOWmKyaDlCDarW7yMPuP85mfsmDyFXbfvw=w768-h1024-no?authuser=0)
 *You can see those window valences here*
