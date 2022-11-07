@@ -10,6 +10,7 @@ I don't know what I'm thinking looking up new games that I want to try when this
 ## 1. Let's Build a Zoo
 
 ![Let's Build a Zoo](https://cdn.cloudflare.steamstatic.com/steam/apps/1547890/ss_7519de1394136f882fe012b5b14bf3b24167575c.1920x1080.jpg?t=1653583264)
+*[Buy on Amazon](https://amzn.to/3WJFZiC)*
 
 This game looks like OG Zoo Tycoon! I loved all the tycoon games growing up, so I'm really excited about this game. It's also supposed to be way more relaxed than Planet Zoo - yes, even Plant Zoo stresses me out because there's so much you can do! I'm hoping that this game will still be able to scratch my "zoo management" itch while being low-stakes enough to be relaxed fun. And from seeing the reviews, it looks to hit the mark!
 
@@ -26,6 +27,7 @@ Platform: Switch. Seems like a chill enough game where I can play on the couch a
 ## 3. Bear and Breakfast
 
 ![Bear and Breakfast](https://cdn.akamai.steamstatic.com/steam/apps/1136370/ss_cd82ac9ff2a0bfa7d2a6619fec75dd843a83d5b3.1920x1080.jpg?t=1664996213)
+*[Buy on Amazon](https://amzn.to/3UypYu8)*
 
 Yet another management-style game, only this time you're a BEAR in the woods opening up a B&B! The visuals are incredibly cute, you can customize/furnish your b&b, and I'm interested to see what kind of storyline this'll take. As you advance, you build the rooms according to guest specifications to get higher ratings. Not only is this a management-style game, but it also has a map that you can explore and unlock new locations to build even more b&b's. I can't wait to get a hold of this game!
 
@@ -46,6 +48,7 @@ These are all Early Access games that look great, but I think I can wait for the
 ### Disney Dreamlight Valley
 
 ![Disney Dreamlight Valley](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_700/ncom/en_US/games/switch/d/disney-dreamlight-valley-switch/hero)
+*[Buy on Amazon](https://amzn.to/3FSDhl6)*
 
 Everyone's raving about Disney's version of Sims. It even has farming and interior decorating! I think the nostalgia from all the Disney characters really appeals to people. But I think I can wait for this to come out (free to play!) in 2023.
 
