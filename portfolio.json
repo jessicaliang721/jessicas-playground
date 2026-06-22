@@ -1,0 +1,16 @@
+{
+    "longDescription": "Jessica's Playground is a personal blog built with Jekyll and hosted on GitHub Pages, created as a digital scrapbook for documenting the many hobbies and interests that inspire me outside of software engineering. The site chronicles my explorations in style, art, home decor, travel, entertainment, and other creative pursuits, serving as both a personal archive and a space for storytelling. \n\nI designed and developed the blog from the ground up, leveraging Jekyll's static site generation and GitHub Pages' seamless deployment workflow to create a lightweight, maintainable platform for publishing content. Beyond being a technical project, Jessica's Playground represents my belief that creativity and engineering complement one another. It provides a place to share the experiences, inspirations, and hobbies that shape my perspective, showcasing the intersection of my technical skills and my passion for creating and documenting meaningful moments.",
+    "highlights": [
+        "Developed a static blog platform using Jekyll and GitHub Pages",
+        "Built reusable blog layouts using Jekyll's HTML includes and templating system",
+        "Integrated a Disqus-powered commenting system into blog posts"
+    ],
+    "screenshots": {
+        "featured": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/featured.png",
+        "desktop": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/featured.png",
+        "tablet": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/tablet.png",
+        "mobile": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/mobile.png",
+        "blog post": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/blog-detail.png",
+        "blog category list": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/category-list.png"
+    }
+}
