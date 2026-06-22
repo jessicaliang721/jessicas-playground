@@ -6,11 +6,11 @@
         "Integrated a Disqus-powered commenting system into blog posts"
     ],
     "screenshots": {
-        "featured": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/featured.png",
-        "desktop": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/featured.png",
-        "tablet": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/tablet.png",
-        "mobile": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/mobile.png",
-        "blog post": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/blog-detail.png",
-        "blog category list": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/assets/images/screenshots/category-list.png"
+        "featured": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/gh-pages/assets/images/screenshots/featured.png",
+        "desktop": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/gh-pages/assets/images/screenshots/featured.png",
+        "tablet": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/gh-pages/assets/images/screenshots/tablet.png",
+        "mobile": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/gh-pages/assets/images/screenshots/mobile.png",
+        "blog post": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/gh-pages/assets/images/screenshots/blog-detail.png",
+        "blog category list": "https://raw.githubusercontent.com/jessicaliang721/jessicas-playground/gh-pages/assets/images/screenshots/category-list.png"
     }
 }
